@@ -148,16 +148,16 @@ From `scripts/verify_powerbi_data.py` against `data/cleaned/sales_cleaned.csv`:
 
 ## 9. QA Checklist
 
-- [ ] Total Revenue card = $190,809.49 (no filters)
-- [ ] Total Profit card = $74,378.00
-- [ ] Profit Margin card = 38.98%
-- [ ] Growth Rate 2024 = +8.28%; 2023 = −14.43%; blank for 2022
-- [ ] Monthly trend shows 36 chronological Year-Month points (Jan-2022 → Dec-2024, never alphabetical)
-- [ ] Quarterly chart shows 12 distinct Year-Quarter bars in order
-- [ ] Yearly chart values match Section 7
-- [ ] Top 5 products match Section 7 (with all years)
-- [ ] Bottom 5 products match Section 7 (ascending)
-- [ ] Region and category bars match Section 7
-- [ ] Year / Region / Category / Product slicers update every visual
-- [ ] Cross-filtering from bars updates other visuals; no blank/unexpected visuals
-- [ ] No DAX errors; no hard-coded values anywhere
+- [✅ ] Total Revenue card = $190,809.49 (no filters)
+- [ ✅] Total Profit card = $74,378.00
+- [ ✅] Profit Margin card = 38.98%
+- [ ✅] Growth Rate 2024 = +8.28%; 2023 = −14.43%; blank for 2022
+- [ ✅] Monthly trend shows 36 chronological Year-Month points (Jan-2022 → Dec-2024, never alphabetical)
+- [ ✅] Quarterly chart shows 12 distinct Year-Quarter bars in order
+- [ ✅] Yearly chart values match Section 7
+- [ ✅] Top 5 products match Section 7 (with all years)
+- [ ✅] Bottom 5 products match Section 7 (ascending)
+- [ ✅] Region and category bars match Section 7
+- [ ✅] Year / Region / Category / Product slicers update every visual
+- [ ✅] Cross-filtering from bars updates other visuals; no blank/unexpected visuals
+- [ ✅] No DAX errors; no hard-coded values anywhere
