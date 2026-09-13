@@ -1,0 +1,79 @@
+-- ============================================================================
+-- Syntecxhub Sales Performance Dashboard — Power BI DAX (FINAL)
+--
+-- Model : sales_cleaned (fact)  +  Date (dimension, marked as date table)
+-- Source: data/cleaned/sales_cleaned.csv
+-- Paste order: Date table first, then the four measures.
+-- ============================================================================
+
+-- ----------------------------------------------------------------------------
+-- STEP 0 — DATE TABLE
+-- Modeling > New table > paste. Then select [Date] > Table tools >
+-- "Mark as date table".  (Contiguous daily table, no gaps.)
+-- ----------------------------------------------------------------------------
+
+Date =
+ADDCOLUMNS(
+    CALENDAR(DATE(2022, 1, 1), DATE(2024, 12, 31)),
+    "Year",         YEAR([Date]),
+    "Quarter",      "Q" & QUARTER([Date]),
+    "Year-Quarter", FORMAT([Date], "YYYY") & "-Q" & QUARTER([Date]),
+    "Month",        FORMAT([Date], "MMM"),
+    "Month Number", MONTH([Date]),
+    "Year-Month",   FORMAT([Date], "YYYY-MM")
+)
+
+-- After creating the table:
+--   1. Date[Month]       -> Sort by column -> Date[Month Number]  (NOT alphabetical)
+--   2. Date[Year-Month]  -> Sort by column -> Date[Date]          (chronological)
+--   3. Modeling > Manage relationships:
+--        Date[Date] (1) -> sales_cleaned[Order_Date] (*), single filter direction
+-- Use Date[Year-Quarter] (e.g. "2024-Q3") on the quarterly chart so identical
+-- quarter labels from different years are never merged into one bar.
+
+-- ----------------------------------------------------------------------------
+-- MEASURES — Modeling > New measure > paste one block at a time > Enter
+-- ----------------------------------------------------------------------------
+
+Total Revenue =
+SUM(sales_cleaned[Sales])
+
+-- Format: Currency (USD), 2 decimals, thousands separator on
+
+Total Profit =
+SUM(sales_cleaned[Profit])
+
+-- Format: Currency (USD), 2 decimals, thousands separator on
+
+Profit Margin =
+DIVIDE(
+    [Total Profit],
+    [Total Revenue],
+    0
+)
+
+-- Format: Percentage, 2 decimals
+-- DIVIDE() handles zero/negative revenue without errors.
+
+Growth Rate =
+VAR CurrentRevenue = [Total Revenue]
+VAR PreviousRevenue =
+    CALCULATE(
+        [Total Revenue],
+        DATEADD(Date[Date], -1, YEAR)
+    )
+RETURN
+    DIVIDE(
+        CurrentRevenue - PreviousRevenue,
+        PreviousRevenue,
+        BLANK()
+    )
+
+-- Format: Percentage, 2 decimals
+-- Year-over-year revenue growth: (current - previous) / previous.
+-- Returns BLANK() when the prior-year window has no data (e.g., 2022 vs 2021),
+-- instead of a misleading -100%. Requires the Date table relationship.
+--   Yearly view  : 2023 = -14.43%, 2024 = +8.28%
+--   Monthly view : each month vs the same month of the prior year.
+-- Recommended page default filter: Year = 2024, so the Growth Rate KPI card
+-- shows a meaningful +8.28% instead of a cross-window figure.

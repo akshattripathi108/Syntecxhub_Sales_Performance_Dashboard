@@ -1,0 +1,2701 @@
+Order_Date,Product,Category,Region,Sales,Profit
+10-05-2024,Hand Cream Tube,Beauty & Personal Care,North America,47.05,24.07
+27-11-2022,Phone Grip Stand,Electronics,Europe,11.13,5.82
+09-02-2024,USB-C Charging Cable,Electronics,Middle East,29.47,15.22
+05-04-2023,Dark Chocolate Bar,Food & Beverages,Asia Pacific,5.98,2.71
+26-05-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,28.46,10.67
+18-11-2023,Organic Green Tea Box,Food & Beverages,Asia Pacific,14.79,6.15
+09-10-2023,Classic Cotton T-Shirt,Clothing,North America,36.22,22.7
+30-08-2022,Bluetooth Speaker Mini,Electronics,Europe,58.74,17.88
+13-08-2024,A4 Notebook Hardcover,Office Supplies,North America,21.89,11.06
+22-10-2024,Laptop Stand Adjustable,Electronics,Europe,40.43,13.2
+06-02-2023,Face Moisturizer Cream,Beauty & Personal Care,Latin America,67.56,33.38
+26-03-2024,Water Bottle Stainless Steel,Sports & Outdoors,Europe,55.41,26.49
+21-12-2023,Smart Watch Basic,Electronics,Middle East,288.4,92.02
+07-07-2022,USB-C Charging Cable,Electronics,Asia Pacific,15.5,6.08
+05-06-2023,Laptop Stand Adjustable,Electronics,Latin America,22.7,9.44
+16-08-2023,Winter Jacket Premium,Clothing,Middle East,493.21,166.89
+14-10-2024,Organic Green Tea Box,Food & Beverages,North America,61.28,24.43
+07-12-2024,Mechanical Pencil Set,Office Supplies,Europe,40.14,20.62
+27-12-2023,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,9.72,4.65
+25-10-2024,USB-C Charging Cable,Electronics,Asia Pacific,33.28,15.08
+04-11-2024,Ballpoint Pen Box of 12,Office Supplies,North America,11.84,6.88
+18-07-2023,Casual Button-Down Shirt,Clothing,Asia Pacific,83.49,44.77
+25-06-2023,Bath Soap Pack,Beauty & Personal Care,North America,12.86,6.35
+01-08-2023,A4 Notebook Hardcover,Office Supplies,Asia Pacific,14.29,6.35
+09-07-2022,Yoga Mat Premium,Sports & Outdoors,North America,77.58,38.24
+11-12-2023,Organic Green Tea Box,Food & Beverages,Asia Pacific,17.2,6.4
+15-11-2023,Resistance Bands Set,Sports & Outdoors,North America,25.09,12.76
+18-03-2023,Face Moisturizer Cream,Beauty & Personal Care,Africa,11.59,5.23
+09-08-2024,Dark Chocolate Bar,Food & Beverages,North America,22.52,8.77
+20-01-2023,Wireless Bluetooth Headphones,Electronics,North America,94.99,38.09
+04-09-2022,Wool Blend Sweater,Clothing,Middle East,146.23,70.31
+07-10-2022,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,96.29,44.28
+24-05-2022,Indoor Planter Pot,Home & Garden,Latin America,20.41,7.04
+22-10-2023,Dark Chocolate Bar,Food & Beverages,Europe,8.31,4.08
+13-05-2024,Denim Jeans Regular Fit,Clothing,North America,361.97,174.67
+21-05-2024,Winter Jacket Premium,Clothing,North America,284.18,96.11
+20-09-2022,Indoor Planter Pot,Home & Garden,Middle East,73.55,29.68
+02-01-2022,Bluetooth Speaker Mini,Electronics,Africa,77.37,28.46
+11-10-2024,Laptop Stand Adjustable,Electronics,Europe,41.69,17.73
+01-06-2022,Wall Decor Frame,Home & Garden,Europe,184.87,87.79
+14-04-2022,Bluetooth Speaker Mini,Electronics,Asia Pacific,39.13,13.55
+02-07-2024,Throw Pillow Cover,Home & Garden,North America,72.65,36.46
+10-06-2022,Throw Pillow Cover,Home & Garden,North America,31.43,14.48
+05-02-2023,Hair Shampoo 300ml,Beauty & Personal Care,Europe,28.11,13.17
+11-11-2024,Mixed Nuts Pack,Food & Beverages,North America,88.99,49.73
+27-01-2022,Smart Watch Basic,Electronics,Latin America,155.34,43.4
+29-03-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,19.87,9.66
+17-01-2022,A4 Notebook Hardcover,Office Supplies,Africa,4.87,2.44
+26-11-2024,Phone Grip Stand,Electronics,Africa,4.37,2.49
+19-09-2024,Wall Decor Frame,Home & Garden,North America,41.36,16.16
+08-05-2022,Laptop Stand Adjustable,Electronics,Europe,49.37,21.18
+17-11-2023,Ballpoint Pen Box of 12,Office Supplies,North America,27.64,12.82
+04-06-2022,Energy Drink 6-Pack,Food & Beverages,Europe,18.47,7.9
+03-09-2022,Hand Cream Tube,Beauty & Personal Care,Europe,13.37,7.6
+09-07-2024,Lip Balm Set,Beauty & Personal Care,Asia Pacific,15.19,7.89
+20-01-2022,LED Desk Lamp,Home & Garden,Asia Pacific,81.01,31.67
+16-04-2023,Wireless Keyboard,Office Supplies,North America,174.2,58.62
+20-02-2022,Casual Button-Down Shirt,Clothing,Europe,82.69,44.17
+01-11-2022,Wireless Mouse,Electronics,North America,122.44,43.5
+19-09-2024,Smart Watch Basic,Electronics,Latin America,103.29,28.55
+13-02-2024,Organic Green Tea Box,Food & Beverages,North America,38.08,16.65
+18-10-2023,Energy Drink 6-Pack,Food & Beverages,Africa,8.79,4.59
+10-04-2024,Laptop Stand Adjustable,Electronics,Europe,83.78,28.82
+01-03-2024,Organic Green Tea Box,Food & Beverages,Europe,32.8,15.49
+12-03-2024,Bluetooth Speaker Mini,Electronics,North America,58.99,22.01
+15-06-2024,Wall Decor Frame,Home & Garden,Africa,29.1,12.63
+04-09-2022,Dark Chocolate Bar,Food & Beverages,North America,19.15,7.63
+28-12-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,28.98,11.77
+30-06-2024,Hand Cream Tube,Beauty & Personal Care,North America,16.69,7.83
+23-12-2022,LED Desk Lamp,Home & Garden,Europe,166.34,50.28
+01-02-2024,Wool Blend Sweater,Clothing,Africa,50.79,24.12
+05-11-2024,LED Desk Lamp,Home & Garden,North America,126.72,45.49
+01-05-2024,Throw Pillow Cover,Home & Garden,Asia Pacific,20.36,9.65
+22-11-2023,Winter Jacket Premium,Clothing,Latin America,255.37,80.09
+02-12-2024,Dark Chocolate Bar,Food & Beverages,North America,12.16,4.68
+14-05-2023,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,8.16,4.33
+27-08-2024,Wireless Mouse,Electronics,North America,138.53,49.07
+17-02-2023,Hair Shampoo 300ml,Beauty & Personal Care,North America,17.9,8.17
+02-04-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,19.76,9.13
+05-10-2024,Wool Blend Sweater,Clothing,Latin America,43.33,21.6
+06-10-2022,A4 Notebook Hardcover,Office Supplies,Middle East,10.77,4.85
+30-12-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,120.33,39.01
+17-03-2022,Wool Blend Sweater,Clothing,Europe,434.79,194.63
+24-05-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,17.83,8.44
+23-07-2023,Wall Decor Frame,Home & Garden,North America,229.84,110.9
+26-09-2023,Dark Chocolate Bar,Food & Beverages,Europe,34.18,13.61
+11-08-2023,Hand Cream Tube,Beauty & Personal Care,Middle East,25.9,14.83
+19-06-2022,Ballpoint Pen Box of 12,Office Supplies,Europe,48.12,25.12
+05-12-2022,Organic Green Tea Box,Food & Beverages,Asia Pacific,58.8,22.74
+05-08-2022,Scented Candle Set,Home & Garden,Asia Pacific,26.94,12.06
+25-05-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,42.81,12.1
+22-06-2022,Organic Green Tea Box,Food & Beverages,North America,22.95,8.54
+08-04-2024,Smart Watch Basic,Electronics,Latin America,195.83,50.51
+20-05-2023,Scented Candle Set,Home & Garden,Europe,35.42,14.62
+14-05-2022,Kitchen Herb Garden,Home & Garden,Latin America,93.4,35.37
+21-03-2022,Dark Chocolate Bar,Food & Beverages,Asia Pacific,28.77,13.16
+16-02-2022,Wireless Mouse,Electronics,Asia Pacific,48.14,19.99
+18-10-2023,Winter Jacket Premium,Clothing,Middle East,580.78,151.12
+24-12-2022,Wireless Keyboard,Office Supplies,Europe,185.71,53.87
+31-03-2022,Scented Candle Set,Home & Garden,Europe,28.58,12.32
+10-01-2024,Winter Jacket Premium,Clothing,Africa,136.97,38.74
+06-04-2023,Bath Soap Pack,Beauty & Personal Care,Middle East,6.36,3.83
+01-06-2024,Sticky Notes Pad,Office Supplies,Middle East,9.9,6.15
+26-05-2024,Kitchen Herb Garden,Home & Garden,North America,45.5,18.09
+26-06-2022,Bath Soap Pack,Beauty & Personal Care,Europe,22.52,13.61
+20-11-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,8.25,3.46
+02-04-2024,Denim Jeans Regular Fit,Clothing,Latin America,124.71,68.78
+12-11-2024,Mixed Nuts Pack,Food & Beverages,Middle East,38.92,17.98
+02-04-2023,Classic Cotton T-Shirt,Clothing,North America,187.58,94.77
+30-05-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,13.95,4.54
+07-09-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,25.59,14.71
+13-12-2024,A4 Notebook Hardcover,Office Supplies,Africa,8.57,3.96
+06-02-2024,Mixed Nuts Pack,Food & Beverages,North America,50.28,26.68
+11-03-2023,Face Moisturizer Cream,Beauty & Personal Care,Africa,25.42,12.6
+08-03-2024,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,21.63,9.21
+10-09-2024,Face Moisturizer Cream,Beauty & Personal Care,Africa,12.23,6.22
+07-03-2024,Kitchen Herb Garden,Home & Garden,North America,156.5,58.06
+10-09-2024,LED Desk Lamp,Home & Garden,North America,142.49,45.52
+12-02-2022,Organic Green Tea Box,Food & Beverages,North America,17.49,6.52
+05-04-2022,Classic Cotton T-Shirt,Clothing,Europe,58.95,34.33
+08-10-2022,Mechanical Pencil Set,Office Supplies,Latin America,7.06,3.18
+26-09-2023,Sticky Notes Pad,Office Supplies,North America,25.6,13.44
+18-06-2023,Laptop Stand Adjustable,Electronics,North America,58.32,20.21
+30-06-2023,Portable Power Bank 10000mAh,Electronics,North America,64.79,18.2
+16-02-2022,Phone Grip Stand,Electronics,Asia Pacific,8.7,4.9
+03-12-2022,Denim Jeans Regular Fit,Clothing,Europe,306.03,132.99
+20-12-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,45.99,25.78
+19-03-2022,Wool Blend Sweater,Clothing,Europe,152.41,63.49
+27-10-2024,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,48.15,17.38
+16-03-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,11.15,4.83
+15-12-2023,Wireless Mouse,Electronics,Asia Pacific,100.33,40.56
+21-06-2023,Wall Decor Frame,Home & Garden,Latin America,44.73,20.42
+19-04-2022,Wall Decor Frame,Home & Garden,Asia Pacific,59.37,25.37
+18-01-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,15.03,7.06
+11-11-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,10.6,4.2
+16-09-2023,Desk Organizer Tray,Office Supplies,North America,35.16,12.68
+02-04-2024,Mixed Nuts Pack,Food & Beverages,Latin America,7.4,3.92
+08-07-2024,Ballpoint Pen Box of 12,Office Supplies,North America,17.21,9.93
+08-10-2023,Wireless Bluetooth Headphones,Electronics,Africa,31.75,12.18
+13-07-2022,Phone Grip Stand,Electronics,Asia Pacific,21.49,11.61
+22-11-2022,A4 Notebook Hardcover,Office Supplies,Africa,11.27,5.43
+20-05-2022,Dark Chocolate Bar,Food & Beverages,North America,20.62,9.5
+19-05-2022,Bath Soap Pack,Beauty & Personal Care,Africa,3.58,1.89
+10-01-2022,Indoor Planter Pot,Home & Garden,Asia Pacific,47.46,20.04
+17-11-2022,Phone Grip Stand,Electronics,North America,12.91,6.4
+14-11-2022,Energy Drink 6-Pack,Food & Beverages,Middle East,9.12,5.02
+11-08-2023,Water Bottle Stainless Steel,Sports & Outdoors,Europe,132.53,48.12
+22-05-2024,Wool Blend Sweater,Clothing,Middle East,172.19,70.2
+30-04-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,19.98,10.01
+30-03-2022,Wireless Bluetooth Headphones,Electronics,Middle East,58.39,22.89
+26-02-2023,Mixed Nuts Pack,Food & Beverages,Asia Pacific,10.68,5.11
+03-10-2024,Mechanical Pencil Set,Office Supplies,Europe,29.56,15.33
+17-07-2022,Running Sneakers,Clothing,Africa,87.02,29.49
+04-11-2024,Mechanical Pencil Set,Office Supplies,Latin America,7.54,3.85
+06-06-2022,Bluetooth Speaker Mini,Electronics,North America,71.78,25.42
+15-07-2022,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,36.26,17.96
+16-03-2024,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.02,4.3
+15-01-2022,Hand Cream Tube,Beauty & Personal Care,Latin America,4.82,2.67
+10-05-2022,Mechanical Pencil Set,Office Supplies,North America,37.41,19.92
+10-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,37.74,15.59
+23-01-2022,Casual Button-Down Shirt,Clothing,Europe,151.85,81.0
+15-08-2024,Denim Jeans Regular Fit,Clothing,North America,100.95,49.81
+30-09-2024,LED Desk Lamp,Home & Garden,Asia Pacific,102.46,38.09
+05-10-2024,Wool Blend Sweater,Clothing,Asia Pacific,117.87,56.8
+18-02-2024,A4 Notebook Hardcover,Office Supplies,Europe,17.76,8.8
+09-09-2024,Desk Organizer Tray,Office Supplies,Africa,31.61,12.99
+23-10-2023,Wireless Bluetooth Headphones,Electronics,Europe,171.64,65.26
+25-07-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,24.39,12.37
+20-04-2023,Scented Candle Set,Home & Garden,Middle East,17.36,7.7
+26-10-2023,Sticky Notes Pad,Office Supplies,Asia Pacific,4.64,2.41
+12-10-2022,USB-C Charging Cable,Electronics,Asia Pacific,20.05,9.47
+24-08-2024,Phone Grip Stand,Electronics,Africa,4.65,2.58
+22-12-2024,LED Desk Lamp,Home & Garden,Africa,55.02,16.76
+03-08-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,36.1,18.59
+05-03-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,69.56,24.8
+06-10-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,33.51,10.92
+10-04-2024,Gourmet Coffee Beans 1lb,Food & Beverages,North America,25.55,10.44
+17-02-2024,Wireless Keyboard,Office Supplies,Europe,127.21,34.91
+28-10-2024,Laptop Stand Adjustable,Electronics,North America,44.03,17.6
+24-11-2022,Laptop Stand Adjustable,Electronics,North America,137.51,54.65
+03-10-2024,Sticky Notes Pad,Office Supplies,Middle East,13.12,7.44
+24-03-2024,Wireless Mouse,Electronics,Latin America,18.6,6.78
+05-01-2024,A4 Notebook Hardcover,Office Supplies,Europe,15.7,7.56
+27-05-2022,Classic Cotton T-Shirt,Clothing,North America,158.34,92.41
+25-03-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,23.95,12.63
+31-01-2023,Foldable Camping Chair,Sports & Outdoors,Latin America,29.58,9.08
+12-12-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,61.33,28.45
+15-12-2023,Wool Blend Sweater,Clothing,Asia Pacific,422.73,172.09
+10-06-2023,Mixed Nuts Pack,Food & Beverages,Middle East,21.4,9.79
+09-05-2023,Desk Organizer Tray,Office Supplies,Africa,20.55,7.66
+16-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,16.57,7.45
+03-02-2022,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,39.7,15.21
+08-12-2022,Winter Jacket Premium,Clothing,North America,1624.98,501.74
+25-09-2022,A4 Notebook Hardcover,Office Supplies,Asia Pacific,14.37,7.12
+07-09-2024,Casual Button-Down Shirt,Clothing,Europe,91.64,42.88
+29-03-2024,Sparkling Water 12-Pack,Food & Beverages,North America,34.5,19.75
+11-01-2022,Kitchen Herb Garden,Home & Garden,Europe,54.78,22.35
+08-04-2022,Bath Soap Pack,Beauty & Personal Care,Europe,46.66,25.54
+21-01-2024,LED Desk Lamp,Home & Garden,Europe,92.83,32.46
+31-12-2022,Resistance Bands Set,Sports & Outdoors,North America,71.41,34.04
+23-10-2022,Desk Organizer Tray,Office Supplies,Middle East,17.24,6.76
+28-11-2024,Resistance Bands Set,Sports & Outdoors,North America,23.94,13.65
+12-04-2022,Phone Grip Stand,Electronics,Asia Pacific,8.67,4.88
+14-08-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,26.32,8.76
+04-08-2022,Organic Green Tea Box,Food & Beverages,Middle East,25.38,11.38
+02-09-2024,Wireless Mouse,Electronics,Latin America,18.85,6.91
+04-05-2023,Indoor Planter Pot,Home & Garden,Africa,15.11,6.82
+07-09-2024,USB-C Charging Cable,Electronics,Asia Pacific,11.34,5.46
+01-06-2024,Face Moisturizer Cream,Beauty & Personal Care,Africa,75.76,36.08
+16-09-2024,Ballpoint Pen Box of 12,Office Supplies,North America,13.27,7.2
+21-09-2024,Organic Green Tea Box,Food & Beverages,Asia Pacific,15.26,6.47
+12-09-2024,Face Moisturizer Cream,Beauty & Personal Care,Middle East,20.52,9.97
+08-09-2024,Organic Green Tea Box,Food & Beverages,Europe,40.69,17.68
+12-06-2024,Wireless Bluetooth Headphones,Electronics,Europe,126.48,37.63
+28-11-2024,Wireless Mouse,Electronics,North America,38.53,13.27
+18-01-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,33.53,18.84
+09-07-2024,Portable Power Bank 10000mAh,Electronics,Europe,125.54,34.19
+11-01-2023,Organic Green Tea Box,Food & Beverages,Europe,14.48,5.24
+06-12-2023,Wireless Mouse,Electronics,Africa,14.93,5.78
+21-08-2024,Smart Watch Basic,Electronics,North America,1021.25,250.73
+11-12-2023,Indoor Planter Pot,Home & Garden,Africa,72.69,32.6
+14-08-2022,Wireless Mouse,Electronics,North America,228.46,103.52
+03-06-2024,Mechanical Pencil Set,Office Supplies,Latin America,7.85,3.79
+25-07-2024,Gourmet Coffee Beans 1lb,Food & Beverages,North America,96.71,31.87
+06-12-2024,Dark Chocolate Bar,Food & Beverages,North America,26.94,12.21
+23-02-2023,Sticky Notes Pad,Office Supplies,Middle East,7.02,4.23
+20-02-2024,Winter Jacket Premium,Clothing,North America,513.34,157.7
+09-08-2024,A4 Notebook Hardcover,Office Supplies,Europe,22.29,11.4
+19-06-2022,Classic Cotton T-Shirt,Clothing,Latin America,36.35,17.52
+10-09-2024,Wireless Keyboard,Office Supplies,Europe,78.55,21.73
+02-07-2024,Wireless Keyboard,Office Supplies,North America,108.83,30.4
+16-08-2023,Foldable Camping Chair,Sports & Outdoors,North America,355.27,127.55
+29-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,25.35,10.73
+02-12-2022,Foldable Camping Chair,Sports & Outdoors,Middle East,167.35,56.9
+29-12-2022,Yoga Mat Premium,Sports & Outdoors,North America,313.31,149.41
+01-12-2023,Casual Button-Down Shirt,Clothing,North America,324.81,145.05
+19-06-2023,Bluetooth Speaker Mini,Electronics,North America,214.44,79.44
+23-03-2022,Bluetooth Speaker Mini,Electronics,Latin America,81.1,22.8
+05-12-2024,Water Bottle Stainless Steel,Sports & Outdoors,Europe,68.76,27.81
+24-03-2023,Throw Pillow Cover,Home & Garden,Asia Pacific,49.73,25.74
+09-08-2023,Water Bottle Stainless Steel,Sports & Outdoors,Europe,93.13,35.35
+06-02-2022,Yoga Mat Premium,Sports & Outdoors,North America,235.27,92.15
+01-01-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,52.03,23.23
+22-01-2022,Portable Power Bank 10000mAh,Electronics,Asia Pacific,32.87,12.01
+12-10-2022,Bath Soap Pack,Beauty & Personal Care,Europe,18.56,9.85
+29-01-2022,Bath Soap Pack,Beauty & Personal Care,North America,9.49,5.64
+24-07-2023,Bluetooth Speaker Mini,Electronics,North America,78.24,29.26
+01-02-2023,Portable Power Bank 10000mAh,Electronics,Latin America,46.0,13.83
+31-08-2024,Kitchen Herb Garden,Home & Garden,North America,48.38,22.04
+15-09-2024,Indoor Planter Pot,Home & Garden,Africa,14.24,5.52
+24-07-2023,Bluetooth Speaker Mini,Electronics,Latin America,31.81,9.02
+03-03-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,26.43,10.18
+19-12-2024,Casual Button-Down Shirt,Clothing,North America,239.29,134.54
+18-07-2022,Casual Button-Down Shirt,Clothing,Asia Pacific,40.78,23.88
+17-06-2024,A4 Notebook Hardcover,Office Supplies,North America,22.67,10.5
+05-06-2023,Resistance Bands Set,Sports & Outdoors,North America,29.12,14.92
+27-04-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,25.9,12.75
+01-10-2022,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,16.74,7.5
+11-01-2022,Running Sneakers,Clothing,Middle East,169.62,55.55
+02-08-2022,Dark Chocolate Bar,Food & Beverages,Middle East,5.18,2.38
+15-08-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,14.03,6.84
+30-08-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,48.09,17.46
+12-08-2023,Wireless Mouse,Electronics,North America,44.74,18.26
+02-05-2022,Resistance Bands Set,Sports & Outdoors,Latin America,11.7,5.16
+13-11-2022,Ballpoint Pen Box of 12,Office Supplies,Middle East,6.84,3.08
+07-07-2023,Bluetooth Speaker Mini,Electronics,Middle East,164.21,59.09
+21-04-2022,Portable Power Bank 10000mAh,Electronics,Latin America,27.18,8.82
+22-01-2022,Bath Soap Pack,Beauty & Personal Care,Europe,16.39,9.64
+28-08-2024,A4 Notebook Hardcover,Office Supplies,Middle East,24.86,11.12
+02-05-2022,Wireless Bluetooth Headphones,Electronics,Europe,110.75,43.08
+05-11-2022,Laptop Stand Adjustable,Electronics,Middle East,24.76,10.03
+24-10-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,43.24,14.37
+25-01-2024,Wool Blend Sweater,Clothing,Middle East,37.73,15.75
+11-05-2024,Yoga Mat Premium,Sports & Outdoors,Africa,21.17,9.89
+02-01-2024,Sticky Notes Pad,Office Supplies,Europe,27.74,16.94
+31-08-2023,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,55.73,18.4
+01-12-2022,Winter Jacket Premium,Clothing,Africa,103.17,31.81
+29-09-2023,Kitchen Herb Garden,Home & Garden,North America,84.46,36.14
+16-05-2024,Portable Power Bank 10000mAh,Electronics,Latin America,26.93,8.96
+10-06-2023,Wool Blend Sweater,Clothing,Africa,35.98,16.15
+14-11-2022,Wall Decor Frame,Home & Garden,North America,42.77,18.39
+10-05-2022,Wireless Bluetooth Headphones,Electronics,North America,237.11,80.48
+18-09-2022,Wall Decor Frame,Home & Garden,Europe,104.99,50.31
+14-10-2022,Mixed Nuts Pack,Food & Beverages,North America,16.14,8.12
+23-04-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,8.37,3.9
+28-05-2023,Energy Drink 6-Pack,Food & Beverages,Europe,15.44,7.65
+18-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,17.2,7.89
+05-06-2022,Ballpoint Pen Box of 12,Office Supplies,Latin America,13.05,5.84
+30-11-2022,Sticky Notes Pad,Office Supplies,North America,18.24,8.64
+29-04-2022,Denim Jeans Regular Fit,Clothing,North America,80.93,34.22
+22-11-2023,Casual Button-Down Shirt,Clothing,North America,61.43,36.4
+06-05-2022,Energy Drink 6-Pack,Food & Beverages,Africa,11.33,5.36
+10-05-2023,Winter Jacket Premium,Clothing,Asia Pacific,199.27,53.07
+04-11-2022,Portable Power Bank 10000mAh,Electronics,Middle East,28.96,10.58
+09-05-2022,Face Moisturizer Cream,Beauty & Personal Care,Middle East,21.14,11.56
+07-11-2022,A4 Notebook Hardcover,Office Supplies,Africa,5.42,2.25
+30-10-2022,Portable Power Bank 10000mAh,Electronics,Asia Pacific,37.14,12.56
+11-03-2024,Scented Candle Set,Home & Garden,Asia Pacific,95.84,45.29
+27-12-2022,Portable Power Bank 10000mAh,Electronics,North America,166.26,45.99
+19-11-2023,Portable Power Bank 10000mAh,Electronics,Middle East,26.81,7.57
+09-05-2023,Face Moisturizer Cream,Beauty & Personal Care,Africa,13.78,7.36
+30-04-2024,Foldable Camping Chair,Sports & Outdoors,Latin America,33.24,11.11
+26-12-2023,Mechanical Pencil Set,Office Supplies,Europe,19.02,10.07
+07-04-2024,Desk Organizer Tray,Office Supplies,Asia Pacific,47.66,18.75
+12-04-2022,Wool Blend Sweater,Clothing,North America,212.69,99.14
+30-07-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,98.1,34.66
+21-09-2023,Mechanical Pencil Set,Office Supplies,Latin America,7.02,3.54
+01-09-2024,Laptop Stand Adjustable,Electronics,Asia Pacific,69.63,28.95
+13-05-2023,Running Sneakers,Clothing,Middle East,147.52,54.9
+02-12-2022,Wireless Mouse,Electronics,Asia Pacific,138.27,62.4
+20-11-2022,Hair Shampoo 300ml,Beauty & Personal Care,Africa,4.78,2.14
+04-10-2024,Wireless Mouse,Electronics,Asia Pacific,55.69,22.49
+16-04-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,34.26,12.68
+16-12-2022,Kitchen Herb Garden,Home & Garden,North America,99.06,39.92
+16-08-2024,Phone Grip Stand,Electronics,North America,30.6,17.43
+13-07-2023,Wireless Keyboard,Office Supplies,Africa,63.82,22.78
+15-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,North America,52.23,21.87
+07-08-2023,Face Moisturizer Cream,Beauty & Personal Care,Middle East,44.39,20.04
+26-10-2023,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,7.65,3.03
+19-09-2024,Smart Watch Basic,Electronics,Europe,178.98,55.67
+04-11-2023,Lip Balm Set,Beauty & Personal Care,North America,18.99,9.9
+14-09-2024,Laptop Stand Adjustable,Electronics,North America,97.87,38.66
+17-03-2023,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,187.73,89.43
+29-09-2023,Face Moisturizer Cream,Beauty & Personal Care,Middle East,46.8,19.96
+08-07-2023,Wireless Keyboard,Office Supplies,Africa,85.75,28.64
+14-03-2022,Desk Organizer Tray,Office Supplies,Europe,29.12,10.14
+15-07-2023,Scented Candle Set,Home & Garden,Latin America,34.26,16.07
+15-02-2024,Mixed Nuts Pack,Food & Beverages,Latin America,14.12,6.69
+08-12-2022,Winter Jacket Premium,Clothing,Middle East,975.54,297.73
+20-12-2022,Scented Candle Set,Home & Garden,Europe,41.14,16.23
+29-03-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,49.99,19.2
+22-03-2023,Mixed Nuts Pack,Food & Beverages,Europe,42.1,19.79
+06-09-2024,Kitchen Herb Garden,Home & Garden,Asia Pacific,24.44,11.17
+22-09-2023,Classic Cotton T-Shirt,Clothing,Africa,42.32,25.66
+29-05-2022,Bath Soap Pack,Beauty & Personal Care,North America,13.01,7.94
+09-10-2024,Sparkling Water 12-Pack,Food & Beverages,Latin America,16.01,7.17
+26-04-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,20.08,8.62
+31-01-2024,Scented Candle Set,Home & Garden,Asia Pacific,18.72,8.29
+07-11-2022,Wireless Mouse,Electronics,North America,127.84,52.16
+01-09-2022,Wireless Bluetooth Headphones,Electronics,North America,434.25,166.46
+14-05-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,22.92,9.76
+01-08-2023,Lip Balm Set,Beauty & Personal Care,North America,26.34,13.46
+23-09-2022,Wireless Keyboard,Office Supplies,Latin America,40.53,14.61
+12-04-2024,Bluetooth Speaker Mini,Electronics,Asia Pacific,119.25,39.38
+20-06-2024,Wireless Mouse,Electronics,North America,46.03,15.79
+21-06-2023,A4 Notebook Hardcover,Office Supplies,North America,26.58,10.6
+02-04-2022,Winter Jacket Premium,Clothing,Europe,497.88,131.69
+25-01-2023,Mechanical Pencil Set,Office Supplies,North America,14.56,6.99
+14-10-2022,Mixed Nuts Pack,Food & Beverages,North America,51.41,22.3
+21-11-2023,Classic Cotton T-Shirt,Clothing,North America,76.74,38.9
+29-05-2022,Throw Pillow Cover,Home & Garden,North America,28.33,14.38
+03-02-2024,Wireless Mouse,Electronics,Asia Pacific,45.95,16.91
+30-03-2024,Gourmet Coffee Beans 1lb,Food & Beverages,North America,56.87,23.07
+07-02-2024,LED Desk Lamp,Home & Garden,North America,61.91,23.8
+21-08-2023,Energy Drink 6-Pack,Food & Beverages,Africa,5.11,2.39
+12-01-2024,Wool Blend Sweater,Clothing,Europe,198.63,90.33
+06-03-2022,Resistance Bands Set,Sports & Outdoors,Europe,70.13,31.9
+22-06-2022,A4 Notebook Hardcover,Office Supplies,North America,24.0,11.28
+04-11-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,9.98,5.76
+16-09-2023,Lip Balm Set,Beauty & Personal Care,Middle East,10.74,5.2
+08-07-2023,Bath Soap Pack,Beauty & Personal Care,Latin America,26.15,15.62
+28-01-2023,Desk Organizer Tray,Office Supplies,Africa,23.33,8.71
+30-08-2022,Wireless Bluetooth Headphones,Electronics,North America,511.17,186.27
+12-03-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,10.2,5.92
+05-05-2024,Sparkling Water 12-Pack,Food & Beverages,Latin America,6.51,3.33
+28-10-2024,Bluetooth Speaker Mini,Electronics,North America,62.43,17.96
+12-02-2023,Classic Cotton T-Shirt,Clothing,North America,31.54,16.76
+01-01-2023,Mixed Nuts Pack,Food & Beverages,Africa,24.04,13.04
+17-07-2023,Phone Grip Stand,Electronics,North America,18.04,9.74
+18-05-2022,Bluetooth Speaker Mini,Electronics,North America,75.77,23.47
+26-12-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,10.28,4.74
+15-04-2024,Denim Jeans Regular Fit,Clothing,Latin America,76.05,31.49
+05-01-2023,Dark Chocolate Bar,Food & Beverages,Europe,7.09,2.82
+20-02-2024,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,20.63,10.37
+07-06-2023,Hair Shampoo 300ml,Beauty & Personal Care,North America,22.25,8.8
+03-05-2023,Winter Jacket Premium,Clothing,Europe,269.95,91.75
+18-02-2023,Indoor Planter Pot,Home & Garden,Africa,23.73,8.11
+02-05-2022,Winter Jacket Premium,Clothing,Latin America,423.42,142.99
+29-05-2022,Hand Cream Tube,Beauty & Personal Care,Middle East,8.22,4.57
+09-10-2023,Mixed Nuts Pack,Food & Beverages,North America,16.65,8.96
+18-06-2023,Mechanical Pencil Set,Office Supplies,Asia Pacific,23.87,12.6
+12-03-2023,Sticky Notes Pad,Office Supplies,Latin America,3.6,2.18
+06-04-2023,Mixed Nuts Pack,Food & Beverages,Europe,51.49,26.61
+19-01-2022,Portable Power Bank 10000mAh,Electronics,North America,48.32,17.21
+16-05-2022,Laptop Stand Adjustable,Electronics,Europe,43.85,17.79
+25-03-2023,Hand Cream Tube,Beauty & Personal Care,Europe,12.9,7.02
+18-04-2023,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,44.46,16.93
+25-07-2024,Dark Chocolate Bar,Food & Beverages,Europe,21.07,10.47
+10-11-2022,Smart Watch Basic,Electronics,North America,394.98,125.79
+09-11-2024,Wireless Bluetooth Headphones,Electronics,Europe,92.26,35.94
+29-11-2023,Indoor Planter Pot,Home & Garden,Europe,41.35,18.45
+15-08-2022,Classic Cotton T-Shirt,Clothing,North America,72.45,36.0
+21-07-2022,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,11.9,5.43
+06-08-2023,Mixed Nuts Pack,Food & Beverages,Asia Pacific,24.55,12.57
+14-12-2024,Wool Blend Sweater,Clothing,Middle East,65.96,30.57
+08-06-2022,Resistance Bands Set,Sports & Outdoors,North America,32.77,14.66
+26-10-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,32.02,18.09
+19-01-2022,Water Bottle Stainless Steel,Sports & Outdoors,Europe,22.64,9.32
+10-04-2024,Ballpoint Pen Box of 12,Office Supplies,North America,27.68,16.54
+16-10-2024,Wireless Bluetooth Headphones,Electronics,Europe,93.7,32.76
+06-12-2024,Phone Grip Stand,Electronics,North America,20.16,9.73
+17-05-2022,Wireless Mouse,Electronics,Africa,13.37,6.12
+30-08-2024,Denim Jeans Regular Fit,Clothing,Middle East,98.25,49.96
+17-07-2023,A4 Notebook Hardcover,Office Supplies,Africa,7.39,3.7
+18-02-2022,Smart Watch Basic,Electronics,Europe,674.66,196.34
+30-09-2023,LED Desk Lamp,Home & Garden,Middle East,36.28,13.57
+19-03-2024,Face Moisturizer Cream,Beauty & Personal Care,North America,75.25,38.85
+11-09-2024,Ballpoint Pen Box of 12,Office Supplies,Africa,3.44,1.67
+21-06-2024,Denim Jeans Regular Fit,Clothing,North America,382.94,171.24
+24-07-2022,Water Bottle Stainless Steel,Sports & Outdoors,Europe,36.92,13.4
+07-09-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,22.74,13.53
+29-12-2024,Smart Watch Basic,Electronics,Latin America,125.47,40.02
+01-08-2024,Sparkling Water 12-Pack,Food & Beverages,Africa,4.07,1.96
+14-06-2022,LED Desk Lamp,Home & Garden,Africa,24.74,7.87
+10-09-2024,Smart Watch Basic,Electronics,Europe,205.88,65.73
+21-03-2023,Throw Pillow Cover,Home & Garden,North America,26.45,11.75
+23-11-2022,Winter Jacket Premium,Clothing,Middle East,306.89,84.54
+28-01-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,11.77,4.53
+23-08-2024,Bluetooth Speaker Mini,Electronics,North America,214.2,63.07
+22-01-2022,Throw Pillow Cover,Home & Garden,Latin America,20.24,9.46
+29-09-2023,Ballpoint Pen Box of 12,Office Supplies,Middle East,6.99,3.21
+25-07-2023,Yoga Mat Premium,Sports & Outdoors,Europe,71.35,29.23
+26-01-2023,Lip Balm Set,Beauty & Personal Care,Latin America,16.08,8.65
+11-01-2023,Denim Jeans Regular Fit,Clothing,North America,133.11,59.21
+27-09-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,54.46,21.02
+03-12-2024,Wool Blend Sweater,Clothing,Asia Pacific,78.33,36.91
+24-08-2023,Running Sneakers,Clothing,Europe,122.72,42.38
+25-09-2022,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,45.01,20.72
+31-12-2024,USB-C Charging Cable,Electronics,Latin America,11.4,5.18
+08-07-2023,Running Sneakers,Clothing,Europe,251.94,99.0
+26-05-2024,Indoor Planter Pot,Home & Garden,Africa,15.92,5.68
+11-10-2024,Yoga Mat Premium,Sports & Outdoors,North America,246.73,99.44
+17-09-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,64.09,21.56
+24-03-2024,Dark Chocolate Bar,Food & Beverages,Europe,41.82,16.69
+01-11-2023,Wool Blend Sweater,Clothing,Asia Pacific,67.8,29.85
+04-09-2022,Bluetooth Speaker Mini,Electronics,North America,121.5,34.44
+18-07-2024,Wall Decor Frame,Home & Garden,North America,57.45,22.95
+22-09-2022,Smart Watch Basic,Electronics,Latin America,196.93,52.07
+31-07-2024,Foldable Camping Chair,Sports & Outdoors,Middle East,45.75,16.04
+11-08-2023,Organic Green Tea Box,Food & Beverages,Europe,21.56,9.94
+09-07-2022,Casual Button-Down Shirt,Clothing,Middle East,37.83,21.08
+04-12-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,27.08,11.65
+16-04-2024,Throw Pillow Cover,Home & Garden,Latin America,35.92,14.82
+11-06-2024,Sparkling Water 12-Pack,Food & Beverages,Middle East,7.83,3.55
+30-03-2023,Organic Green Tea Box,Food & Beverages,Latin America,9.6,3.77
+10-07-2022,Organic Green Tea Box,Food & Beverages,Europe,63.62,25.6
+17-06-2023,USB-C Charging Cable,Electronics,North America,22.49,11.45
+05-04-2023,Casual Button-Down Shirt,Clothing,North America,160.8,93.62
+08-10-2023,Kitchen Herb Garden,Home & Garden,Middle East,34.33,13.51
+04-07-2023,Indoor Planter Pot,Home & Garden,North America,53.45,20.82
+19-08-2023,Dark Chocolate Bar,Food & Beverages,North America,10.19,5.23
+24-10-2023,Wireless Mouse,Electronics,Latin America,18.5,7.96
+11-10-2022,Dark Chocolate Bar,Food & Beverages,North America,48.59,20.59
+25-09-2023,Throw Pillow Cover,Home & Garden,Europe,92.94,47.34
+07-11-2023,Bath Soap Pack,Beauty & Personal Care,North America,10.1,5.5
+30-03-2022,Mechanical Pencil Set,Office Supplies,Latin America,6.8,3.63
+10-02-2022,Kitchen Herb Garden,Home & Garden,North America,151.01,63.44
+26-11-2023,A4 Notebook Hardcover,Office Supplies,Asia Pacific,38.74,17.06
+18-02-2024,Indoor Planter Pot,Home & Garden,Africa,35.78,12.44
+09-10-2024,USB-C Charging Cable,Electronics,North America,71.45,35.33
+29-12-2023,Phone Grip Stand,Electronics,Africa,5.6,2.45
+14-03-2023,Mixed Nuts Pack,Food & Beverages,Europe,47.72,26.67
+28-08-2023,Running Sneakers,Clothing,North America,573.19,236.68
+28-06-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,89.7,41.56
+02-08-2023,Mixed Nuts Pack,Food & Beverages,Middle East,53.34,28.62
+02-08-2022,Smart Watch Basic,Electronics,Europe,205.85,49.78
+28-12-2022,Bluetooth Speaker Mini,Electronics,Africa,24.21,7.26
+19-01-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,20.02,9.97
+30-05-2024,Water Bottle Stainless Steel,Sports & Outdoors,North America,32.63,13.04
+07-12-2022,Throw Pillow Cover,Home & Garden,Europe,31.72,13.14
+21-08-2022,Scented Candle Set,Home & Garden,Europe,35.29,14.04
+29-03-2024,Water Bottle Stainless Steel,Sports & Outdoors,Latin America,24.99,11.05
+25-06-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,21.36,9.39
+07-08-2023,Mechanical Pencil Set,Office Supplies,Africa,11.27,5.31
+25-08-2023,Phone Grip Stand,Electronics,Africa,12.41,6.46
+01-10-2024,Wall Decor Frame,Home & Garden,Latin America,18.36,7.15
+16-09-2024,Wireless Keyboard,Office Supplies,Latin America,69.42,22.86
+24-07-2024,Casual Button-Down Shirt,Clothing,Middle East,32.05,15.94
+16-08-2024,Mixed Nuts Pack,Food & Beverages,Asia Pacific,28.98,14.92
+28-06-2024,Smart Watch Basic,Electronics,Asia Pacific,662.55,206.31
+30-03-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,117.58,49.89
+23-10-2022,Wireless Bluetooth Headphones,Electronics,Latin America,91.78,31.63
+12-09-2024,Desk Organizer Tray,Office Supplies,Africa,29.7,11.76
+04-10-2022,A4 Notebook Hardcover,Office Supplies,Middle East,10.31,4.33
+19-11-2024,Casual Button-Down Shirt,Clothing,Europe,153.25,88.24
+26-04-2024,LED Desk Lamp,Home & Garden,Middle East,39.61,11.83
+10-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,21.29,7.72
+12-04-2024,Wireless Mouse,Electronics,Europe,34.2,14.28
+03-10-2024,Indoor Planter Pot,Home & Garden,North America,42.22,17.79
+21-11-2022,Lip Balm Set,Beauty & Personal Care,Asia Pacific,41.12,20.93
+20-11-2024,Scented Candle Set,Home & Garden,Middle East,17.44,6.74
+19-03-2023,Phone Grip Stand,Electronics,Asia Pacific,8.27,3.77
+29-12-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,13.18,7.38
+29-06-2024,Mechanical Pencil Set,Office Supplies,Asia Pacific,13.82,6.64
+04-05-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,48.44,27.66
+04-01-2023,Yoga Mat Premium,Sports & Outdoors,North America,99.61,38.52
+04-10-2024,Scented Candle Set,Home & Garden,Latin America,70.91,32.22
+31-12-2022,Kitchen Herb Garden,Home & Garden,Middle East,78.41,29.5
+01-02-2024,Energy Drink 6-Pack,Food & Beverages,North America,14.41,7.89
+25-12-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,11.1,6.64
+27-06-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,26.46,16.71
+14-04-2022,Casual Button-Down Shirt,Clothing,Europe,150.0,83.4
+04-06-2023,Yoga Mat Premium,Sports & Outdoors,North America,76.23,31.5
+05-03-2022,Wall Decor Frame,Home & Garden,Asia Pacific,52.4,21.73
+03-09-2022,Running Sneakers,Clothing,North America,367.08,151.8
+09-11-2024,Lip Balm Set,Beauty & Personal Care,Europe,19.68,11.16
+28-10-2023,Wireless Keyboard,Office Supplies,Africa,24.45,8.03
+11-02-2023,Sparkling Water 12-Pack,Food & Beverages,Europe,19.39,10.32
+31-08-2024,Kitchen Herb Garden,Home & Garden,Europe,39.42,16.2
+21-06-2024,Ballpoint Pen Box of 12,Office Supplies,Africa,3.98,2.29
+03-12-2022,Wireless Bluetooth Headphones,Electronics,Latin America,236.49,92.29
+19-03-2023,Sparkling Water 12-Pack,Food & Beverages,North America,59.42,33.07
+25-04-2023,Energy Drink 6-Pack,Food & Beverages,Africa,5.41,2.62
+16-11-2022,Winter Jacket Premium,Clothing,Europe,254.6,71.31
+27-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,68.16,26.06
+04-03-2024,Face Moisturizer Cream,Beauty & Personal Care,Latin America,15.7,8.08
+25-01-2022,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,8.95,4.56
+07-07-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,22.42,12.75
+12-03-2024,Scented Candle Set,Home & Garden,North America,34.34,13.44
+28-06-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,36.84,18.84
+24-12-2022,Resistance Bands Set,Sports & Outdoors,Europe,30.77,16.74
+18-11-2022,Resistance Bands Set,Sports & Outdoors,North America,25.5,11.73
+22-10-2022,Winter Jacket Premium,Clothing,Europe,212.14,59.18
+03-01-2024,Mechanical Pencil Set,Office Supplies,Asia Pacific,27.79,12.72
+20-02-2024,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,45.86,13.01
+03-12-2022,Wool Blend Sweater,Clothing,Middle East,196.59,97.0
+22-10-2023,Laptop Stand Adjustable,Electronics,Middle East,24.26,10.11
+12-02-2023,Energy Drink 6-Pack,Food & Beverages,Europe,23.93,12.92
+15-02-2024,Mechanical Pencil Set,Office Supplies,Europe,12.39,5.51
+20-12-2022,Hand Cream Tube,Beauty & Personal Care,Middle East,9.26,4.24
+14-10-2024,Lip Balm Set,Beauty & Personal Care,Latin America,17.41,9.74
+28-03-2024,Indoor Planter Pot,Home & Garden,Europe,43.08,15.07
+30-10-2023,Laptop Stand Adjustable,Electronics,North America,44.4,18.61
+04-03-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,74.42,27.62
+17-07-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,61.89,33.99
+06-08-2022,Organic Green Tea Box,Food & Beverages,Asia Pacific,66.33,29.33
+24-06-2022,Casual Button-Down Shirt,Clothing,North America,138.84,82.29
+07-06-2023,Denim Jeans Regular Fit,Clothing,Africa,55.26,23.39
+05-09-2024,USB-C Charging Cable,Electronics,Asia Pacific,56.53,25.43
+20-05-2024,Smart Watch Basic,Electronics,Asia Pacific,147.23,37.63
+15-08-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,27.61,10.23
+01-02-2023,Foldable Camping Chair,Sports & Outdoors,Europe,115.72,41.14
+09-08-2024,Lip Balm Set,Beauty & Personal Care,Asia Pacific,48.91,21.05
+15-02-2024,Wireless Mouse,Electronics,Middle East,36.39,15.19
+24-06-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,12.67,5.34
+15-08-2022,Yoga Mat Premium,Sports & Outdoors,Middle East,114.78,52.33
+22-02-2022,Hand Cream Tube,Beauty & Personal Care,Middle East,6.81,3.9
+17-05-2024,Wireless Keyboard,Office Supplies,Africa,27.64,8.4
+02-06-2024,Casual Button-Down Shirt,Clothing,North America,73.41,38.39
+18-08-2022,Wall Decor Frame,Home & Garden,Middle East,23.02,8.85
+29-11-2023,Sticky Notes Pad,Office Supplies,Latin America,6.58,3.49
+15-01-2024,Kitchen Herb Garden,Home & Garden,North America,30.09,11.29
+02-02-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,12.3,4.77
+21-12-2023,Denim Jeans Regular Fit,Clothing,Europe,212.8,112.78
+02-04-2023,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,23.13,11.93
+04-12-2024,Wireless Bluetooth Headphones,Electronics,Europe,118.33,38.04
+02-09-2023,Bluetooth Speaker Mini,Electronics,Asia Pacific,38.77,13.45
+31-05-2023,Water Bottle Stainless Steel,Sports & Outdoors,Africa,42.77,20.61
+10-03-2023,Organic Green Tea Box,Food & Beverages,Asia Pacific,28.48,10.9
+28-12-2022,Running Sneakers,Clothing,Latin America,210.59,74.65
+06-04-2023,Desk Organizer Tray,Office Supplies,Latin America,30.78,12.96
+06-05-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,35.73,17.16
+13-07-2023,Portable Power Bank 10000mAh,Electronics,North America,145.29,52.5
+27-12-2022,Ballpoint Pen Box of 12,Office Supplies,Europe,15.9,8.34
+15-01-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,84.64,33.33
+21-08-2023,Phone Grip Stand,Electronics,Middle East,15.06,7.43
+03-01-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,15.68,6.1
+27-11-2022,Classic Cotton T-Shirt,Clothing,Latin America,42.66,26.71
+29-09-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,12.97,6.63
+22-03-2023,Desk Organizer Tray,Office Supplies,Asia Pacific,22.21,9.13
+07-11-2022,Ballpoint Pen Box of 12,Office Supplies,North America,11.36,6.49
+07-03-2024,Hair Shampoo 300ml,Beauty & Personal Care,Africa,22.7,10.28
+26-03-2023,Scented Candle Set,Home & Garden,Africa,10.7,5.21
+10-05-2023,Resistance Bands Set,Sports & Outdoors,North America,30.89,17.58
+24-01-2024,Lip Balm Set,Beauty & Personal Care,Latin America,6.9,2.94
+20-06-2022,Mechanical Pencil Set,Office Supplies,North America,56.54,28.39
+01-08-2024,Water Bottle Stainless Steel,Sports & Outdoors,North America,33.53,14.0
+10-01-2022,Ballpoint Pen Box of 12,Office Supplies,Africa,3.36,1.98
+09-05-2022,Resistance Bands Set,Sports & Outdoors,North America,85.48,41.36
+21-09-2023,Wool Blend Sweater,Clothing,North America,101.74,42.7
+06-11-2024,Foldable Camping Chair,Sports & Outdoors,Latin America,33.42,10.24
+20-11-2022,Resistance Bands Set,Sports & Outdoors,Latin America,49.02,28.0
+11-11-2022,Mixed Nuts Pack,Food & Beverages,North America,16.5,7.45
+20-12-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,17.7,7.17
+03-04-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,19.86,9.65
+01-12-2023,Dark Chocolate Bar,Food & Beverages,Europe,48.43,21.15
+07-04-2023,Desk Organizer Tray,Office Supplies,Latin America,15.74,5.74
+09-08-2022,Sticky Notes Pad,Office Supplies,Europe,8.42,3.98
+20-04-2023,Hand Cream Tube,Beauty & Personal Care,North America,58.82,29.76
+09-02-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,50.48,18.33
+24-10-2024,Dark Chocolate Bar,Food & Beverages,North America,37.48,15.76
+06-10-2022,Resistance Bands Set,Sports & Outdoors,Africa,7.28,3.68
+01-12-2023,Wireless Mouse,Electronics,Asia Pacific,39.89,14.64
+31-07-2022,Energy Drink 6-Pack,Food & Beverages,North America,21.94,12.01
+27-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,26.14,10.7
+02-11-2022,Dark Chocolate Bar,Food & Beverages,Latin America,11.96,5.01
+11-05-2023,Indoor Planter Pot,Home & Garden,Africa,47.77,20.57
+01-08-2022,Scented Candle Set,Home & Garden,Asia Pacific,25.25,11.07
+26-07-2024,A4 Notebook Hardcover,Office Supplies,Middle East,13.85,6.39
+10-01-2022,Laptop Stand Adjustable,Electronics,Asia Pacific,29.17,11.52
+05-07-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,87.86,43.57
+04-05-2023,Denim Jeans Regular Fit,Clothing,Europe,74.12,31.29
+21-10-2024,Organic Green Tea Box,Food & Beverages,North America,21.33,8.54
+02-02-2024,Wall Decor Frame,Home & Garden,North America,35.62,15.7
+02-09-2022,Denim Jeans Regular Fit,Clothing,Latin America,79.02,38.64
+02-07-2022,Winter Jacket Premium,Clothing,Asia Pacific,224.2,67.4
+13-05-2024,Wireless Mouse,Electronics,Middle East,20.9,9.21
+03-05-2023,Yoga Mat Premium,Sports & Outdoors,Latin America,63.46,25.11
+29-12-2023,Yoga Mat Premium,Sports & Outdoors,Middle East,128.73,66.05
+05-12-2022,Indoor Planter Pot,Home & Garden,Europe,53.25,18.86
+21-10-2023,A4 Notebook Hardcover,Office Supplies,Europe,18.34,7.4
+28-03-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,13.39,6.03
+19-04-2024,Yoga Mat Premium,Sports & Outdoors,Europe,115.0,56.92
+18-08-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,38.6,11.19
+01-11-2024,Winter Jacket Premium,Clothing,Europe,232.93,72.42
+01-06-2023,Yoga Mat Premium,Sports & Outdoors,Middle East,34.53,16.86
+19-02-2022,Wall Decor Frame,Home & Garden,Europe,62.61,22.8
+13-07-2023,Face Moisturizer Cream,Beauty & Personal Care,Europe,229.81,118.04
+03-08-2022,USB-C Charging Cable,Electronics,North America,21.96,8.7
+18-11-2024,Wireless Keyboard,Office Supplies,Europe,311.84,85.16
+21-07-2022,Wall Decor Frame,Home & Garden,North America,242.12,98.75
+01-03-2023,Foldable Camping Chair,Sports & Outdoors,North America,140.85,46.5
+08-04-2022,Wireless Bluetooth Headphones,Electronics,Asia Pacific,72.38,26.52
+22-01-2022,Throw Pillow Cover,Home & Garden,North America,44.46,24.06
+20-01-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,9.35,5.04
+02-01-2023,Wall Decor Frame,Home & Garden,Asia Pacific,47.75,19.29
+14-03-2022,Yoga Mat Premium,Sports & Outdoors,Middle East,60.63,25.41
+23-05-2023,A4 Notebook Hardcover,Office Supplies,North America,21.32,9.45
+31-03-2024,A4 Notebook Hardcover,Office Supplies,Africa,12.91,5.29
+17-05-2024,Hair Shampoo 300ml,Beauty & Personal Care,Middle East,19.64,7.55
+27-12-2024,Organic Green Tea Box,Food & Beverages,Africa,17.61,6.78
+15-02-2022,Sticky Notes Pad,Office Supplies,North America,16.53,8.01
+05-01-2023,Organic Green Tea Box,Food & Beverages,Middle East,9.61,3.53
+02-01-2023,Dark Chocolate Bar,Food & Beverages,Europe,7.45,2.86
+09-05-2024,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,43.17,19.3
+08-02-2022,Sticky Notes Pad,Office Supplies,North America,31.63,14.86
+07-01-2024,USB-C Charging Cable,Electronics,North America,14.68,5.74
+02-03-2022,Wall Decor Frame,Home & Garden,Europe,36.69,15.85
+01-10-2023,Indoor Planter Pot,Home & Garden,Latin America,75.88,27.62
+19-05-2024,Kitchen Herb Garden,Home & Garden,Middle East,43.29,15.07
+05-05-2023,Wool Blend Sweater,Clothing,Europe,97.92,41.87
+06-03-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,15.23,7.44
+09-02-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,21.07,11.34
+24-02-2023,Lip Balm Set,Beauty & Personal Care,Asia Pacific,12.83,6.26
+04-03-2022,A4 Notebook Hardcover,Office Supplies,Europe,16.27,6.88
+13-09-2022,USB-C Charging Cable,Electronics,Europe,14.82,6.09
+02-04-2024,Kitchen Herb Garden,Home & Garden,Middle East,20.2,9.11
+04-10-2024,Face Moisturizer Cream,Beauty & Personal Care,Asia Pacific,80.94,41.73
+20-08-2024,Wireless Keyboard,Office Supplies,Latin America,76.34,22.88
+15-07-2022,USB-C Charging Cable,Electronics,Africa,6.56,2.74
+02-03-2022,Laptop Stand Adjustable,Electronics,Europe,133.25,47.72
+28-06-2023,Bath Soap Pack,Beauty & Personal Care,Latin America,17.71,9.37
+10-11-2022,Water Bottle Stainless Steel,Sports & Outdoors,Africa,33.86,13.76
+07-10-2024,Classic Cotton T-Shirt,Clothing,Latin America,14.31,8.56
+28-03-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,26.43,11.68
+27-12-2023,Running Sneakers,Clothing,Europe,143.19,58.04
+10-05-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,41.5,14.72
+30-04-2023,Mixed Nuts Pack,Food & Beverages,Middle East,17.8,7.79
+22-12-2023,Wall Decor Frame,Home & Garden,Europe,104.58,38.94
+16-10-2024,Scented Candle Set,Home & Garden,Asia Pacific,20.14,8.55
+04-09-2022,Winter Jacket Premium,Clothing,North America,284.32,91.68
+29-12-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,16.76,7.63
+26-11-2022,Scented Candle Set,Home & Garden,Europe,84.63,36.11
+21-05-2022,Indoor Planter Pot,Home & Garden,Latin America,43.83,15.51
+02-09-2022,Wall Decor Frame,Home & Garden,North America,40.94,18.18
+12-03-2022,Dark Chocolate Bar,Food & Beverages,North America,30.41,14.8
+31-03-2024,Yoga Mat Premium,Sports & Outdoors,Latin America,57.85,27.38
+25-06-2023,Mixed Nuts Pack,Food & Beverages,Asia Pacific,26.67,11.38
+30-10-2023,Laptop Stand Adjustable,Electronics,Middle East,69.32,29.3
+01-03-2023,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,52.38,16.52
+05-12-2022,USB-C Charging Cable,Electronics,Latin America,10.49,4.03
+30-07-2024,A4 Notebook Hardcover,Office Supplies,Europe,72.88,29.88
+18-06-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,45.29,16.01
+26-04-2022,Throw Pillow Cover,Home & Garden,Asia Pacific,18.42,9.65
+01-12-2022,Organic Green Tea Box,Food & Beverages,North America,102.96,42.55
+03-01-2022,Bath Soap Pack,Beauty & Personal Care,Europe,7.45,3.94
+22-04-2024,Wireless Mouse,Electronics,Middle East,39.75,14.55
+21-12-2024,Bath Soap Pack,Beauty & Personal Care,Latin America,6.64,3.21
+20-12-2023,Smart Watch Basic,Electronics,North America,558.58,158.66
+17-03-2024,USB-C Charging Cable,Electronics,Middle East,24.63,10.11
+13-02-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,11.23,4.77
+13-07-2024,Casual Button-Down Shirt,Clothing,North America,71.46,36.41
+07-05-2024,USB-C Charging Cable,Electronics,Latin America,17.6,7.1
+24-09-2022,Lip Balm Set,Beauty & Personal Care,Europe,18.18,8.39
+12-08-2024,Denim Jeans Regular Fit,Clothing,Latin America,129.75,66.87
+16-08-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,19.43,7.28
+06-01-2024,Classic Cotton T-Shirt,Clothing,Europe,51.32,29.38
+02-03-2022,Foldable Camping Chair,Sports & Outdoors,Europe,61.91,20.97
+11-07-2024,Phone Grip Stand,Electronics,Asia Pacific,11.6,6.35
+23-01-2023,Wireless Keyboard,Office Supplies,Europe,323.49,112.02
+06-12-2022,Winter Jacket Premium,Clothing,Europe,293.6,81.73
+29-12-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,96.54,45.14
+21-11-2023,Mixed Nuts Pack,Food & Beverages,Latin America,7.33,3.68
+31-03-2023,LED Desk Lamp,Home & Garden,Africa,64.13,20.75
+11-06-2024,Wool Blend Sweater,Clothing,North America,129.32,55.17
+09-03-2024,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,14.05,6.26
+17-12-2022,Hair Shampoo 300ml,Beauty & Personal Care,North America,22.73,8.76
+05-07-2024,Phone Grip Stand,Electronics,Latin America,14.42,7.55
+13-03-2024,Wool Blend Sweater,Clothing,North America,106.15,50.72
+26-07-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,11.0,5.57
+18-05-2022,Bluetooth Speaker Mini,Electronics,Europe,61.03,21.55
+15-03-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,82.3,43.87
+13-10-2023,USB-C Charging Cable,Electronics,Africa,4.96,2.04
+19-02-2024,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,21.68,12.76
+03-11-2024,Wireless Keyboard,Office Supplies,North America,86.92,29.3
+06-06-2024,Wall Decor Frame,Home & Garden,Africa,14.4,6.39
+06-05-2024,Kitchen Herb Garden,Home & Garden,Asia Pacific,25.8,10.74
+12-07-2022,Casual Button-Down Shirt,Clothing,North America,138.71,75.76
+03-04-2022,Wireless Mouse,Electronics,Africa,13.06,4.48
+18-12-2024,Face Moisturizer Cream,Beauty & Personal Care,Middle East,87.16,47.62
+05-10-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,45.97,24.51
+02-08-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,106.57,41.62
+22-10-2023,Bluetooth Speaker Mini,Electronics,North America,54.87,18.69
+20-09-2023,Sparkling Water 12-Pack,Food & Beverages,North America,26.94,14.02
+12-08-2024,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,9.39,3.95
+19-07-2024,Phone Grip Stand,Electronics,North America,18.15,9.36
+04-04-2024,Wireless Keyboard,Office Supplies,Europe,206.92,62.94
+02-08-2024,Smart Watch Basic,Electronics,Middle East,464.23,132.01
+30-12-2024,Throw Pillow Cover,Home & Garden,North America,37.55,16.77
+24-06-2024,A4 Notebook Hardcover,Office Supplies,North America,25.33,13.06
+07-08-2023,Water Bottle Stainless Steel,Sports & Outdoors,Europe,33.62,13.38
+22-06-2024,LED Desk Lamp,Home & Garden,North America,89.47,30.05
+29-09-2023,Wireless Mouse,Electronics,Europe,176.47,79.02
+15-06-2022,Mechanical Pencil Set,Office Supplies,Latin America,7.91,3.94
+11-01-2022,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,17.01,9.58
+26-08-2022,Indoor Planter Pot,Home & Garden,Europe,42.56,18.94
+24-12-2024,Wireless Bluetooth Headphones,Electronics,Europe,137.94,41.86
+03-07-2022,Yoga Mat Premium,Sports & Outdoors,Europe,65.42,29.86
+29-08-2024,Sticky Notes Pad,Office Supplies,Latin America,11.94,6.64
+10-11-2023,Bluetooth Speaker Mini,Electronics,Asia Pacific,132.17,37.28
+07-09-2024,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,43.39,18.13
+20-03-2023,LED Desk Lamp,Home & Garden,Europe,176.61,58.63
+06-07-2022,Hand Cream Tube,Beauty & Personal Care,Middle East,8.21,4.85
+05-09-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,22.09,9.65
+31-12-2024,Denim Jeans Regular Fit,Clothing,Europe,180.42,88.44
+08-08-2022,Water Bottle Stainless Steel,Sports & Outdoors,North America,110.84,45.25
+21-12-2023,Running Sneakers,Clothing,Europe,637.94,247.6
+04-07-2022,Desk Organizer Tray,Office Supplies,Latin America,20.39,9.12
+06-04-2024,Bath Soap Pack,Beauty & Personal Care,Latin America,14.12,8.17
+14-10-2022,Dark Chocolate Bar,Food & Beverages,North America,35.32,14.77
+09-06-2023,Lip Balm Set,Beauty & Personal Care,Asia Pacific,29.49,14.2
+03-12-2022,A4 Notebook Hardcover,Office Supplies,North America,27.49,10.86
+17-12-2024,Foldable Camping Chair,Sports & Outdoors,North America,452.7,149.64
+11-11-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,77.84,34.68
+05-06-2024,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,25.31,12.22
+31-08-2023,Face Moisturizer Cream,Beauty & Personal Care,Europe,79.62,40.22
+29-08-2023,Dark Chocolate Bar,Food & Beverages,North America,11.28,5.25
+15-12-2023,Scented Candle Set,Home & Garden,Latin America,20.75,8.72
+04-11-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Africa,40.23,16.45
+20-05-2022,Laptop Stand Adjustable,Electronics,Middle East,27.53,9.77
+17-04-2022,Dark Chocolate Bar,Food & Beverages,Latin America,4.62,1.85
+30-09-2022,Resistance Bands Set,Sports & Outdoors,North America,59.81,32.91
+25-01-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,20.34,7.57
+15-08-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,18.66,7.88
+14-04-2022,Wireless Keyboard,Office Supplies,Africa,25.76,8.68
+17-11-2024,Lip Balm Set,Beauty & Personal Care,Latin America,38.75,20.76
+26-06-2022,Wall Decor Frame,Home & Garden,Europe,194.78,87.11
+01-12-2023,Indoor Planter Pot,Home & Garden,Africa,17.24,6.03
+06-03-2024,USB-C Charging Cable,Electronics,Europe,16.63,8.46
+25-08-2024,Sticky Notes Pad,Office Supplies,Africa,2.59,1.28
+02-01-2023,Scented Candle Set,Home & Garden,North America,55.32,28.39
+21-06-2023,Running Sneakers,Clothing,Africa,38.92,12.84
+04-07-2024,Sticky Notes Pad,Office Supplies,Middle East,11.33,6.83
+09-04-2023,Winter Jacket Premium,Clothing,Latin America,135.19,37.51
+11-06-2022,Throw Pillow Cover,Home & Garden,Latin America,15.13,6.82
+02-07-2022,Mixed Nuts Pack,Food & Beverages,North America,23.78,13.46
+29-05-2022,Indoor Planter Pot,Home & Garden,Europe,120.71,51.69
+02-06-2024,Dark Chocolate Bar,Food & Beverages,Europe,9.66,4.47
+14-11-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,18.36,9.26
+16-04-2023,Dark Chocolate Bar,Food & Beverages,Middle East,21.87,10.04
+11-07-2022,Ballpoint Pen Box of 12,Office Supplies,Latin America,6.51,2.89
+18-05-2023,Wireless Bluetooth Headphones,Electronics,Europe,291.34,88.99
+03-07-2023,Desk Organizer Tray,Office Supplies,North America,206.19,71.77
+22-01-2024,Casual Button-Down Shirt,Clothing,Latin America,41.74,24.07
+18-04-2022,Laptop Stand Adjustable,Electronics,North America,52.13,18.6
+11-06-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,65.08,28.21
+05-11-2023,Yoga Mat Premium,Sports & Outdoors,North America,65.4,29.06
+06-07-2023,Sticky Notes Pad,Office Supplies,Africa,5.56,3.23
+09-02-2023,Ballpoint Pen Box of 12,Office Supplies,Middle East,6.11,3.46
+03-12-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,14.49,4.82
+28-04-2024,Foldable Camping Chair,Sports & Outdoors,Europe,280.79,81.3
+13-03-2022,Bath Soap Pack,Beauty & Personal Care,Latin America,14.05,7.63
+12-10-2024,Sticky Notes Pad,Office Supplies,Africa,2.47,1.44
+26-01-2022,Resistance Bands Set,Sports & Outdoors,Africa,6.13,3.21
+24-01-2024,USB-C Charging Cable,Electronics,Africa,9.21,3.61
+19-01-2023,Laptop Stand Adjustable,Electronics,North America,87.83,28.81
+23-02-2023,Energy Drink 6-Pack,Food & Beverages,North America,15.26,7.11
+08-03-2023,Organic Green Tea Box,Food & Beverages,North America,20.73,9.75
+09-12-2024,Kitchen Herb Garden,Home & Garden,North America,51.98,21.89
+02-02-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,19.64,7.59
+02-01-2024,Sparkling Water 12-Pack,Food & Beverages,Africa,2.89,1.51
+10-02-2024,Face Moisturizer Cream,Beauty & Personal Care,North America,76.44,41.73
+19-08-2024,LED Desk Lamp,Home & Garden,Latin America,149.46,54.44
+02-09-2024,Foldable Camping Chair,Sports & Outdoors,Europe,209.16,70.5
+03-01-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,9.89,5.39
+16-12-2022,Desk Organizer Tray,Office Supplies,Asia Pacific,89.84,34.63
+07-07-2024,Throw Pillow Cover,Home & Garden,Asia Pacific,21.36,10.4
+02-04-2023,Water Bottle Stainless Steel,Sports & Outdoors,Europe,55.91,20.24
+14-04-2024,Ballpoint Pen Box of 12,Office Supplies,Latin America,11.77,5.8
+28-04-2024,Indoor Planter Pot,Home & Garden,Middle East,25.08,10.95
+30-05-2022,Throw Pillow Cover,Home & Garden,Latin America,14.49,5.96
+17-03-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,18.1,9.22
+15-12-2023,Dark Chocolate Bar,Food & Beverages,Asia Pacific,8.17,3.73
+30-01-2022,Sparkling Water 12-Pack,Food & Beverages,Latin America,4.64,2.37
+19-12-2023,Mixed Nuts Pack,Food & Beverages,Middle East,23.77,12.97
+14-11-2024,Organic Green Tea Box,Food & Beverages,Middle East,19.57,7.56
+09-02-2023,Phone Grip Stand,Electronics,Africa,3.43,1.6
+15-09-2022,Casual Button-Down Shirt,Clothing,Africa,15.29,6.85
+29-08-2022,Scented Candle Set,Home & Garden,North America,126.28,64.44
+10-08-2024,Phone Grip Stand,Electronics,Latin America,6.26,3.21
+25-09-2024,A4 Notebook Hardcover,Office Supplies,North America,22.19,10.18
+13-03-2022,Running Sneakers,Clothing,Africa,36.36,11.95
+12-01-2022,Casual Button-Down Shirt,Clothing,Europe,38.52,18.93
+07-09-2024,Winter Jacket Premium,Clothing,North America,275.95,71.62
+17-03-2022,Foldable Camping Chair,Sports & Outdoors,Europe,63.77,21.4
+07-03-2024,Dark Chocolate Bar,Food & Beverages,Europe,8.44,3.41
+10-09-2023,Face Moisturizer Cream,Beauty & Personal Care,North America,46.12,22.45
+08-10-2022,Desk Organizer Tray,Office Supplies,Europe,27.97,11.79
+22-08-2024,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,17.34,8.51
+09-04-2024,Energy Drink 6-Pack,Food & Beverages,Africa,4.87,2.21
+20-04-2024,Bluetooth Speaker Mini,Electronics,North America,62.7,21.76
+17-03-2023,Casual Button-Down Shirt,Clothing,North America,103.14,46.32
+30-09-2023,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,10.28,5.66
+12-08-2023,Organic Green Tea Box,Food & Beverages,Africa,7.57,3.63
+23-04-2023,LED Desk Lamp,Home & Garden,Europe,189.23,68.97
+15-10-2022,Running Sneakers,Clothing,Asia Pacific,75.83,27.35
+24-05-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.77,4.26
+25-06-2024,Wireless Bluetooth Headphones,Electronics,Asia Pacific,234.09,89.76
+30-08-2023,A4 Notebook Hardcover,Office Supplies,Asia Pacific,14.57,6.85
+10-09-2023,Classic Cotton T-Shirt,Clothing,Latin America,31.56,15.07
+28-03-2024,Dark Chocolate Bar,Food & Beverages,Middle East,14.16,6.71
+30-05-2024,Smart Watch Basic,Electronics,Africa,178.4,42.48
+17-02-2024,Portable Power Bank 10000mAh,Electronics,Middle East,25.83,8.88
+08-07-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,25.42,11.72
+24-01-2024,Energy Drink 6-Pack,Food & Beverages,North America,27.63,13.18
+12-01-2022,Classic Cotton T-Shirt,Clothing,Europe,23.01,11.07
+27-02-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,25.11,13.94
+11-07-2024,Sticky Notes Pad,Office Supplies,Asia Pacific,19.8,11.89
+05-09-2023,Bluetooth Speaker Mini,Electronics,Asia Pacific,85.04,24.44
+25-04-2024,Wireless Bluetooth Headphones,Electronics,Latin America,53.42,20.73
+05-02-2022,Wireless Keyboard,Office Supplies,Africa,45.65,16.78
+16-03-2023,Energy Drink 6-Pack,Food & Beverages,Latin America,14.9,8.11
+14-07-2022,Foldable Camping Chair,Sports & Outdoors,Europe,226.75,81.8
+23-10-2023,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,84.94,29.04
+30-06-2024,Resistance Bands Set,Sports & Outdoors,Africa,25.31,11.24
+12-11-2023,Indoor Planter Pot,Home & Garden,Europe,38.15,17.06
+04-05-2024,Running Sneakers,Clothing,Middle East,192.0,62.02
+24-02-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,29.75,10.42
+08-09-2022,Mixed Nuts Pack,Food & Beverages,Latin America,33.08,18.09
+16-04-2024,Foldable Camping Chair,Sports & Outdoors,Europe,63.67,19.24
+31-08-2023,Phone Grip Stand,Electronics,North America,79.52,40.14
+12-06-2023,Wireless Mouse,Electronics,Africa,30.59,11.6
+09-05-2022,Kitchen Herb Garden,Home & Garden,Europe,76.59,28.94
+04-08-2024,Sticky Notes Pad,Office Supplies,Europe,17.08,8.32
+31-07-2022,Wireless Mouse,Electronics,Middle East,84.59,33.84
+13-09-2024,Wireless Keyboard,Office Supplies,Asia Pacific,51.31,15.36
+21-02-2022,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,22.98,10.97
+07-05-2024,Portable Power Bank 10000mAh,Electronics,North America,62.64,20.29
+09-11-2024,Denim Jeans Regular Fit,Clothing,Middle East,137.96,65.71
+15-03-2023,Denim Jeans Regular Fit,Clothing,North America,178.72,73.99
+03-03-2023,Wireless Keyboard,Office Supplies,Europe,73.41,24.57
+24-11-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,15.74,8.53
+14-10-2023,Laptop Stand Adjustable,Electronics,Europe,144.27,51.79
+24-08-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,14.33,5.65
+01-11-2022,Phone Grip Stand,Electronics,Middle East,6.81,3.46
+05-03-2023,Ballpoint Pen Box of 12,Office Supplies,North America,27.53,13.79
+13-12-2024,Yoga Mat Premium,Sports & Outdoors,Europe,68.02,26.58
+14-12-2022,Hair Shampoo 300ml,Beauty & Personal Care,Africa,6.81,2.97
+20-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,70.15,32.65
+30-07-2023,Lip Balm Set,Beauty & Personal Care,Europe,22.28,10.86
+05-10-2024,Organic Green Tea Box,Food & Beverages,North America,20.34,8.75
+12-01-2024,Desk Organizer Tray,Office Supplies,Latin America,11.88,5.0
+01-07-2024,Wall Decor Frame,Home & Garden,Asia Pacific,63.63,23.05
+02-04-2023,Resistance Bands Set,Sports & Outdoors,North America,26.54,12.46
+26-01-2024,Resistance Bands Set,Sports & Outdoors,North America,48.88,23.68
+23-05-2023,Sparkling Water 12-Pack,Food & Beverages,Latin America,12.74,6.37
+25-02-2023,Face Moisturizer Cream,Beauty & Personal Care,North America,153.57,75.63
+26-06-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,39.63,18.28
+24-11-2023,Sparkling Water 12-Pack,Food & Beverages,North America,24.28,14.47
+25-01-2023,Wireless Keyboard,Office Supplies,Middle East,35.02,11.26
+30-08-2023,Lip Balm Set,Beauty & Personal Care,Africa,7.44,3.33
+11-05-2024,Portable Power Bank 10000mAh,Electronics,North America,282.44,98.9
+17-01-2024,Lip Balm Set,Beauty & Personal Care,North America,18.35,8.85
+01-10-2022,Bluetooth Speaker Mini,Electronics,Asia Pacific,150.27,45.37
+30-12-2022,Winter Jacket Premium,Clothing,North America,1207.95,371.95
+30-05-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,9.33,5.49
+14-11-2024,Winter Jacket Premium,Clothing,Europe,227.86,75.87
+12-08-2022,Mixed Nuts Pack,Food & Beverages,North America,42.43,19.21
+20-02-2023,Laptop Stand Adjustable,Electronics,Latin America,54.23,22.69
+08-06-2024,Wool Blend Sweater,Clothing,North America,109.67,44.68
+14-12-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,70.13,29.49
+26-12-2024,Running Sneakers,Clothing,Europe,406.33,154.67
+20-08-2023,Ballpoint Pen Box of 12,Office Supplies,North America,29.07,17.36
+09-01-2022,Wireless Mouse,Electronics,Asia Pacific,104.36,36.71
+14-08-2022,Wool Blend Sweater,Clothing,North America,231.93,90.14
+09-08-2024,Wireless Bluetooth Headphones,Electronics,Europe,484.29,184.58
+25-07-2024,Yoga Mat Premium,Sports & Outdoors,North America,81.74,39.31
+14-11-2024,Resistance Bands Set,Sports & Outdoors,North America,26.88,11.73
+28-06-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,55.15,25.96
+02-01-2024,Foldable Camping Chair,Sports & Outdoors,Europe,51.58,18.77
+22-06-2024,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,59.76,28.6
+28-05-2022,Smart Watch Basic,Electronics,North America,717.56,203.75
+24-06-2022,Organic Green Tea Box,Food & Beverages,Africa,6.88,2.76
+04-02-2022,Energy Drink 6-Pack,Food & Beverages,Europe,28.29,14.52
+21-08-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,25.38,10.41
+17-03-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,9.95,4.92
+09-06-2024,Wireless Mouse,Electronics,North America,54.99,24.57
+07-05-2022,Organic Green Tea Box,Food & Beverages,Europe,38.8,16.39
+06-11-2022,Mixed Nuts Pack,Food & Beverages,North America,38.33,22.0
+19-04-2024,Hand Cream Tube,Beauty & Personal Care,North America,63.2,36.88
+06-03-2022,Face Moisturizer Cream,Beauty & Personal Care,Europe,36.39,18.52
+06-05-2023,Casual Button-Down Shirt,Clothing,Europe,54.43,25.75
+23-03-2024,Water Bottle Stainless Steel,Sports & Outdoors,North America,34.29,13.34
+09-12-2024,Phone Grip Stand,Electronics,North America,36.48,19.58
+17-06-2023,A4 Notebook Hardcover,Office Supplies,Middle East,25.12,10.06
+11-04-2022,Organic Green Tea Box,Food & Beverages,Africa,6.54,2.49
+27-02-2022,Bath Soap Pack,Beauty & Personal Care,North America,9.64,5.67
+13-04-2024,Denim Jeans Regular Fit,Clothing,Africa,25.05,10.55
+26-05-2022,Dark Chocolate Bar,Food & Beverages,Middle East,4.98,2.07
+01-01-2022,Denim Jeans Regular Fit,Clothing,North America,76.55,37.59
+11-12-2022,Wireless Mouse,Electronics,Europe,103.16,42.65
+20-04-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,36.04,10.49
+11-12-2022,Wool Blend Sweater,Clothing,Asia Pacific,167.58,78.02
+17-02-2022,Sparkling Water 12-Pack,Food & Beverages,North America,23.89,13.22
+01-10-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,15.73,6.05
+10-07-2022,Wireless Keyboard,Office Supplies,Latin America,43.13,12.83
+23-05-2022,Energy Drink 6-Pack,Food & Beverages,North America,73.25,35.84
+15-09-2023,Resistance Bands Set,Sports & Outdoors,Middle East,61.38,32.72
+09-09-2023,Phone Grip Stand,Electronics,Latin America,5.96,3.33
+24-09-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,22.04,9.92
+03-07-2023,Sparkling Water 12-Pack,Food & Beverages,North America,49.65,24.37
+26-07-2023,Kitchen Herb Garden,Home & Garden,North America,252.04,113.96
+28-06-2022,Dark Chocolate Bar,Food & Beverages,Latin America,4.68,2.0
+28-07-2022,Mechanical Pencil Set,Office Supplies,North America,103.41,53.75
+29-11-2023,A4 Notebook Hardcover,Office Supplies,North America,20.2,9.46
+13-08-2024,Sticky Notes Pad,Office Supplies,Europe,8.73,5.39
+20-11-2022,Resistance Bands Set,Sports & Outdoors,Latin America,12.0,5.36
+19-05-2024,Laptop Stand Adjustable,Electronics,Asia Pacific,36.64,15.61
+10-10-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,16.64,8.18
+22-06-2022,Smart Watch Basic,Electronics,Latin America,341.13,85.39
+02-07-2024,Water Bottle Stainless Steel,Sports & Outdoors,Africa,22.22,9.33
+27-11-2022,Scented Candle Set,Home & Garden,Asia Pacific,21.65,10.62
+19-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,16.16,6.69
+06-04-2024,Mixed Nuts Pack,Food & Beverages,Latin America,31.51,17.45
+23-06-2024,USB-C Charging Cable,Electronics,Africa,11.43,5.37
+24-11-2024,Laptop Stand Adjustable,Electronics,Latin America,19.12,7.74
+09-04-2023,Organic Green Tea Box,Food & Beverages,Latin America,8.82,4.08
+21-11-2023,Wireless Keyboard,Office Supplies,Europe,138.44,44.0
+12-08-2022,Face Moisturizer Cream,Beauty & Personal Care,Africa,52.3,24.87
+19-02-2023,USB-C Charging Cable,Electronics,North America,15.19,7.06
+19-12-2023,Dark Chocolate Bar,Food & Beverages,Europe,10.98,5.48
+04-09-2022,Wireless Keyboard,Office Supplies,Europe,82.27,24.73
+10-09-2024,Smart Watch Basic,Electronics,Africa,138.48,43.56
+20-02-2024,Running Sneakers,Clothing,Africa,31.47,11.4
+17-05-2023,Foldable Camping Chair,Sports & Outdoors,Europe,67.1,20.93
+14-01-2022,Desk Organizer Tray,Office Supplies,Africa,7.77,3.26
+06-12-2022,Bath Soap Pack,Beauty & Personal Care,Europe,36.47,21.98
+26-09-2023,Resistance Bands Set,Sports & Outdoors,Middle East,13.33,5.76
+20-08-2023,Dark Chocolate Bar,Food & Beverages,Middle East,10.83,5.38
+28-12-2024,Running Sneakers,Clothing,Africa,44.27,15.33
+10-12-2023,Face Moisturizer Cream,Beauty & Personal Care,Latin America,23.73,11.44
+05-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,29.4,13.18
+18-08-2024,Hand Cream Tube,Beauty & Personal Care,North America,30.93,14.84
+28-02-2022,Sticky Notes Pad,Office Supplies,Asia Pacific,8.95,4.24
+14-11-2022,Laptop Stand Adjustable,Electronics,North America,45.95,15.05
+13-01-2022,Foldable Camping Chair,Sports & Outdoors,North America,68.57,23.17
+08-07-2022,Throw Pillow Cover,Home & Garden,Asia Pacific,72.41,29.64
+01-02-2024,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,38.69,16.47
+05-08-2023,Indoor Planter Pot,Home & Garden,North America,116.68,51.68
+29-12-2022,Scented Candle Set,Home & Garden,Europe,86.78,37.01
+22-11-2023,Bluetooth Speaker Mini,Electronics,North America,230.21,87.18
+29-08-2022,Wool Blend Sweater,Clothing,North America,211.17,92.98
+08-08-2024,Indoor Planter Pot,Home & Garden,North America,52.46,23.99
+06-05-2022,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,41.04,20.98
+22-04-2022,Sticky Notes Pad,Office Supplies,Middle East,21.2,12.27
+23-07-2023,Energy Drink 6-Pack,Food & Beverages,North America,78.73,41.43
+11-12-2023,Kitchen Herb Garden,Home & Garden,North America,251.12,111.29
+07-05-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,11.18,5.14
+09-08-2023,Smart Watch Basic,Electronics,Asia Pacific,164.65,52.75
+24-11-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,16.38,7.13
+13-08-2023,Laptop Stand Adjustable,Electronics,Europe,100.45,34.67
+30-04-2023,Scented Candle Set,Home & Garden,Latin America,30.93,14.6
+21-01-2024,Mixed Nuts Pack,Food & Beverages,Asia Pacific,9.69,4.72
+19-06-2023,Scented Candle Set,Home & Garden,Europe,196.25,84.4
+01-09-2024,Phone Grip Stand,Electronics,Middle East,20.34,10.8
+27-04-2024,Kitchen Herb Garden,Home & Garden,Africa,12.4,4.73
+20-03-2022,Mechanical Pencil Set,Office Supplies,Asia Pacific,21.37,10.78
+06-08-2023,Wireless Bluetooth Headphones,Electronics,Latin America,117.19,35.71
+21-10-2024,A4 Notebook Hardcover,Office Supplies,Asia Pacific,27.82,12.97
+14-08-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Middle East,21.36,9.4
+25-02-2022,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,76.66,36.7
+06-07-2022,Portable Power Bank 10000mAh,Electronics,Latin America,27.65,9.87
+20-03-2023,Casual Button-Down Shirt,Clothing,North America,107.85,48.61
+11-04-2022,Desk Organizer Tray,Office Supplies,Europe,29.61,12.01
+01-01-2023,LED Desk Lamp,Home & Garden,Europe,55.18,16.45
+07-06-2024,Lip Balm Set,Beauty & Personal Care,North America,73.17,32.32
+28-03-2024,Sticky Notes Pad,Office Supplies,Africa,2.51,1.4
+26-11-2023,Hand Cream Tube,Beauty & Personal Care,Europe,12.89,7.16
+11-04-2022,Resistance Bands Set,Sports & Outdoors,Asia Pacific,19.35,8.56
+12-05-2022,Portable Power Bank 10000mAh,Electronics,Africa,35.88,12.79
+22-09-2022,Winter Jacket Premium,Clothing,Europe,237.7,79.28
+07-05-2024,Dark Chocolate Bar,Food & Beverages,Africa,2.98,1.53
+04-12-2022,Ballpoint Pen Box of 12,Office Supplies,Latin America,7.89,4.17
+11-08-2023,Classic Cotton T-Shirt,Clothing,Latin America,17.01,10.34
+17-05-2024,Energy Drink 6-Pack,Food & Beverages,Africa,11.06,5.8
+01-04-2024,Resistance Bands Set,Sports & Outdoors,Europe,23.46,12.34
+18-03-2023,Sticky Notes Pad,Office Supplies,Asia Pacific,5.52,3.02
+30-12-2024,Phone Grip Stand,Electronics,Middle East,17.76,8.33
+22-06-2023,USB-C Charging Cable,Electronics,North America,20.1,9.13
+04-04-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,27.19,16.1
+20-02-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,21.75,9.82
+22-09-2024,Gourmet Coffee Beans 1lb,Food & Beverages,North America,27.12,9.79
+31-10-2022,Wool Blend Sweater,Clothing,Asia Pacific,62.57,29.0
+19-03-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.33,3.77
+05-10-2022,Ballpoint Pen Box of 12,Office Supplies,North America,36.69,18.08
+30-12-2024,Wireless Bluetooth Headphones,Electronics,Asia Pacific,182.99,70.8
+23-12-2022,Ballpoint Pen Box of 12,Office Supplies,Latin America,20.46,10.41
+13-01-2023,Yoga Mat Premium,Sports & Outdoors,Middle East,74.19,29.79
+13-06-2023,Laptop Stand Adjustable,Electronics,Asia Pacific,80.67,32.53
+17-04-2023,Organic Green Tea Box,Food & Beverages,Middle East,10.5,4.67
+30-12-2022,Phone Grip Stand,Electronics,North America,40.19,17.69
+20-08-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,39.11,18.13
+15-05-2024,Phone Grip Stand,Electronics,Europe,28.85,15.41
+04-10-2023,Bath Soap Pack,Beauty & Personal Care,North America,19.91,10.39
+13-06-2024,Denim Jeans Regular Fit,Clothing,North America,96.34,41.2
+10-01-2024,Sticky Notes Pad,Office Supplies,North America,20.04,9.65
+05-04-2023,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,35.69,18.7
+24-08-2022,Mechanical Pencil Set,Office Supplies,Europe,71.78,35.92
+14-02-2023,Dark Chocolate Bar,Food & Beverages,Middle East,4.38,1.87
+13-01-2023,Yoga Mat Premium,Sports & Outdoors,North America,97.72,41.66
+13-12-2023,Foldable Camping Chair,Sports & Outdoors,Europe,85.19,26.91
+11-03-2024,Foldable Camping Chair,Sports & Outdoors,Europe,60.79,21.42
+10-10-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,63.36,27.55
+25-01-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,15.16,7.51
+22-04-2023,Ballpoint Pen Box of 12,Office Supplies,Middle East,14.39,6.92
+18-11-2023,Denim Jeans Regular Fit,Clothing,Europe,71.25,35.0
+06-02-2023,Wall Decor Frame,Home & Garden,Europe,29.84,12.03
+24-06-2024,Casual Button-Down Shirt,Clothing,Europe,309.15,163.88
+31-07-2024,Hair Shampoo 300ml,Beauty & Personal Care,Europe,41.68,19.8
+11-05-2024,Mechanical Pencil Set,Office Supplies,Asia Pacific,34.06,16.1
+02-03-2024,Classic Cotton T-Shirt,Clothing,Europe,28.02,15.63
+02-11-2024,Wireless Mouse,Electronics,Europe,36.1,12.72
+16-06-2024,Dark Chocolate Bar,Food & Beverages,North America,57.27,26.57
+01-10-2023,Yoga Mat Premium,Sports & Outdoors,Middle East,121.48,48.54
+24-07-2024,Indoor Planter Pot,Home & Garden,Middle East,80.72,32.65
+24-04-2024,Mechanical Pencil Set,Office Supplies,Europe,16.15,8.02
+29-11-2024,Dark Chocolate Bar,Food & Beverages,Europe,8.6,3.47
+11-12-2023,Wireless Bluetooth Headphones,Electronics,Asia Pacific,99.45,30.01
+11-05-2023,Energy Drink 6-Pack,Food & Beverages,Europe,16.93,7.41
+27-09-2023,Sparkling Water 12-Pack,Food & Beverages,North America,39.06,20.71
+31-03-2024,Face Moisturizer Cream,Beauty & Personal Care,Europe,33.97,15.34
+19-12-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,118.64,55.03
+09-04-2022,Sticky Notes Pad,Office Supplies,North America,36.99,23.04
+03-01-2023,Denim Jeans Regular Fit,Clothing,Latin America,30.16,15.03
+12-03-2022,Resistance Bands Set,Sports & Outdoors,Middle East,43.3,19.73
+12-01-2023,A4 Notebook Hardcover,Office Supplies,North America,17.48,7.26
+06-06-2023,Foldable Camping Chair,Sports & Outdoors,Europe,407.23,138.82
+03-08-2022,Throw Pillow Cover,Home & Garden,Europe,81.67,43.55
+20-10-2023,Indoor Planter Pot,Home & Garden,Middle East,45.22,16.86
+11-02-2024,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,6.91,3.37
+11-08-2023,A4 Notebook Hardcover,Office Supplies,North America,23.5,11.1
+03-01-2023,Wall Decor Frame,Home & Garden,Africa,31.06,13.73
+15-07-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,57.64,24.24
+15-04-2024,Scented Candle Set,Home & Garden,Asia Pacific,24.52,11.57
+17-09-2024,Casual Button-Down Shirt,Clothing,Asia Pacific,109.08,56.97
+20-11-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,28.17,11.87
+17-08-2024,Wireless Keyboard,Office Supplies,Europe,87.04,29.43
+13-10-2024,Wall Decor Frame,Home & Garden,Africa,10.51,3.79
+09-12-2023,Organic Green Tea Box,Food & Beverages,Latin America,12.93,5.53
+26-07-2022,Yoga Mat Premium,Sports & Outdoors,Latin America,33.08,14.9
+06-02-2022,Smart Watch Basic,Electronics,Latin America,76.02,18.92
+17-05-2024,Scented Candle Set,Home & Garden,Middle East,90.47,34.72
+03-08-2023,Foldable Camping Chair,Sports & Outdoors,Europe,205.22,64.82
+19-08-2022,Wall Decor Frame,Home & Garden,Latin America,21.56,10.37
+22-11-2023,Wall Decor Frame,Home & Garden,Asia Pacific,29.48,12.89
+19-11-2024,Bath Soap Pack,Beauty & Personal Care,North America,11.8,5.78
+24-04-2023,Denim Jeans Regular Fit,Clothing,Europe,299.75,134.83
+12-10-2024,Sticky Notes Pad,Office Supplies,Latin America,3.44,1.88
+05-04-2022,Smart Watch Basic,Electronics,Latin America,365.56,105.89
+07-05-2022,Classic Cotton T-Shirt,Clothing,North America,140.1,78.15
+25-01-2022,Mechanical Pencil Set,Office Supplies,Africa,4.14,1.94
+19-01-2022,Face Moisturizer Cream,Beauty & Personal Care,Europe,134.69,66.17
+15-01-2024,Indoor Planter Pot,Home & Garden,Europe,65.38,22.73
+15-11-2023,Bluetooth Speaker Mini,Electronics,North America,68.86,25.76
+08-01-2023,Resistance Bands Set,Sports & Outdoors,Asia Pacific,52.37,28.63
+30-07-2022,Bluetooth Speaker Mini,Electronics,Middle East,80.47,30.08
+25-11-2022,Desk Organizer Tray,Office Supplies,North America,34.64,14.66
+16-04-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,5.92,2.69
+28-02-2023,Wireless Bluetooth Headphones,Electronics,North America,539.55,188.75
+29-12-2023,Denim Jeans Regular Fit,Clothing,North America,104.4,47.03
+16-12-2024,Yoga Mat Premium,Sports & Outdoors,Middle East,45.51,22.43
+28-07-2022,Bath Soap Pack,Beauty & Personal Care,Latin America,5.68,2.69
+23-02-2023,Denim Jeans Regular Fit,Clothing,Asia Pacific,51.6,22.83
+09-03-2023,Wireless Mouse,Electronics,Middle East,19.5,7.06
+13-04-2022,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,56.82,18.57
+14-06-2023,Mixed Nuts Pack,Food & Beverages,Middle East,41.41,20.4
+20-07-2024,Indoor Planter Pot,Home & Garden,North America,56.51,25.09
+09-05-2023,Lip Balm Set,Beauty & Personal Care,North America,46.63,23.41
+07-06-2022,Kitchen Herb Garden,Home & Garden,Latin America,99.62,37.71
+23-08-2022,Bath Soap Pack,Beauty & Personal Care,North America,11.89,6.01
+09-03-2022,Laptop Stand Adjustable,Electronics,Latin America,22.03,7.24
+10-09-2023,Indoor Planter Pot,Home & Garden,Europe,39.98,18.27
+20-10-2023,A4 Notebook Hardcover,Office Supplies,Latin America,17.57,8.59
+23-11-2022,Wall Decor Frame,Home & Garden,Middle East,42.89,15.79
+29-04-2022,Scented Candle Set,Home & Garden,North America,40.31,16.93
+22-02-2023,Hand Cream Tube,Beauty & Personal Care,Latin America,5.77,2.96
+30-05-2023,Sticky Notes Pad,Office Supplies,North America,42.18,21.11
+19-11-2023,A4 Notebook Hardcover,Office Supplies,North America,22.57,8.91
+23-08-2023,Smart Watch Basic,Electronics,North America,237.19,70.48
+18-12-2023,Lip Balm Set,Beauty & Personal Care,Europe,26.6,15.11
+16-09-2022,Wireless Mouse,Electronics,Europe,39.42,15.1
+15-12-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,74.18,31.1
+29-10-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,8.08,4.37
+09-02-2024,Energy Drink 6-Pack,Food & Beverages,North America,14.59,7.41
+19-04-2023,Organic Green Tea Box,Food & Beverages,Europe,20.26,9.31
+31-01-2023,Laptop Stand Adjustable,Electronics,Middle East,45.7,15.93
+24-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,41.03,16.7
+02-10-2023,Bluetooth Speaker Mini,Electronics,Europe,49.58,16.75
+18-04-2024,Hand Cream Tube,Beauty & Personal Care,North America,30.63,15.66
+27-06-2023,Bluetooth Speaker Mini,Electronics,North America,72.71,21.7
+20-02-2023,Resistance Bands Set,Sports & Outdoors,Middle East,11.83,6.01
+30-01-2023,Wool Blend Sweater,Clothing,North America,85.31,36.1
+02-08-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.45,4.39
+18-02-2022,USB-C Charging Cable,Electronics,Asia Pacific,10.58,4.1
+08-01-2023,Smart Watch Basic,Electronics,Latin America,73.38,19.1
+19-11-2023,Scented Candle Set,Home & Garden,Africa,9.2,4.25
+29-05-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,36.48,12.2
+30-06-2022,Energy Drink 6-Pack,Food & Beverages,North America,41.44,18.79
+08-05-2023,Throw Pillow Cover,Home & Garden,North America,28.54,12.71
+04-07-2023,LED Desk Lamp,Home & Garden,Europe,246.08,84.94
+14-07-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,76.85,33.62
+28-06-2022,Denim Jeans Regular Fit,Clothing,Europe,91.38,45.22
+07-04-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Africa,7.53,2.78
+05-12-2024,Desk Organizer Tray,Office Supplies,North America,48.94,21.8
+23-03-2023,Yoga Mat Premium,Sports & Outdoors,North America,138.13,69.84
+19-08-2023,Wireless Keyboard,Office Supplies,North America,102.89,34.91
+17-08-2024,Running Sneakers,Clothing,Latin America,184.92,76.26
+10-01-2022,Wool Blend Sweater,Clothing,Europe,77.55,33.2
+04-10-2024,Running Sneakers,Clothing,Europe,99.62,39.93
+01-10-2024,Laptop Stand Adjustable,Electronics,Middle East,21.21,7.68
+28-09-2022,Lip Balm Set,Beauty & Personal Care,Middle East,11.23,6.24
+12-05-2024,Wall Decor Frame,Home & Garden,Africa,65.9,30.74
+04-06-2022,Lip Balm Set,Beauty & Personal Care,Latin America,10.62,5.85
+01-04-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,52.4,17.53
+06-01-2023,Sticky Notes Pad,Office Supplies,Asia Pacific,4.78,2.64
+31-01-2022,Face Moisturizer Cream,Beauty & Personal Care,Asia Pacific,45.09,22.83
+17-05-2023,Denim Jeans Regular Fit,Clothing,North America,86.55,36.02
+27-04-2024,Organic Green Tea Box,Food & Beverages,Asia Pacific,13.32,6.43
+26-05-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,30.41,12.7
+14-09-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,19.54,9.27
+07-11-2023,Mixed Nuts Pack,Food & Beverages,Europe,29.97,16.15
+11-07-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,13.11,5.2
+08-03-2022,Mixed Nuts Pack,Food & Beverages,Asia Pacific,12.34,5.37
+22-10-2024,Wireless Bluetooth Headphones,Electronics,North America,227.7,74.58
+31-07-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,22.2,11.35
+15-04-2022,Energy Drink 6-Pack,Food & Beverages,North America,32.97,14.57
+24-04-2024,A4 Notebook Hardcover,Office Supplies,North America,23.18,10.43
+16-01-2022,Wool Blend Sweater,Clothing,Middle East,44.93,20.67
+06-12-2023,Wireless Mouse,Electronics,Middle East,28.05,10.9
+29-01-2023,Resistance Bands Set,Sports & Outdoors,North America,122.17,52.94
+24-08-2024,Throw Pillow Cover,Home & Garden,Europe,105.17,56.48
+25-06-2022,Face Moisturizer Cream,Beauty & Personal Care,Middle East,90.95,49.79
+13-05-2023,Sparkling Water 12-Pack,Food & Beverages,Middle East,6.95,3.58
+01-07-2023,Hand Cream Tube,Beauty & Personal Care,Europe,13.92,6.38
+18-08-2023,Water Bottle Stainless Steel,Sports & Outdoors,Latin America,14.69,6.44
+23-12-2022,Mixed Nuts Pack,Food & Beverages,North America,26.63,14.6
+10-03-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,18.53,7.63
+08-02-2022,Sparkling Water 12-Pack,Food & Beverages,North America,11.17,5.83
+24-04-2023,Casual Button-Down Shirt,Clothing,Africa,17.44,9.54
+18-12-2024,Wall Decor Frame,Home & Garden,Middle East,26.25,12.31
+25-01-2024,Foldable Camping Chair,Sports & Outdoors,North America,208.76,65.77
+25-06-2023,Bluetooth Speaker Mini,Electronics,Europe,62.33,22.19
+01-02-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Africa,7.35,2.99
+17-07-2024,Wall Decor Frame,Home & Garden,Asia Pacific,128.79,46.04
+07-04-2023,Wireless Keyboard,Office Supplies,Europe,79.99,26.98
+17-09-2022,Throw Pillow Cover,Home & Garden,Asia Pacific,20.11,8.89
+18-09-2023,Wireless Keyboard,Office Supplies,Asia Pacific,51.21,18.4
+12-09-2022,Energy Drink 6-Pack,Food & Beverages,North America,18.7,7.84
+05-06-2024,Energy Drink 6-Pack,Food & Beverages,Middle East,54.55,26.2
+24-08-2022,USB-C Charging Cable,Electronics,Asia Pacific,65.13,25.46
+02-08-2023,Kitchen Herb Garden,Home & Garden,North America,47.91,18.47
+23-06-2024,Dark Chocolate Bar,Food & Beverages,Europe,51.63,22.65
+13-01-2024,Wireless Bluetooth Headphones,Electronics,Africa,78.02,23.79
+19-03-2024,Wireless Keyboard,Office Supplies,Middle East,88.8,26.23
+27-02-2022,Portable Power Bank 10000mAh,Electronics,North America,110.52,33.89
+23-09-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,12.48,5.28
+26-01-2022,Sticky Notes Pad,Office Supplies,Asia Pacific,13.32,7.09
+20-03-2024,Energy Drink 6-Pack,Food & Beverages,Latin America,13.67,7.37
+20-10-2023,Organic Green Tea Box,Food & Beverages,North America,18.01,8.41
+06-05-2023,Hair Shampoo 300ml,Beauty & Personal Care,Middle East,10.01,4.05
+08-10-2022,Throw Pillow Cover,Home & Garden,Middle East,12.01,6.1
+11-07-2024,Organic Green Tea Box,Food & Beverages,North America,52.0,21.96
+13-11-2023,Hand Cream Tube,Beauty & Personal Care,Middle East,12.99,7.52
+02-01-2023,Casual Button-Down Shirt,Clothing,Africa,12.72,6.32
+16-04-2022,Lip Balm Set,Beauty & Personal Care,Asia Pacific,41.78,19.38
+26-09-2022,Mixed Nuts Pack,Food & Beverages,North America,34.78,18.44
+27-04-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,25.96,14.19
+23-01-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,32.41,16.61
+20-10-2023,Bluetooth Speaker Mini,Electronics,Asia Pacific,36.1,11.78
+11-03-2022,Hand Cream Tube,Beauty & Personal Care,Latin America,5.98,3.51
+01-08-2024,Bath Soap Pack,Beauty & Personal Care,Europe,11.3,6.11
+08-09-2022,Smart Watch Basic,Electronics,North America,236.06,74.69
+23-11-2024,Sparkling Water 12-Pack,Food & Beverages,North America,11.4,6.56
+29-01-2024,Resistance Bands Set,Sports & Outdoors,Europe,35.71,20.35
+13-05-2022,Smart Watch Basic,Electronics,Africa,65.73,21.01
+29-01-2022,Face Moisturizer Cream,Beauty & Personal Care,Latin America,14.28,6.34
+01-08-2024,LED Desk Lamp,Home & Garden,North America,176.94,67.51
+29-01-2022,Classic Cotton T-Shirt,Clothing,North America,29.21,14.78
+26-10-2022,Laptop Stand Adjustable,Electronics,Europe,41.5,14.82
+13-04-2024,Energy Drink 6-Pack,Food & Beverages,Middle East,24.57,10.59
+03-03-2024,Scented Candle Set,Home & Garden,North America,35.92,18.1
+16-03-2024,Yoga Mat Premium,Sports & Outdoors,Middle East,92.6,47.26
+17-07-2022,Running Sneakers,Clothing,Asia Pacific,92.75,37.07
+14-01-2023,Casual Button-Down Shirt,Clothing,North America,202.75,114.64
+29-10-2022,Classic Cotton T-Shirt,Clothing,Latin America,40.93,25.57
+03-09-2023,A4 Notebook Hardcover,Office Supplies,Asia Pacific,15.48,6.49
+25-04-2022,LED Desk Lamp,Home & Garden,Africa,19.5,5.83
+09-09-2023,Desk Organizer Tray,Office Supplies,North America,37.47,14.27
+23-11-2023,Mechanical Pencil Set,Office Supplies,Asia Pacific,10.79,4.7
+16-07-2024,Dark Chocolate Bar,Food & Beverages,North America,13.01,5.92
+12-02-2024,Wool Blend Sweater,Clothing,Latin America,70.41,36.08
+28-11-2022,Mixed Nuts Pack,Food & Beverages,Middle East,17.34,7.45
+07-08-2024,Foldable Camping Chair,Sports & Outdoors,Latin America,189.79,59.91
+19-07-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,28.68,12.78
+18-12-2023,Indoor Planter Pot,Home & Garden,Latin America,73.74,25.87
+29-12-2023,Phone Grip Stand,Electronics,North America,17.38,7.43
+21-11-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,13.32,5.51
+10-04-2024,Wireless Mouse,Electronics,Europe,39.78,17.35
+26-05-2022,Denim Jeans Regular Fit,Clothing,Latin America,73.28,34.41
+20-10-2024,Organic Green Tea Box,Food & Beverages,North America,21.34,9.18
+05-02-2023,Kitchen Herb Garden,Home & Garden,Asia Pacific,22.03,8.89
+07-06-2022,Ballpoint Pen Box of 12,Office Supplies,Latin America,6.44,3.34
+11-03-2024,LED Desk Lamp,Home & Garden,Latin America,28.99,10.12
+17-01-2022,Laptop Stand Adjustable,Electronics,Africa,48.58,18.61
+09-07-2024,Kitchen Herb Garden,Home & Garden,North America,53.38,20.11
+21-03-2023,Wireless Bluetooth Headphones,Electronics,Europe,87.06,28.86
+14-10-2024,Mixed Nuts Pack,Food & Beverages,Europe,14.21,7.47
+16-08-2022,A4 Notebook Hardcover,Office Supplies,Europe,20.68,8.68
+25-12-2024,Phone Grip Stand,Electronics,North America,35.78,17.83
+13-04-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,33.17,16.01
+08-04-2023,LED Desk Lamp,Home & Garden,Europe,195.89,62.05
+06-02-2024,Mixed Nuts Pack,Food & Beverages,Middle East,8.85,3.93
+30-09-2022,Face Moisturizer Cream,Beauty & Personal Care,Asia Pacific,25.33,10.79
+17-05-2023,Wall Decor Frame,Home & Garden,Middle East,20.94,7.81
+26-11-2024,Hand Cream Tube,Beauty & Personal Care,Middle East,15.35,7.42
+27-03-2022,LED Desk Lamp,Home & Garden,North America,63.04,25.37
+09-03-2023,Bluetooth Speaker Mini,Electronics,Latin America,51.83,15.31
+19-02-2023,Organic Green Tea Box,Food & Beverages,Middle East,10.16,3.88
+25-03-2022,Foldable Camping Chair,Sports & Outdoors,North America,83.66,27.87
+01-06-2024,USB-C Charging Cable,Electronics,Europe,17.24,8.63
+15-03-2023,Lip Balm Set,Beauty & Personal Care,North America,20.58,11.81
+30-01-2023,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,12.52,5.66
+16-03-2022,Scented Candle Set,Home & Garden,North America,73.1,29.3
+07-01-2023,Lip Balm Set,Beauty & Personal Care,Europe,14.9,6.9
+25-04-2024,Organic Green Tea Box,Food & Beverages,Europe,19.14,8.4
+25-08-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,8.83,4.87
+02-08-2022,Wireless Mouse,Electronics,North America,195.9,74.4
+11-02-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,7.46,3.75
+03-09-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,18.88,7.88
+05-05-2024,Sparkling Water 12-Pack,Food & Beverages,Middle East,14.63,8.6
+28-01-2024,Bath Soap Pack,Beauty & Personal Care,North America,34.94,21.84
+26-09-2024,Yoga Mat Premium,Sports & Outdoors,Middle East,35.85,16.86
+06-11-2023,Phone Grip Stand,Electronics,Middle East,27.88,13.17
+07-10-2022,Classic Cotton T-Shirt,Clothing,Middle East,69.03,35.05
+10-04-2022,Smart Watch Basic,Electronics,Latin America,263.83,70.92
+18-11-2023,Smart Watch Basic,Electronics,North America,612.52,166.69
+21-04-2023,Sparkling Water 12-Pack,Food & Beverages,North America,14.42,6.53
+13-02-2023,Sticky Notes Pad,Office Supplies,Asia Pacific,19.62,9.74
+28-09-2024,Phone Grip Stand,Electronics,Africa,4.07,1.99
+14-02-2024,Bluetooth Speaker Mini,Electronics,Middle East,26.76,9.44
+05-06-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,29.78,12.32
+03-03-2024,A4 Notebook Hardcover,Office Supplies,Europe,17.4,6.7
+20-11-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,46.45,28.13
+17-07-2024,Wall Decor Frame,Home & Garden,Latin America,22.58,8.6
+09-02-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,51.2,25.8
+14-01-2023,LED Desk Lamp,Home & Garden,Europe,186.24,66.15
+08-01-2024,A4 Notebook Hardcover,Office Supplies,Africa,15.66,7.27
+26-10-2024,Yoga Mat Premium,Sports & Outdoors,North America,181.76,88.23
+23-08-2022,Face Moisturizer Cream,Beauty & Personal Care,Europe,37.14,15.7
+15-02-2024,Denim Jeans Regular Fit,Clothing,Africa,20.05,9.31
+13-03-2023,Yoga Mat Premium,Sports & Outdoors,Africa,34.51,16.33
+30-07-2024,Bath Soap Pack,Beauty & Personal Care,Middle East,7.39,3.99
+23-08-2022,Bluetooth Speaker Mini,Electronics,Asia Pacific,47.18,15.59
+14-12-2022,Sticky Notes Pad,Office Supplies,Europe,20.61,10.86
+04-11-2022,Lip Balm Set,Beauty & Personal Care,Middle East,10.16,4.62
+09-02-2023,Yoga Mat Premium,Sports & Outdoors,Europe,50.39,24.09
+06-03-2022,Dark Chocolate Bar,Food & Beverages,North America,9.67,4.57
+21-08-2022,Smart Watch Basic,Electronics,Europe,188.47,45.45
+31-10-2024,LED Desk Lamp,Home & Garden,Europe,56.09,17.24
+03-04-2024,Winter Jacket Premium,Clothing,North America,291.68,81.89
+12-10-2024,Resistance Bands Set,Sports & Outdoors,North America,51.88,28.32
+22-01-2022,Resistance Bands Set,Sports & Outdoors,Europe,36.94,21.24
+31-01-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,23.84,8.92
+31-03-2022,LED Desk Lamp,Home & Garden,Asia Pacific,49.0,18.04
+11-12-2022,Bluetooth Speaker Mini,Electronics,Europe,72.44,23.59
+11-10-2022,LED Desk Lamp,Home & Garden,Latin America,57.03,17.33
+23-12-2022,A4 Notebook Hardcover,Office Supplies,Europe,105.14,43.19
+11-10-2024,Bath Soap Pack,Beauty & Personal Care,Middle East,17.43,10.71
+30-10-2023,Throw Pillow Cover,Home & Garden,Middle East,28.67,14.72
+03-03-2022,Portable Power Bank 10000mAh,Electronics,Middle East,28.36,7.95
+03-09-2024,Kitchen Herb Garden,Home & Garden,Middle East,38.19,15.01
+22-01-2024,Dark Chocolate Bar,Food & Beverages,Europe,28.18,12.87
+11-09-2022,Casual Button-Down Shirt,Clothing,North America,214.44,124.51
+15-06-2022,Phone Grip Stand,Electronics,Europe,15.1,6.89
+18-05-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,18.19,7.9
+06-02-2023,Laptop Stand Adjustable,Electronics,Latin America,20.36,6.89
+14-08-2022,Winter Jacket Premium,Clothing,Europe,257.05,87.47
+06-04-2022,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,7.91,4.02
+23-04-2024,Hand Cream Tube,Beauty & Personal Care,North America,30.34,15.2
+09-08-2022,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,12.16,5.84
+22-11-2023,USB-C Charging Cable,Electronics,North America,20.0,9.33
+10-06-2022,Portable Power Bank 10000mAh,Electronics,North America,143.53,52.78
+23-04-2022,Indoor Planter Pot,Home & Garden,North America,49.47,17.19
+02-12-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,29.82,10.53
+25-05-2024,Classic Cotton T-Shirt,Clothing,Latin America,65.8,38.39
+14-02-2022,Wireless Keyboard,Office Supplies,Asia Pacific,52.81,18.25
+24-09-2022,Winter Jacket Premium,Clothing,Asia Pacific,985.39,333.28
+23-12-2022,Wireless Mouse,Electronics,Asia Pacific,76.51,32.69
+19-11-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,14.6,6.9
+02-07-2024,Winter Jacket Premium,Clothing,Asia Pacific,629.56,176.23
+18-04-2024,Face Moisturizer Cream,Beauty & Personal Care,Europe,39.93,17.04
+20-06-2023,Winter Jacket Premium,Clothing,Europe,289.39,98.87
+23-11-2022,Organic Green Tea Box,Food & Beverages,North America,18.93,6.96
+23-03-2023,Indoor Planter Pot,Home & Garden,Europe,75.68,28.9
+17-08-2022,Denim Jeans Regular Fit,Clothing,North America,309.77,162.03
+15-09-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,59.89,30.84
+16-03-2022,Wireless Bluetooth Headphones,Electronics,Middle East,111.35,44.35
+15-03-2024,Dark Chocolate Bar,Food & Beverages,Africa,2.98,1.29
+17-08-2022,Denim Jeans Regular Fit,Clothing,Asia Pacific,269.53,110.32
+07-09-2023,Classic Cotton T-Shirt,Clothing,Latin America,14.36,8.41
+20-11-2022,A4 Notebook Hardcover,Office Supplies,North America,68.84,28.83
+31-03-2023,Mixed Nuts Pack,Food & Beverages,Africa,10.75,4.96
+30-10-2024,Running Sneakers,Clothing,Europe,103.04,40.16
+11-12-2024,Phone Grip Stand,Electronics,Europe,15.49,7.87
+28-08-2023,USB-C Charging Cable,Electronics,Europe,73.05,33.94
+29-05-2023,Classic Cotton T-Shirt,Clothing,Asia Pacific,24.03,14.0
+18-12-2023,Wireless Bluetooth Headphones,Electronics,Middle East,79.33,28.18
+10-06-2022,Throw Pillow Cover,Home & Garden,North America,122.99,62.7
+24-09-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,24.26,10.27
+19-12-2022,Face Moisturizer Cream,Beauty & Personal Care,Africa,62.64,29.51
+23-04-2022,Scented Candle Set,Home & Garden,Asia Pacific,22.16,10.84
+21-01-2024,USB-C Charging Cable,Electronics,Asia Pacific,9.72,4.91
+12-01-2022,Running Sneakers,Clothing,Europe,373.15,143.22
+26-02-2022,Mixed Nuts Pack,Food & Beverages,Africa,4.7,2.33
+29-12-2022,Portable Power Bank 10000mAh,Electronics,Latin America,136.87,39.8
+04-06-2022,Classic Cotton T-Shirt,Clothing,Middle East,19.05,9.22
+11-11-2024,Yoga Mat Premium,Sports & Outdoors,Middle East,62.01,25.4
+25-06-2022,Desk Organizer Tray,Office Supplies,Asia Pacific,57.0,24.63
+29-10-2022,Phone Grip Stand,Electronics,North America,41.4,21.05
+05-07-2023,Wireless Mouse,Electronics,Europe,136.29,61.54
+10-11-2022,Foldable Camping Chair,Sports & Outdoors,North America,78.67,23.33
+01-12-2023,Resistance Bands Set,Sports & Outdoors,Middle East,18.31,9.7
+15-12-2024,LED Desk Lamp,Home & Garden,Europe,87.44,34.24
+16-12-2024,Mechanical Pencil Set,Office Supplies,Latin America,10.42,4.93
+23-08-2023,Face Moisturizer Cream,Beauty & Personal Care,Europe,80.35,34.52
+29-08-2023,Bluetooth Speaker Mini,Electronics,North America,73.48,23.83
+16-04-2023,Resistance Bands Set,Sports & Outdoors,Europe,26.0,12.59
+14-05-2024,Mechanical Pencil Set,Office Supplies,Asia Pacific,43.13,23.7
+07-11-2022,Organic Green Tea Box,Food & Beverages,Latin America,17.1,7.3
+26-02-2023,Lip Balm Set,Beauty & Personal Care,Middle East,10.13,4.78
+28-04-2024,Smart Watch Basic,Electronics,North America,213.95,60.69
+28-06-2024,Desk Organizer Tray,Office Supplies,Europe,34.43,13.7
+26-01-2022,Sparkling Water 12-Pack,Food & Beverages,Middle East,5.68,2.77
+01-11-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,18.52,8.1
+20-04-2022,Bath Soap Pack,Beauty & Personal Care,Latin America,20.32,11.72
+17-06-2022,USB-C Charging Cable,Electronics,Europe,18.48,7.61
+23-05-2024,Portable Power Bank 10000mAh,Electronics,Latin America,24.23,7.61
+27-10-2024,Foldable Camping Chair,Sports & Outdoors,Europe,135.08,48.27
+14-06-2022,Kitchen Herb Garden,Home & Garden,North America,99.44,34.01
+16-01-2023,Water Bottle Stainless Steel,Sports & Outdoors,Africa,23.26,8.96
+20-05-2023,Bluetooth Speaker Mini,Electronics,Europe,61.34,21.51
+04-02-2024,Sticky Notes Pad,Office Supplies,North America,28.2,13.71
+24-06-2023,Resistance Bands Set,Sports & Outdoors,Asia Pacific,64.45,35.92
+28-01-2023,Wireless Mouse,Electronics,North America,175.15,65.59
+06-07-2024,Laptop Stand Adjustable,Electronics,Asia Pacific,73.6,31.85
+13-09-2024,Scented Candle Set,Home & Garden,Latin America,34.63,14.59
+13-08-2022,Hair Shampoo 300ml,Beauty & Personal Care,North America,20.02,9.8
+14-01-2022,Denim Jeans Regular Fit,Clothing,Asia Pacific,87.46,39.3
+17-11-2024,Wireless Mouse,Electronics,Latin America,18.37,8.02
+12-01-2024,Classic Cotton T-Shirt,Clothing,Middle East,16.32,7.78
+08-02-2024,Dark Chocolate Bar,Food & Beverages,Asia Pacific,10.91,5.25
+15-04-2022,Lip Balm Set,Beauty & Personal Care,Africa,19.13,9.31
+24-12-2024,Hand Cream Tube,Beauty & Personal Care,North America,35.95,17.32
+13-09-2023,Face Moisturizer Cream,Beauty & Personal Care,North America,77.68,32.93
+18-09-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,12.01,6.69
+06-06-2023,Scented Candle Set,Home & Garden,Latin America,33.68,13.34
+09-11-2024,Wall Decor Frame,Home & Garden,Latin America,32.78,13.92
+08-06-2024,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,18.64,8.44
+12-02-2022,Desk Organizer Tray,Office Supplies,Latin America,25.55,8.87
+30-06-2024,Energy Drink 6-Pack,Food & Beverages,Middle East,10.94,4.6
+22-02-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,58.78,25.58
+21-09-2023,Mechanical Pencil Set,Office Supplies,Europe,30.77,16.4
+27-05-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,19.8,9.17
+09-12-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,188.0,85.62
+23-01-2024,Bluetooth Speaker Mini,Electronics,North America,112.12,42.46
+28-10-2023,Phone Grip Stand,Electronics,North America,56.49,25.99
+23-01-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,4.57,2.25
+12-11-2023,Bath Soap Pack,Beauty & Personal Care,North America,21.66,13.18
+24-10-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,7.66,4.23
+25-02-2023,Winter Jacket Premium,Clothing,Middle East,121.5,36.07
+18-05-2022,Water Bottle Stainless Steel,Sports & Outdoors,North America,130.47,60.42
+26-03-2023,Resistance Bands Set,Sports & Outdoors,Middle East,26.46,14.56
+22-02-2023,Organic Green Tea Box,Food & Beverages,Asia Pacific,11.21,5.13
+10-09-2022,Yoga Mat Premium,Sports & Outdoors,North America,68.03,28.43
+03-05-2024,Indoor Planter Pot,Home & Garden,North America,163.13,64.92
+05-07-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,26.57,12.49
+16-12-2023,Kitchen Herb Garden,Home & Garden,Middle East,53.23,18.73
+04-04-2022,Yoga Mat Premium,Sports & Outdoors,Africa,17.8,8.17
+15-04-2024,Bluetooth Speaker Mini,Electronics,Asia Pacific,83.03,25.61
+26-03-2024,Scented Candle Set,Home & Garden,Asia Pacific,20.66,9.09
+29-03-2022,Water Bottle Stainless Steel,Sports & Outdoors,Africa,8.86,4.02
+08-09-2024,Scented Candle Set,Home & Garden,Europe,63.45,24.31
+18-12-2022,Mixed Nuts Pack,Food & Beverages,Europe,78.23,41.59
+16-09-2023,LED Desk Lamp,Home & Garden,Latin America,34.07,10.47
+19-08-2023,Denim Jeans Regular Fit,Clothing,Europe,171.44,87.3
+29-09-2024,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,56.84,20.55
+29-04-2024,Wireless Mouse,Electronics,Europe,40.38,15.48
+09-04-2024,Laptop Stand Adjustable,Electronics,Europe,40.35,15.69
+30-07-2024,Laptop Stand Adjustable,Electronics,Europe,103.63,42.32
+11-09-2024,Laptop Stand Adjustable,Electronics,Europe,45.61,17.38
+02-02-2022,Water Bottle Stainless Steel,Sports & Outdoors,Africa,26.53,10.48
+14-12-2024,Bluetooth Speaker Mini,Electronics,North America,248.41,90.7
+06-12-2023,LED Desk Lamp,Home & Garden,North America,102.58,36.76
+04-12-2022,Classic Cotton T-Shirt,Clothing,Africa,13.82,6.55
+05-03-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,11.2,5.63
+28-09-2022,Portable Power Bank 10000mAh,Electronics,Asia Pacific,35.83,10.46
+25-11-2022,Face Moisturizer Cream,Beauty & Personal Care,Latin America,16.32,7.84
+14-04-2023,Ballpoint Pen Box of 12,Office Supplies,North America,48.35,28.12
+10-12-2024,Ballpoint Pen Box of 12,Office Supplies,Latin America,14.54,6.52
+15-07-2022,Indoor Planter Pot,Home & Garden,Europe,51.13,19.13
+28-05-2022,Phone Grip Stand,Electronics,Asia Pacific,10.61,5.97
+29-08-2023,Yoga Mat Premium,Sports & Outdoors,Europe,128.24,62.62
+31-10-2024,Throw Pillow Cover,Home & Garden,Asia Pacific,18.57,8.6
+20-09-2023,Water Bottle Stainless Steel,Sports & Outdoors,Latin America,40.28,16.65
+16-04-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,150.67,48.08
+10-03-2023,Energy Drink 6-Pack,Food & Beverages,Latin America,7.27,3.39
+07-05-2024,Hair Shampoo 300ml,Beauty & Personal Care,Europe,17.61,7.8
+13-03-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,7.58,3.78
+14-09-2024,Throw Pillow Cover,Home & Garden,North America,138.74,72.7
+20-11-2022,Bluetooth Speaker Mini,Electronics,Asia Pacific,81.9,28.96
+20-12-2023,Wireless Keyboard,Office Supplies,Europe,88.11,28.96
+11-01-2022,Mechanical Pencil Set,Office Supplies,Asia Pacific,8.41,3.69
+11-12-2024,Winter Jacket Premium,Clothing,Middle East,171.72,48.57
+15-09-2024,Denim Jeans Regular Fit,Clothing,North America,95.06,38.91
+12-12-2024,Foldable Camping Chair,Sports & Outdoors,Africa,139.3,42.07
+17-12-2024,Organic Green Tea Box,Food & Beverages,Middle East,30.99,13.89
+03-07-2023,Bluetooth Speaker Mini,Electronics,Africa,21.11,7.0
+15-12-2024,Throw Pillow Cover,Home & Garden,Europe,29.22,14.87
+23-03-2023,Ballpoint Pen Box of 12,Office Supplies,Latin America,5.7,3.04
+06-08-2022,LED Desk Lamp,Home & Garden,Asia Pacific,49.44,16.39
+24-05-2024,Phone Grip Stand,Electronics,Middle East,31.1,15.68
+27-03-2022,Dark Chocolate Bar,Food & Beverages,Middle East,15.05,7.12
+29-11-2023,Wireless Keyboard,Office Supplies,Africa,25.31,7.53
+13-02-2024,Organic Green Tea Box,Food & Beverages,Asia Pacific,11.67,5.13
+16-02-2023,Water Bottle Stainless Steel,Sports & Outdoors,Africa,31.59,14.55
+17-04-2022,Ballpoint Pen Box of 12,Office Supplies,Europe,21.69,12.08
+22-07-2024,Lip Balm Set,Beauty & Personal Care,Europe,46.76,24.86
+09-05-2024,Lip Balm Set,Beauty & Personal Care,Europe,84.18,40.15
+29-05-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,6.12,3.86
+11-01-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,8.85,5.27
+01-10-2024,USB-C Charging Cable,Electronics,Latin America,21.0,10.65
+09-02-2024,Hair Shampoo 300ml,Beauty & Personal Care,Europe,28.65,13.12
+24-08-2023,Dark Chocolate Bar,Food & Beverages,Middle East,17.93,9.0
+19-03-2024,USB-C Charging Cable,Electronics,North America,17.33,8.35
+12-09-2024,Running Sneakers,Clothing,Latin America,61.4,21.89
+05-06-2024,Dark Chocolate Bar,Food & Beverages,Europe,29.72,15.15
+12-11-2024,Sparkling Water 12-Pack,Food & Beverages,Europe,20.05,10.78
+22-07-2022,Indoor Planter Pot,Home & Garden,North America,52.09,21.14
+02-11-2024,Throw Pillow Cover,Home & Garden,North America,30.2,16.55
+14-03-2022,Wireless Bluetooth Headphones,Electronics,Asia Pacific,139.47,49.71
+04-05-2022,Running Sneakers,Clothing,Europe,462.59,156.95
+04-06-2024,Denim Jeans Regular Fit,Clothing,Latin America,85.25,44.84
+11-04-2024,Wireless Keyboard,Office Supplies,North America,183.26,64.37
+04-01-2024,Kitchen Herb Garden,Home & Garden,Middle East,46.59,20.38
+17-01-2024,Wireless Mouse,Electronics,Europe,117.97,47.93
+15-09-2023,Denim Jeans Regular Fit,Clothing,Africa,106.54,48.47
+20-01-2023,Hand Cream Tube,Beauty & Personal Care,Middle East,6.31,2.87
+08-05-2024,USB-C Charging Cable,Electronics,Europe,16.65,7.09
+14-03-2024,Laptop Stand Adjustable,Electronics,North America,44.38,14.7
+28-04-2024,Desk Organizer Tray,Office Supplies,Europe,33.11,13.67
+07-02-2022,Winter Jacket Premium,Clothing,North America,271.19,82.03
+23-07-2023,Wall Decor Frame,Home & Garden,Asia Pacific,36.76,17.03
+10-03-2022,Yoga Mat Premium,Sports & Outdoors,Africa,32.86,15.42
+05-05-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,6.14,2.65
+22-10-2024,Indoor Planter Pot,Home & Garden,Latin America,36.05,13.87
+23-04-2024,Wool Blend Sweater,Clothing,North America,107.29,47.99
+03-09-2024,LED Desk Lamp,Home & Garden,North America,369.38,121.65
+04-09-2022,Sparkling Water 12-Pack,Food & Beverages,North America,28.93,15.53
+08-01-2024,Scented Candle Set,Home & Garden,Europe,96.78,43.97
+24-08-2023,Wireless Keyboard,Office Supplies,Europe,87.98,30.2
+02-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Middle East,9.23,3.8
+27-09-2024,Laptop Stand Adjustable,Electronics,North America,47.12,20.55
+09-10-2023,Portable Power Bank 10000mAh,Electronics,Africa,16.6,4.74
+18-01-2023,Denim Jeans Regular Fit,Clothing,Europe,56.58,28.13
+27-04-2022,Wool Blend Sweater,Clothing,Middle East,198.75,77.15
+06-10-2023,Lip Balm Set,Beauty & Personal Care,North America,91.23,48.06
+22-03-2022,Portable Power Bank 10000mAh,Electronics,Africa,17.2,5.84
+25-03-2023,Laptop Stand Adjustable,Electronics,Middle East,23.0,9.35
+06-04-2023,Dark Chocolate Bar,Food & Beverages,Asia Pacific,6.86,3.11
+13-03-2022,Resistance Bands Set,Sports & Outdoors,North America,49.14,21.47
+14-07-2022,Water Bottle Stainless Steel,Sports & Outdoors,Europe,35.75,15.84
+20-07-2023,Sticky Notes Pad,Office Supplies,North America,53.05,30.82
+05-02-2024,Hair Shampoo 300ml,Beauty & Personal Care,Europe,25.39,12.49
+16-02-2022,Resistance Bands Set,Sports & Outdoors,Asia Pacific,32.69,14.52
+14-05-2022,Yoga Mat Premium,Sports & Outdoors,Middle East,35.52,14.31
+20-07-2023,Dark Chocolate Bar,Food & Beverages,Europe,9.89,4.68
+05-04-2024,Winter Jacket Premium,Clothing,Europe,231.3,68.01
+11-07-2023,Mechanical Pencil Set,Office Supplies,Europe,53.8,27.25
+26-12-2024,Phone Grip Stand,Electronics,North America,19.69,8.95
+27-12-2024,Throw Pillow Cover,Home & Garden,Europe,32.18,14.84
+24-02-2024,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,15.61,6.95
+09-05-2022,Phone Grip Stand,Electronics,Europe,12.42,5.32
+26-12-2024,Energy Drink 6-Pack,Food & Beverages,North America,21.66,9.24
+08-06-2024,Face Moisturizer Cream,Beauty & Personal Care,Latin America,21.93,11.97
+25-06-2022,Sticky Notes Pad,Office Supplies,Middle East,9.57,5.5
+01-08-2022,Desk Organizer Tray,Office Supplies,Latin America,17.85,7.14
+25-06-2023,Sparkling Water 12-Pack,Food & Beverages,Africa,8.47,4.04
+29-02-2024,Smart Watch Basic,Electronics,Europe,630.89,169.94
+29-11-2022,Organic Green Tea Box,Food & Beverages,Latin America,28.78,12.81
+07-03-2024,Kitchen Herb Garden,Home & Garden,Europe,30.36,12.45
+14-05-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,23.21,11.61
+18-07-2023,Portable Power Bank 10000mAh,Electronics,North America,69.93,21.73
+07-01-2024,Wireless Bluetooth Headphones,Electronics,Latin America,133.59,52.14
+04-12-2023,Winter Jacket Premium,Clothing,Europe,328.49,109.22
+08-11-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,17.37,10.26
+12-05-2022,Winter Jacket Premium,Clothing,Latin America,122.22,37.29
+15-06-2024,Classic Cotton T-Shirt,Clothing,Europe,36.75,22.82
+12-06-2023,Mixed Nuts Pack,Food & Beverages,Africa,5.75,2.97
+21-12-2024,Energy Drink 6-Pack,Food & Beverages,Europe,40.78,21.24
+16-04-2022,Scented Candle Set,Home & Garden,Asia Pacific,45.86,21.33
+26-04-2023,Phone Grip Stand,Electronics,Europe,37.21,17.34
+10-11-2024,Wireless Bluetooth Headphones,Electronics,North America,111.99,43.2
+26-03-2022,Sticky Notes Pad,Office Supplies,Latin America,3.53,1.88
+18-04-2023,Water Bottle Stainless Steel,Sports & Outdoors,Latin America,42.74,19.29
+22-11-2022,Running Sneakers,Clothing,Europe,117.53,46.05
+28-03-2022,Classic Cotton T-Shirt,Clothing,Africa,10.32,5.62
+05-01-2024,Wall Decor Frame,Home & Garden,Europe,61.7,23.84
+12-09-2024,A4 Notebook Hardcover,Office Supplies,Latin America,9.69,4.16
+20-11-2024,Organic Green Tea Box,Food & Beverages,Asia Pacific,58.5,21.29
+15-06-2022,Mechanical Pencil Set,Office Supplies,Middle East,10.98,5.69
+29-06-2023,Ballpoint Pen Box of 12,Office Supplies,Middle East,7.05,3.76
+29-09-2023,Throw Pillow Cover,Home & Garden,Asia Pacific,39.55,18.25
+09-01-2022,Wireless Mouse,Electronics,North America,73.88,28.82
+22-11-2024,Kitchen Herb Garden,Home & Garden,North America,41.85,17.87
+20-11-2023,Smart Watch Basic,Electronics,North America,988.91,236.34
+14-11-2024,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,15.05,6.86
+15-09-2023,USB-C Charging Cable,Electronics,Europe,30.69,14.33
+27-11-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,16.1,8.09
+04-07-2023,Wireless Mouse,Electronics,Asia Pacific,34.67,12.0
+11-12-2022,Scented Candle Set,Home & Garden,North America,86.76,41.73
+02-02-2022,Wireless Keyboard,Office Supplies,Asia Pacific,104.76,32.92
+03-08-2024,Water Bottle Stainless Steel,Sports & Outdoors,North America,67.23,28.47
+08-03-2022,Wireless Keyboard,Office Supplies,Latin America,156.13,44.03
+14-08-2024,Kitchen Herb Garden,Home & Garden,North America,44.61,16.95
+26-11-2023,Hand Cream Tube,Beauty & Personal Care,Europe,12.44,6.5
+15-07-2023,Yoga Mat Premium,Sports & Outdoors,Europe,123.42,49.67
+08-12-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,46.4,20.2
+05-04-2022,Phone Grip Stand,Electronics,Asia Pacific,17.14,8.88
+10-03-2022,Kitchen Herb Garden,Home & Garden,Asia Pacific,24.07,10.04
+13-04-2024,USB-C Charging Cable,Electronics,Latin America,8.62,3.5
+16-02-2022,Scented Candle Set,Home & Garden,Latin America,27.08,12.47
+19-02-2023,Wool Blend Sweater,Clothing,Asia Pacific,54.05,27.46
+02-08-2023,Lip Balm Set,Beauty & Personal Care,Asia Pacific,30.92,13.58
+25-12-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,23.21,11.13
+26-11-2022,LED Desk Lamp,Home & Garden,Middle East,37.67,13.51
+17-01-2024,Laptop Stand Adjustable,Electronics,Europe,69.15,24.52
+04-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,32.57,14.48
+05-12-2022,Bluetooth Speaker Mini,Electronics,Asia Pacific,165.21,60.09
+12-12-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,29.41,11.45
+14-06-2022,Water Bottle Stainless Steel,Sports & Outdoors,North America,71.72,31.38
+19-01-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,34.96,18.94
+07-12-2024,Kitchen Herb Garden,Home & Garden,Europe,90.01,39.31
+16-06-2024,Desk Organizer Tray,Office Supplies,North America,90.93,33.19
+24-06-2023,Laptop Stand Adjustable,Electronics,Asia Pacific,39.11,13.23
+11-08-2022,Kitchen Herb Garden,Home & Garden,Europe,39.39,14.2
+07-05-2023,Sparkling Water 12-Pack,Food & Beverages,North America,51.27,26.22
+21-04-2023,Indoor Planter Pot,Home & Garden,Asia Pacific,64.47,29.36
+07-11-2024,Organic Green Tea Box,Food & Beverages,Latin America,9.2,3.39
+21-03-2024,Indoor Planter Pot,Home & Garden,Middle East,47.34,17.7
+14-05-2023,Wool Blend Sweater,Clothing,North America,215.74,103.16
+12-04-2024,Wireless Mouse,Electronics,Europe,142.98,61.47
+06-11-2023,Mechanical Pencil Set,Office Supplies,Europe,59.08,27.66
+15-11-2023,Hand Cream Tube,Beauty & Personal Care,North America,55.82,27.65
+17-06-2023,Phone Grip Stand,Electronics,Asia Pacific,20.37,9.97
+09-01-2024,Desk Organizer Tray,Office Supplies,North America,92.44,33.5
+26-04-2023,Mechanical Pencil Set,Office Supplies,North America,19.34,9.13
+21-11-2022,Casual Button-Down Shirt,Clothing,North America,119.91,57.81
+16-05-2024,Throw Pillow Cover,Home & Garden,North America,31.49,15.03
+05-08-2022,Throw Pillow Cover,Home & Garden,North America,61.19,33.26
+21-03-2023,Bath Soap Pack,Beauty & Personal Care,North America,24.4,13.58
+23-05-2024,Denim Jeans Regular Fit,Clothing,Asia Pacific,193.48,84.07
+25-01-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,20.58,6.73
+09-10-2024,Bluetooth Speaker Mini,Electronics,North America,61.1,21.32
+17-01-2023,Denim Jeans Regular Fit,Clothing,Latin America,60.45,25.25
+16-06-2024,Mixed Nuts Pack,Food & Beverages,Middle East,30.96,17.18
+26-01-2023,Casual Button-Down Shirt,Clothing,Africa,13.99,6.73
+19-12-2024,Running Sneakers,Clothing,Europe,143.48,53.06
+24-04-2024,Hair Shampoo 300ml,Beauty & Personal Care,Middle East,37.5,15.81
+16-01-2024,Denim Jeans Regular Fit,Clothing,North America,137.53,75.39
+21-07-2022,Bath Soap Pack,Beauty & Personal Care,Europe,57.5,32.57
+05-03-2022,Wireless Mouse,Electronics,North America,181.11,73.22
+03-01-2023,Running Sneakers,Clothing,Europe,166.87,54.93
+06-11-2024,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,17.96,9.99
+11-09-2023,Sticky Notes Pad,Office Supplies,Africa,2.55,1.54
+29-01-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,33.18,16.71
+19-05-2024,Wireless Keyboard,Office Supplies,Asia Pacific,63.96,20.94
+03-11-2022,Face Moisturizer Cream,Beauty & Personal Care,Latin America,51.96,21.53
+23-08-2023,Resistance Bands Set,Sports & Outdoors,Europe,72.13,39.37
+27-11-2024,Wireless Keyboard,Office Supplies,Middle East,43.5,14.38
+14-12-2023,Bath Soap Pack,Beauty & Personal Care,Middle East,6.97,3.73
+31-01-2023,Hand Cream Tube,Beauty & Personal Care,Africa,3.27,1.61
+26-12-2024,Lip Balm Set,Beauty & Personal Care,Latin America,38.41,17.3
+22-12-2022,Scented Candle Set,Home & Garden,Middle East,45.69,19.1
+15-03-2023,Hand Cream Tube,Beauty & Personal Care,North America,15.38,8.93
+31-05-2022,Scented Candle Set,Home & Garden,Asia Pacific,46.61,18.74
+16-11-2023,Denim Jeans Regular Fit,Clothing,Asia Pacific,117.31,52.57
+07-11-2023,Resistance Bands Set,Sports & Outdoors,North America,27.61,14.99
+12-09-2022,Wireless Mouse,Electronics,Africa,55.42,20.47
+09-07-2022,Foldable Camping Chair,Sports & Outdoors,Latin America,38.18,12.1
+13-05-2022,Resistance Bands Set,Sports & Outdoors,North America,59.71,33.76
+13-09-2024,Hand Cream Tube,Beauty & Personal Care,North America,13.27,5.94
+15-07-2023,Sparkling Water 12-Pack,Food & Beverages,Africa,14.11,7.8
+07-05-2022,Dark Chocolate Bar,Food & Beverages,Asia Pacific,20.54,8.72
+16-11-2022,Face Moisturizer Cream,Beauty & Personal Care,Latin America,51.69,26.99
+07-03-2024,Portable Power Bank 10000mAh,Electronics,North America,121.23,40.06
+13-07-2022,Throw Pillow Cover,Home & Garden,Europe,29.72,16.01
+31-07-2022,Mechanical Pencil Set,Office Supplies,Middle East,10.17,5.83
+06-10-2022,Wireless Mouse,Electronics,Europe,97.59,41.3
+11-07-2024,Sparkling Water 12-Pack,Food & Beverages,North America,33.62,16.95
+10-10-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,16.92,7.09
+07-05-2023,Resistance Bands Set,Sports & Outdoors,Latin America,13.39,7.3
+29-01-2022,Smart Watch Basic,Electronics,Europe,288.45,68.91
+05-05-2022,Portable Power Bank 10000mAh,Electronics,Asia Pacific,115.29,38.47
+18-04-2023,LED Desk Lamp,Home & Garden,Latin America,30.05,11.64
+11-07-2024,Energy Drink 6-Pack,Food & Beverages,Africa,28.59,11.83
+23-05-2023,Wireless Mouse,Electronics,Middle East,66.11,26.22
+09-06-2024,Bath Soap Pack,Beauty & Personal Care,Europe,11.98,7.4
+01-01-2022,Laptop Stand Adjustable,Electronics,Europe,36.71,13.23
+31-05-2023,Lip Balm Set,Beauty & Personal Care,Africa,7.21,3.08
+18-02-2022,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,6.65,2.66
+17-07-2024,Mechanical Pencil Set,Office Supplies,Middle East,22.38,10.35
+26-04-2024,Wall Decor Frame,Home & Garden,Asia Pacific,123.6,49.75
+19-10-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,8.02,3.52
+15-03-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,39.55,17.45
+14-02-2023,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,26.7,12.6
+11-09-2022,Smart Watch Basic,Electronics,North America,234.04,70.7
+17-01-2024,Resistance Bands Set,Sports & Outdoors,Latin America,18.2,9.09
+13-04-2024,Wireless Keyboard,Office Supplies,Asia Pacific,104.89,36.45
+11-02-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,4.81,2.83
+16-10-2024,Casual Button-Down Shirt,Clothing,Latin America,48.27,28.78
+20-08-2023,Scented Candle Set,Home & Garden,North America,76.98,29.45
+05-03-2023,Hair Shampoo 300ml,Beauty & Personal Care,Europe,42.39,19.19
+23-07-2022,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,301.5,101.73
+13-05-2022,Mechanical Pencil Set,Office Supplies,Europe,32.86,15.96
+28-09-2024,Denim Jeans Regular Fit,Clothing,Europe,68.58,33.42
+19-06-2024,Portable Power Bank 10000mAh,Electronics,North America,72.84,22.06
+06-07-2022,Resistance Bands Set,Sports & Outdoors,Asia Pacific,59.0,33.42
+22-11-2023,Bluetooth Speaker Mini,Electronics,North America,123.07,39.42
+23-02-2024,Indoor Planter Pot,Home & Garden,Asia Pacific,26.68,11.38
+24-06-2022,Laptop Stand Adjustable,Electronics,North America,62.38,20.92
+15-12-2022,Mechanical Pencil Set,Office Supplies,North America,72.1,35.9
+02-04-2024,Bath Soap Pack,Beauty & Personal Care,Middle East,25.76,12.88
+06-05-2023,Running Sneakers,Clothing,North America,124.91,42.53
+03-04-2024,Smart Watch Basic,Electronics,Africa,118.55,31.55
+10-06-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,107.09,38.68
+23-01-2024,Resistance Bands Set,Sports & Outdoors,Europe,59.07,31.21
+21-03-2022,Resistance Bands Set,Sports & Outdoors,North America,26.09,14.76
+21-07-2022,Desk Organizer Tray,Office Supplies,Middle East,20.24,7.02
+23-11-2024,Desk Organizer Tray,Office Supplies,Latin America,49.31,22.25
+17-02-2023,Lip Balm Set,Beauty & Personal Care,Asia Pacific,12.16,6.19
+21-01-2024,Wool Blend Sweater,Clothing,Europe,153.38,62.66
+14-02-2024,LED Desk Lamp,Home & Garden,North America,58.81,21.09
+28-02-2022,LED Desk Lamp,Home & Garden,North America,126.61,40.36
+29-05-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,10.95,5.16
+28-02-2022,Wall Decor Frame,Home & Garden,Africa,9.82,3.51
+27-06-2024,Yoga Mat Premium,Sports & Outdoors,Europe,125.94,59.53
+13-03-2024,Indoor Planter Pot,Home & Garden,Latin America,86.75,29.61
+01-09-2022,Hair Shampoo 300ml,Beauty & Personal Care,North America,87.9,35.77
+04-06-2023,Portable Power Bank 10000mAh,Electronics,Latin America,26.97,9.3
+25-06-2022,Hand Cream Tube,Beauty & Personal Care,North America,17.11,9.18
+18-11-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,15.08,8.32
+05-04-2022,Indoor Planter Pot,Home & Garden,North America,90.77,33.32
+08-11-2024,Wireless Mouse,Electronics,Europe,76.98,30.25
+01-02-2024,Indoor Planter Pot,Home & Garden,Middle East,82.26,32.28
+07-11-2023,Bluetooth Speaker Mini,Electronics,North America,66.4,24.16
+16-05-2024,Ballpoint Pen Box of 12,Office Supplies,Africa,7.45,3.32
+17-05-2022,Wall Decor Frame,Home & Garden,Asia Pacific,27.46,11.83
+24-10-2023,Energy Drink 6-Pack,Food & Beverages,North America,15.69,7.55
+13-11-2023,Mixed Nuts Pack,Food & Beverages,Africa,11.14,6.32
+07-11-2022,Hair Shampoo 300ml,Beauty & Personal Care,North America,16.58,6.58
+17-01-2023,Denim Jeans Regular Fit,Clothing,Europe,127.56,55.92
+26-10-2023,Indoor Planter Pot,Home & Garden,Africa,37.34,16.03
+23-08-2024,Laptop Stand Adjustable,Electronics,Europe,48.93,18.03
+07-08-2023,Face Moisturizer Cream,Beauty & Personal Care,North America,47.68,23.41
+26-03-2024,Denim Jeans Regular Fit,Clothing,Asia Pacific,53.64,29.36
+20-11-2024,Throw Pillow Cover,Home & Garden,North America,60.14,25.38
+31-03-2024,Sparkling Water 12-Pack,Food & Beverages,Latin America,5.77,3.05
+19-02-2024,Bath Soap Pack,Beauty & Personal Care,Latin America,4.65,2.54
+25-07-2023,Kitchen Herb Garden,Home & Garden,North America,136.15,50.1
+14-05-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,50.97,31.97
+28-04-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,11.43,5.05
+08-03-2024,Laptop Stand Adjustable,Electronics,Asia Pacific,62.59,22.31
+13-10-2023,Sparkling Water 12-Pack,Food & Beverages,North America,23.55,12.3
+04-12-2024,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,11.64,6.17
+11-11-2024,Wall Decor Frame,Home & Garden,Africa,12.22,4.5
+26-05-2024,Bath Soap Pack,Beauty & Personal Care,North America,64.18,38.35
+19-05-2024,Indoor Planter Pot,Home & Garden,Europe,46.22,17.75
+14-03-2023,Classic Cotton T-Shirt,Clothing,Africa,20.15,10.93
+15-05-2023,Desk Organizer Tray,Office Supplies,Latin America,15.06,5.12
+25-01-2024,Laptop Stand Adjustable,Electronics,Africa,37.55,16.22
+28-10-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,19.06,10.71
+31-08-2023,Water Bottle Stainless Steel,Sports & Outdoors,Africa,11.17,4.37
+05-01-2022,Mechanical Pencil Set,Office Supplies,North America,51.71,27.51
+06-08-2024,LED Desk Lamp,Home & Garden,North America,263.74,85.3
+22-01-2023,USB-C Charging Cable,Electronics,Europe,27.4,10.74
+11-07-2023,LED Desk Lamp,Home & Garden,Middle East,40.94,15.14
+30-07-2024,Sparkling Water 12-Pack,Food & Beverages,Africa,4.26,2.07
+05-05-2024,Running Sneakers,Clothing,Asia Pacific,193.08,82.43
+28-11-2023,Winter Jacket Premium,Clothing,North America,790.19,254.33
+06-07-2023,Indoor Planter Pot,Home & Garden,Europe,163.17,60.43
+19-08-2022,Sticky Notes Pad,Office Supplies,Europe,18.07,8.73
+27-10-2022,Casual Button-Down Shirt,Clothing,Europe,42.59,24.63
+31-12-2023,Organic Green Tea Box,Food & Beverages,Asia Pacific,50.88,20.68
+23-03-2024,Classic Cotton T-Shirt,Clothing,North America,152.04,89.16
+21-06-2022,Denim Jeans Regular Fit,Clothing,North America,273.21,148.22
+07-01-2023,Wireless Mouse,Electronics,Latin America,66.58,29.57
+14-09-2022,Energy Drink 6-Pack,Food & Beverages,Africa,25.46,11.01
+16-09-2022,Bluetooth Speaker Mini,Electronics,Europe,54.2,20.42
+03-01-2024,Mechanical Pencil Set,Office Supplies,Middle East,19.76,9.47
+12-02-2023,A4 Notebook Hardcover,Office Supplies,Europe,16.68,7.98
+28-11-2024,Desk Organizer Tray,Office Supplies,Europe,32.72,14.75
+04-07-2024,Smart Watch Basic,Electronics,Europe,224.5,68.4
+03-07-2023,Indoor Planter Pot,Home & Garden,Europe,89.52,35.21
+17-06-2023,Lip Balm Set,Beauty & Personal Care,Middle East,27.25,11.65
+02-08-2024,Classic Cotton T-Shirt,Clothing,Europe,64.17,31.87
+02-02-2023,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,7.55,3.48
+10-12-2023,Wall Decor Frame,Home & Garden,North America,173.27,69.18
+02-09-2024,Denim Jeans Regular Fit,Clothing,Latin America,36.95,15.58
+29-12-2022,Wool Blend Sweater,Clothing,Asia Pacific,83.43,39.57
+22-08-2022,Running Sneakers,Clothing,Asia Pacific,297.76,101.97
+15-11-2022,Lip Balm Set,Beauty & Personal Care,Africa,12.69,5.95
+16-07-2022,Wool Blend Sweater,Clothing,Europe,114.49,50.65
+16-09-2024,Resistance Bands Set,Sports & Outdoors,Europe,25.66,11.17
+27-01-2024,Smart Watch Basic,Electronics,North America,162.84,42.45
+11-05-2022,Yoga Mat Premium,Sports & Outdoors,Latin America,29.48,13.15
+11-02-2023,LED Desk Lamp,Home & Garden,Latin America,81.6,26.93
+06-09-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,100.31,38.61
+14-06-2022,Resistance Bands Set,Sports & Outdoors,North America,31.28,13.3
+19-11-2024,Lip Balm Set,Beauty & Personal Care,North America,20.6,10.88
+15-04-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,11.04,5.03
+03-10-2023,Resistance Bands Set,Sports & Outdoors,Asia Pacific,63.58,36.38
+14-02-2023,Organic Green Tea Box,Food & Beverages,North America,17.61,8.5
+08-08-2022,A4 Notebook Hardcover,Office Supplies,Asia Pacific,42.08,19.53
+15-09-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,23.59,8.88
+22-08-2022,Sparkling Water 12-Pack,Food & Beverages,North America,14.21,6.92
+11-09-2023,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,208.06,74.31
+31-03-2022,Casual Button-Down Shirt,Clothing,Latin America,22.92,11.08
+08-04-2022,LED Desk Lamp,Home & Garden,Europe,256.41,87.26
+29-05-2022,Wireless Keyboard,Office Supplies,North America,87.35,28.66
+11-06-2022,Resistance Bands Set,Sports & Outdoors,Europe,29.52,14.29
+07-12-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,20.56,9.25
+21-09-2022,Energy Drink 6-Pack,Food & Beverages,Africa,4.71,2.36
+29-07-2022,Wall Decor Frame,Home & Garden,Latin America,83.42,35.01
+18-11-2022,Mechanical Pencil Set,Office Supplies,North America,16.79,8.63
+30-10-2023,Desk Organizer Tray,Office Supplies,Europe,125.32,57.46
+01-08-2024,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,47.36,20.13
+08-09-2024,Wool Blend Sweater,Clothing,Europe,177.21,68.37
+19-12-2022,Casual Button-Down Shirt,Clothing,Europe,65.03,34.89
+31-03-2023,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,11.86,6.02
+20-10-2024,Classic Cotton T-Shirt,Clothing,Latin America,29.9,18.45
+05-12-2023,Mixed Nuts Pack,Food & Beverages,Asia Pacific,16.49,9.0
+01-03-2022,Portable Power Bank 10000mAh,Electronics,Middle East,88.06,31.11
+25-09-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,16.26,8.93
+28-04-2024,Foldable Camping Chair,Sports & Outdoors,Middle East,84.5,30.63
+15-11-2023,LED Desk Lamp,Home & Garden,Middle East,33.0,11.05
+25-06-2024,Ballpoint Pen Box of 12,Office Supplies,North America,28.71,14.72
+20-04-2024,Bluetooth Speaker Mini,Electronics,Africa,17.31,5.01
+26-12-2023,Desk Organizer Tray,Office Supplies,Europe,38.72,14.25
+05-04-2023,Phone Grip Stand,Electronics,Asia Pacific,8.69,3.86
+30-04-2024,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,10.77,4.66
+20-04-2023,Laptop Stand Adjustable,Electronics,Europe,43.07,17.54
+08-09-2024,Wool Blend Sweater,Clothing,Asia Pacific,68.41,31.0
+07-06-2024,Dark Chocolate Bar,Food & Beverages,North America,21.47,8.29
+12-07-2023,Resistance Bands Set,Sports & Outdoors,Asia Pacific,91.38,45.56
+08-06-2023,Mechanical Pencil Set,Office Supplies,Asia Pacific,25.07,11.07
+17-11-2023,Denim Jeans Regular Fit,Clothing,Latin America,33.42,17.77
+22-06-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,38.25,13.73
+10-09-2023,Laptop Stand Adjustable,Electronics,Middle East,26.58,11.3
+09-06-2022,Organic Green Tea Box,Food & Beverages,North America,49.73,20.28
+27-02-2022,Resistance Bands Set,Sports & Outdoors,Asia Pacific,43.91,21.83
+16-07-2023,Throw Pillow Cover,Home & Garden,Asia Pacific,64.52,28.36
+23-11-2024,USB-C Charging Cable,Electronics,North America,17.83,8.86
+16-10-2022,Yoga Mat Premium,Sports & Outdoors,Europe,53.95,22.92
+28-08-2022,Portable Power Bank 10000mAh,Electronics,Europe,60.63,17.23
+13-12-2024,Kitchen Herb Garden,Home & Garden,North America,51.69,20.89
+14-06-2024,Mechanical Pencil Set,Office Supplies,North America,36.32,19.69
+31-12-2022,LED Desk Lamp,Home & Garden,North America,192.15,75.73
+23-04-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,25.83,8.89
+25-02-2024,Wall Decor Frame,Home & Garden,Africa,19.7,8.34
+02-11-2024,Laptop Stand Adjustable,Electronics,North America,97.62,32.91
+21-07-2024,LED Desk Lamp,Home & Garden,North America,179.24,62.84
+01-02-2024,Organic Green Tea Box,Food & Beverages,Latin America,25.86,11.59
+20-08-2023,USB-C Charging Cable,Electronics,Europe,36.92,15.87
+26-05-2023,Scented Candle Set,Home & Garden,North America,69.34,35.18
+25-07-2023,Bluetooth Speaker Mini,Electronics,North America,255.8,76.05
+30-11-2022,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,6.52,3.39
+16-01-2022,Indoor Planter Pot,Home & Garden,Europe,30.69,12.02
+03-04-2024,Denim Jeans Regular Fit,Clothing,North America,82.45,43.72
+19-08-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,47.09,29.34
+21-01-2022,Smart Watch Basic,Electronics,Africa,55.2,16.76
+06-01-2023,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,38.06,16.14
+24-09-2024,Foldable Camping Chair,Sports & Outdoors,Africa,48.75,17.34
+16-01-2024,Classic Cotton T-Shirt,Clothing,North America,82.86,52.07
+19-02-2024,Foldable Camping Chair,Sports & Outdoors,Europe,119.42,32.92
+20-10-2022,Resistance Bands Set,Sports & Outdoors,Middle East,26.38,11.23
+16-10-2023,Lip Balm Set,Beauty & Personal Care,North America,21.85,10.58
+29-07-2023,Wireless Bluetooth Headphones,Electronics,North America,148.3,45.1
+04-06-2023,Laptop Stand Adjustable,Electronics,Europe,50.01,18.38
+28-04-2023,USB-C Charging Cable,Electronics,Europe,46.81,19.26
+13-05-2022,Mixed Nuts Pack,Food & Beverages,Africa,5.8,2.71
+10-05-2024,Winter Jacket Premium,Clothing,North America,974.49,325.25
+21-08-2023,Denim Jeans Regular Fit,Clothing,Latin America,88.63,39.54
+05-01-2024,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,15.0,8.45
+23-04-2022,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,24.9,9.75
+03-08-2023,Desk Organizer Tray,Office Supplies,Asia Pacific,23.69,9.28
+07-05-2023,Water Bottle Stainless Steel,Sports & Outdoors,Europe,62.44,24.91
+24-05-2024,Phone Grip Stand,Electronics,Middle East,22.87,11.82
+01-11-2024,Energy Drink 6-Pack,Food & Beverages,Middle East,9.14,4.8
+19-07-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,27.58,10.41
+23-02-2024,Sparkling Water 12-Pack,Food & Beverages,North America,59.93,29.99
+17-12-2024,Phone Grip Stand,Electronics,North America,17.94,9.48
+20-12-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,46.66,15.28
+28-12-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,22.46,7.47
+19-09-2024,Yoga Mat Premium,Sports & Outdoors,Africa,19.92,9.28
+16-12-2022,Hand Cream Tube,Beauty & Personal Care,North America,36.04,20.83
+27-12-2024,Lip Balm Set,Beauty & Personal Care,Europe,47.42,24.17
+21-12-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,7.33,3.5
+28-01-2024,Wireless Mouse,Electronics,Asia Pacific,23.04,8.92
+03-09-2022,Phone Grip Stand,Electronics,Latin America,11.86,5.3
+21-09-2022,Sticky Notes Pad,Office Supplies,Europe,7.42,4.28
+15-11-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,12.84,6.52
+26-03-2024,A4 Notebook Hardcover,Office Supplies,Asia Pacific,12.99,5.98
+22-03-2022,USB-C Charging Cable,Electronics,Europe,64.98,27.45
+17-03-2024,Hand Cream Tube,Beauty & Personal Care,Africa,12.57,7.0
+02-05-2023,Mechanical Pencil Set,Office Supplies,Latin America,8.59,4.12
+23-03-2023,Wireless Keyboard,Office Supplies,Latin America,106.32,34.2
+26-10-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,39.88,16.17
+04-05-2024,Denim Jeans Regular Fit,Clothing,Middle East,145.44,68.58
+01-10-2024,Energy Drink 6-Pack,Food & Beverages,North America,17.48,7.7
+02-10-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,31.2,14.57
+16-12-2024,Wireless Bluetooth Headphones,Electronics,North America,589.99,211.23
+09-04-2022,Lip Balm Set,Beauty & Personal Care,North America,21.38,12.07
+31-12-2022,Throw Pillow Cover,Home & Garden,Latin America,16.9,9.19
+07-09-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,28.61,11.07
+27-10-2022,Wireless Keyboard,Office Supplies,Africa,97.79,34.95
+23-04-2023,Yoga Mat Premium,Sports & Outdoors,Middle East,129.44,66.32
+07-05-2024,Running Sneakers,Clothing,Middle East,328.77,134.16
+07-07-2024,Laptop Stand Adjustable,Electronics,Middle East,31.15,12.89
+16-11-2024,Desk Organizer Tray,Office Supplies,Asia Pacific,21.13,9.62
+05-01-2023,LED Desk Lamp,Home & Garden,North America,117.07,41.07
+09-02-2024,Wireless Mouse,Electronics,Asia Pacific,48.56,17.29
+27-12-2024,Desk Organizer Tray,Office Supplies,North America,51.32,21.17
+15-03-2024,A4 Notebook Hardcover,Office Supplies,Asia Pacific,14.66,6.27
+16-05-2024,Mechanical Pencil Set,Office Supplies,Latin America,22.18,10.33
+31-03-2024,Mechanical Pencil Set,Office Supplies,Europe,13.04,7.05
+17-08-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,18.95,11.14
+30-05-2023,USB-C Charging Cable,Electronics,Europe,15.82,7.5
+23-11-2024,Wall Decor Frame,Home & Garden,Europe,170.11,67.39
+08-02-2024,Foldable Camping Chair,Sports & Outdoors,Latin America,107.27,38.8
+14-05-2022,Smart Watch Basic,Electronics,North America,504.46,148.82
+09-08-2023,Hand Cream Tube,Beauty & Personal Care,Africa,4.69,2.42
+05-10-2023,Wall Decor Frame,Home & Garden,Europe,35.56,16.85
+09-01-2024,LED Desk Lamp,Home & Garden,Asia Pacific,166.49,50.66
+21-12-2022,Mixed Nuts Pack,Food & Beverages,Asia Pacific,30.42,14.99
+17-04-2024,USB-C Charging Cable,Electronics,Latin America,7.52,3.47
+29-06-2023,Throw Pillow Cover,Home & Garden,Europe,85.52,41.07
+11-01-2022,Wireless Mouse,Electronics,Latin America,16.02,6.36
+23-10-2024,Throw Pillow Cover,Home & Garden,Middle East,12.11,6.33
+14-05-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,17.4,6.44
+31-05-2024,Hand Cream Tube,Beauty & Personal Care,Middle East,16.01,8.31
+20-10-2023,Bluetooth Speaker Mini,Electronics,Europe,48.91,16.31
+06-10-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,40.65,18.5
+26-12-2022,Indoor Planter Pot,Home & Garden,North America,62.44,26.38
+30-04-2022,Classic Cotton T-Shirt,Clothing,Latin America,15.1,7.76
+09-12-2024,Smart Watch Basic,Electronics,Europe,501.88,135.51
+18-05-2024,Throw Pillow Cover,Home & Garden,Latin America,67.88,30.41
+29-04-2023,A4 Notebook Hardcover,Office Supplies,Africa,11.55,5.74
+05-02-2022,Indoor Planter Pot,Home & Garden,Asia Pacific,53.09,22.04
+24-04-2022,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,15.22,8.53
+26-04-2024,Running Sneakers,Clothing,Middle East,119.53,45.98
+29-08-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,22.5,11.18
+07-08-2023,Foldable Camping Chair,Sports & Outdoors,North America,93.24,29.78
+13-06-2023,Hand Cream Tube,Beauty & Personal Care,Europe,13.95,7.72
+28-05-2023,Running Sneakers,Clothing,Europe,218.56,90.65
+28-10-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,40.25,24.69
+25-10-2024,Wireless Mouse,Electronics,Europe,37.21,16.02
+20-09-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,79.64,34.52
+04-07-2022,Smart Watch Basic,Electronics,Europe,420.65,120.97
+29-12-2024,Energy Drink 6-Pack,Food & Beverages,Europe,39.17,20.74
+19-05-2023,Casual Button-Down Shirt,Clothing,Europe,53.89,31.21
+26-02-2022,Smart Watch Basic,Electronics,Middle East,261.5,69.88
+18-03-2023,Casual Button-Down Shirt,Clothing,Asia Pacific,67.37,37.5
+11-07-2024,Smart Watch Basic,Electronics,North America,546.94,132.47
+19-12-2024,Scented Candle Set,Home & Garden,Asia Pacific,64.44,31.53
+06-04-2022,Sparkling Water 12-Pack,Food & Beverages,Europe,24.3,11.04
+04-06-2023,Mechanical Pencil Set,Office Supplies,Asia Pacific,26.7,15.04
+19-01-2024,Kitchen Herb Garden,Home & Garden,Europe,27.41,11.22
+12-09-2024,A4 Notebook Hardcover,Office Supplies,North America,93.65,44.23
+24-08-2024,Foldable Camping Chair,Sports & Outdoors,North America,184.85,51.95
+05-09-2022,Mixed Nuts Pack,Food & Beverages,Europe,14.76,7.29
+25-10-2023,Smart Watch Basic,Electronics,North America,382.54,109.03
+22-03-2022,Bath Soap Pack,Beauty & Personal Care,Europe,8.81,4.55
+06-11-2022,Casual Button-Down Shirt,Clothing,Middle East,77.44,39.88
+26-09-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,11.39,5.5
+27-04-2023,Throw Pillow Cover,Home & Garden,Asia Pacific,20.59,10.7
+25-07-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,82.05,24.47
+20-03-2023,Bath Soap Pack,Beauty & Personal Care,North America,21.44,11.07
+08-12-2022,Indoor Planter Pot,Home & Garden,Middle East,28.06,11.95
+27-05-2024,Dark Chocolate Bar,Food & Beverages,Europe,16.86,8.66
+13-01-2022,Phone Grip Stand,Electronics,North America,62.01,29.36
+12-01-2023,LED Desk Lamp,Home & Garden,Europe,94.77,30.07
+10-09-2022,Water Bottle Stainless Steel,Sports & Outdoors,Europe,31.12,13.71
+13-05-2023,Kitchen Herb Garden,Home & Garden,Middle East,22.57,8.99
+05-06-2023,Resistance Bands Set,Sports & Outdoors,Middle East,30.51,16.79
+16-01-2022,Wall Decor Frame,Home & Garden,Europe,65.88,25.24
+20-09-2022,Indoor Planter Pot,Home & Garden,Latin America,19.15,6.77
+21-04-2023,Running Sneakers,Clothing,Asia Pacific,275.49,108.57
+16-01-2022,Sticky Notes Pad,Office Supplies,Asia Pacific,8.79,5.14
+06-01-2022,Sticky Notes Pad,Office Supplies,Latin America,6.21,3.12
+11-09-2023,LED Desk Lamp,Home & Garden,Africa,21.07,7.9
+22-01-2024,Desk Organizer Tray,Office Supplies,Africa,18.52,6.7
+19-03-2022,Dark Chocolate Bar,Food & Beverages,Asia Pacific,5.86,2.67
+07-12-2024,Laptop Stand Adjustable,Electronics,North America,135.54,46.7
+06-06-2023,Water Bottle Stainless Steel,Sports & Outdoors,Asia Pacific,23.43,9.11
+20-02-2024,Laptop Stand Adjustable,Electronics,Asia Pacific,117.26,38.87
+09-05-2024,Water Bottle Stainless Steel,Sports & Outdoors,Europe,141.79,57.01
+12-03-2024,Hair Shampoo 300ml,Beauty & Personal Care,North America,70.75,35.13
+01-08-2024,Running Sneakers,Clothing,North America,299.66,117.37
+31-10-2022,A4 Notebook Hardcover,Office Supplies,Asia Pacific,12.42,5.33
+07-07-2022,Energy Drink 6-Pack,Food & Beverages,North America,19.02,9.05
+15-06-2023,Scented Candle Set,Home & Garden,North America,175.77,82.36
+25-12-2024,Bluetooth Speaker Mini,Electronics,North America,162.41,53.71
+10-11-2022,Laptop Stand Adjustable,Electronics,Latin America,21.79,8.37
+18-01-2024,Scented Candle Set,Home & Garden,North America,31.78,14.26
+24-04-2022,Energy Drink 6-Pack,Food & Beverages,Latin America,7.11,3.6
+26-05-2022,Sparkling Water 12-Pack,Food & Beverages,North America,12.89,7.62
+14-04-2024,Resistance Bands Set,Sports & Outdoors,North America,30.39,16.58
+27-01-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,14.02,6.33
+11-11-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,67.05,25.23
+13-01-2023,Wool Blend Sweater,Clothing,North America,78.08,39.45
+15-07-2022,Resistance Bands Set,Sports & Outdoors,Latin America,12.94,6.77
+26-04-2024,Throw Pillow Cover,Home & Garden,Latin America,11.85,6.09
+04-12-2024,Resistance Bands Set,Sports & Outdoors,North America,132.2,75.67
+28-04-2024,Smart Watch Basic,Electronics,Middle East,102.86,32.44
+29-08-2023,Throw Pillow Cover,Home & Garden,North America,33.74,15.64
+12-06-2022,Lip Balm Set,Beauty & Personal Care,Latin America,10.22,5.87
+26-09-2024,Water Bottle Stainless Steel,Sports & Outdoors,North America,62.26,27.44
+03-04-2023,Dark Chocolate Bar,Food & Beverages,North America,37.14,16.4
+27-06-2022,Hand Cream Tube,Beauty & Personal Care,Latin America,7.43,3.39
+10-01-2023,Portable Power Bank 10000mAh,Electronics,Latin America,41.52,12.09
+01-03-2024,Wireless Mouse,Electronics,Asia Pacific,134.38,56.96
+07-10-2022,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,32.09,17.39
+10-11-2024,Kitchen Herb Garden,Home & Garden,Europe,130.57,53.8
+12-05-2023,LED Desk Lamp,Home & Garden,Middle East,36.33,13.5
+28-08-2023,Mechanical Pencil Set,Office Supplies,Asia Pacific,25.74,13.45
+21-01-2022,Wool Blend Sweater,Clothing,Europe,71.58,33.05
+03-12-2022,USB-C Charging Cable,Electronics,North America,88.79,45.5
+04-09-2024,Denim Jeans Regular Fit,Clothing,Europe,68.18,30.52
+01-07-2023,Hair Shampoo 300ml,Beauty & Personal Care,Europe,20.84,9.17
+03-01-2022,Resistance Bands Set,Sports & Outdoors,Africa,11.92,5.78
+10-05-2023,Smart Watch Basic,Electronics,Latin America,103.26,31.52
+17-10-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,116.27,70.95
+26-10-2023,Wireless Mouse,Electronics,Asia Pacific,27.49,10.2
+08-09-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,25.22,10.26
+23-11-2022,Bath Soap Pack,Beauty & Personal Care,North America,23.58,12.82
+19-02-2022,LED Desk Lamp,Home & Garden,Latin America,25.17,8.38
+26-09-2024,LED Desk Lamp,Home & Garden,North America,67.98,21.21
+03-01-2022,Wall Decor Frame,Home & Garden,Latin America,16.33,6.71
+03-08-2022,Wireless Keyboard,Office Supplies,Asia Pacific,121.58,42.04
+05-08-2022,Smart Watch Basic,Electronics,Latin America,200.74,59.08
+18-01-2023,Hair Shampoo 300ml,Beauty & Personal Care,North America,59.92,23.78
+26-09-2023,Denim Jeans Regular Fit,Clothing,Middle East,42.06,18.63
+14-09-2022,Resistance Bands Set,Sports & Outdoors,North America,60.74,25.83
+28-01-2023,LED Desk Lamp,Home & Garden,Africa,73.22,23.43
+25-04-2023,LED Desk Lamp,Home & Garden,Middle East,171.97,64.99
+17-10-2022,Resistance Bands Set,Sports & Outdoors,North America,26.74,13.23
+28-09-2023,Wireless Mouse,Electronics,Europe,73.54,28.47
+05-04-2024,Wireless Keyboard,Office Supplies,Europe,69.47,23.29
+16-11-2024,Classic Cotton T-Shirt,Clothing,North America,32.04,19.01
+15-06-2022,Desk Organizer Tray,Office Supplies,Latin America,69.49,24.76
+10-08-2022,LED Desk Lamp,Home & Garden,Africa,22.1,7.57
+21-09-2024,Kitchen Herb Garden,Home & Garden,Middle East,45.15,18.24
+23-12-2023,Scented Candle Set,Home & Garden,Europe,132.55,63.17
+31-03-2022,Bath Soap Pack,Beauty & Personal Care,Europe,9.85,5.83
+12-06-2024,Dark Chocolate Bar,Food & Beverages,Asia Pacific,41.37,20.75
+05-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,21.64,8.76
+01-06-2023,Phone Grip Stand,Electronics,Africa,4.33,2.42
+27-03-2022,USB-C Charging Cable,Electronics,North America,96.15,42.08
+16-05-2023,Running Sneakers,Clothing,Middle East,220.98,73.51
+28-11-2023,Sticky Notes Pad,Office Supplies,Asia Pacific,11.8,5.63
+30-12-2024,Desk Organizer Tray,Office Supplies,Latin America,86.95,34.61
+26-05-2024,Wall Decor Frame,Home & Garden,North America,44.95,19.22
+13-02-2024,Ballpoint Pen Box of 12,Office Supplies,Latin America,8.75,4.45
+01-02-2023,Phone Grip Stand,Electronics,North America,12.63,5.87
+15-10-2022,Mixed Nuts Pack,Food & Beverages,North America,17.26,8.42
+10-12-2022,Mixed Nuts Pack,Food & Beverages,Asia Pacific,15.99,7.67
+21-11-2022,Resistance Bands Set,Sports & Outdoors,North America,51.79,24.18
+04-03-2022,Winter Jacket Premium,Clothing,Asia Pacific,169.2,58.23
+15-02-2023,Lip Balm Set,Beauty & Personal Care,Middle East,17.38,9.26
+18-03-2022,Energy Drink 6-Pack,Food & Beverages,Middle East,8.35,3.9
+02-05-2022,Sticky Notes Pad,Office Supplies,Africa,2.82,1.32
+09-04-2024,Casual Button-Down Shirt,Clothing,North America,63.58,29.07
+05-09-2024,Phone Grip Stand,Electronics,Asia Pacific,8.99,5.1
+03-02-2024,Classic Cotton T-Shirt,Clothing,North America,30.09,18.38
+14-05-2024,Wireless Mouse,Electronics,Asia Pacific,54.53,21.45
+15-09-2023,Resistance Bands Set,Sports & Outdoors,Middle East,40.29,20.56
+20-05-2024,Running Sneakers,Clothing,North America,133.14,44.65
+19-11-2024,Resistance Bands Set,Sports & Outdoors,Asia Pacific,18.2,9.58
+26-09-2022,Laptop Stand Adjustable,Electronics,Europe,42.6,15.07
+21-01-2023,Scented Candle Set,Home & Garden,Asia Pacific,76.93,33.1
+23-05-2024,Throw Pillow Cover,Home & Garden,North America,32.27,16.68
+24-10-2022,Wireless Mouse,Electronics,North America,80.9,32.21
+25-12-2024,Ballpoint Pen Box of 12,Office Supplies,North America,17.8,9.53
+19-08-2024,A4 Notebook Hardcover,Office Supplies,Middle East,11.02,5.67
+21-01-2023,Energy Drink 6-Pack,Food & Beverages,Africa,13.07,6.22
+11-06-2022,Sparkling Water 12-Pack,Food & Beverages,Latin America,33.23,16.52
+01-05-2024,Wool Blend Sweater,Clothing,Middle East,58.78,27.31
+06-11-2023,Hand Cream Tube,Beauty & Personal Care,Europe,10.87,6.19
+01-05-2022,Running Sneakers,Clothing,Asia Pacific,355.3,151.46
+24-02-2024,LED Desk Lamp,Home & Garden,Latin America,117.63,39.9
+21-05-2024,Mechanical Pencil Set,Office Supplies,Middle East,17.28,9.72
+27-09-2023,Organic Green Tea Box,Food & Beverages,Africa,6.85,2.76
+11-11-2024,Phone Grip Stand,Electronics,Middle East,27.04,13.53
+30-01-2023,Casual Button-Down Shirt,Clothing,Europe,80.43,47.67
+29-01-2023,Classic Cotton T-Shirt,Clothing,North America,32.17,15.08
+17-10-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,48.28,18.78
+10-02-2023,Sticky Notes Pad,Office Supplies,Europe,14.17,8.06
+04-03-2024,USB-C Charging Cable,Electronics,Europe,59.75,27.39
+08-01-2022,LED Desk Lamp,Home & Garden,Asia Pacific,172.53,56.76
+24-11-2022,Ballpoint Pen Box of 12,Office Supplies,Europe,10.5,4.68
+03-11-2022,Wireless Keyboard,Office Supplies,Africa,71.42,25.62
+03-10-2022,LED Desk Lamp,Home & Garden,Asia Pacific,42.29,16.02
+18-07-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,14.63,5.83
+13-03-2022,Ballpoint Pen Box of 12,Office Supplies,Middle East,5.97,3.46
+09-11-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,97.82,58.76
+06-11-2022,Lip Balm Set,Beauty & Personal Care,North America,19.43,9.78
+05-03-2024,Laptop Stand Adjustable,Electronics,Asia Pacific,34.07,11.09
+01-09-2024,Wireless Mouse,Electronics,Middle East,65.02,22.24
+01-10-2022,Sparkling Water 12-Pack,Food & Beverages,North America,12.32,6.04
+15-10-2022,Kitchen Herb Garden,Home & Garden,Europe,102.0,39.37
+23-03-2023,Foldable Camping Chair,Sports & Outdoors,Middle East,35.94,13.13
+11-02-2023,Desk Organizer Tray,Office Supplies,Europe,50.98,18.93
+12-07-2023,Yoga Mat Premium,Sports & Outdoors,Europe,70.24,31.54
+19-03-2022,Yoga Mat Premium,Sports & Outdoors,Europe,113.31,57.35
+04-10-2022,Wireless Keyboard,Office Supplies,Middle East,37.89,13.55
+03-04-2024,Wireless Mouse,Electronics,North America,122.88,54.13
+25-02-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,44.48,22.5
+10-02-2022,Scented Candle Set,Home & Garden,North America,29.09,13.68
+16-03-2023,Bath Soap Pack,Beauty & Personal Care,North America,10.71,6.62
+27-06-2024,Wireless Mouse,Electronics,Asia Pacific,102.69,41.31
+09-12-2023,Resistance Bands Set,Sports & Outdoors,Asia Pacific,22.97,11.47
+29-12-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,10.72,4.44
+20-07-2022,Desk Organizer Tray,Office Supplies,Latin America,38.36,15.22
+14-07-2023,Throw Pillow Cover,Home & Garden,Asia Pacific,23.27,10.85
+13-04-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,23.7,11.63
+17-07-2022,Ballpoint Pen Box of 12,Office Supplies,Europe,40.8,22.42
+10-08-2023,Hand Cream Tube,Beauty & Personal Care,Asia Pacific,21.42,11.04
+30-12-2022,Face Moisturizer Cream,Beauty & Personal Care,Europe,181.58,77.94
+16-02-2022,Running Sneakers,Clothing,Latin America,45.06,17.79
+03-01-2023,Classic Cotton T-Shirt,Clothing,Asia Pacific,35.07,19.06
+26-01-2024,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,38.59,14.91
+08-09-2023,Mechanical Pencil Set,Office Supplies,Europe,14.08,6.42
+19-05-2022,Portable Power Bank 10000mAh,Electronics,Asia Pacific,78.83,25.27
+15-07-2023,Phone Grip Stand,Electronics,Europe,15.2,8.52
+16-03-2024,Desk Organizer Tray,Office Supplies,Asia Pacific,23.41,8.78
+16-04-2022,Denim Jeans Regular Fit,Clothing,Middle East,209.9,86.2
+02-01-2022,Sparkling Water 12-Pack,Food & Beverages,Middle East,15.06,7.27
+29-06-2022,Wool Blend Sweater,Clothing,Europe,207.52,92.03
+20-03-2023,Wool Blend Sweater,Clothing,Asia Pacific,182.65,90.36
+04-03-2023,Scented Candle Set,Home & Garden,Europe,58.01,27.88
+22-09-2022,Organic Green Tea Box,Food & Beverages,North America,72.51,26.07
+19-09-2024,Throw Pillow Cover,Home & Garden,Africa,27.32,13.77
+29-01-2024,Desk Organizer Tray,Office Supplies,Asia Pacific,41.09,14.38
+18-04-2024,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,24.59,10.35
+04-12-2023,Laptop Stand Adjustable,Electronics,Africa,18.37,7.64
+30-04-2024,Mixed Nuts Pack,Food & Beverages,Africa,5.92,2.94
+20-09-2023,Casual Button-Down Shirt,Clothing,North America,124.63,66.46
+24-07-2023,Hand Cream Tube,Beauty & Personal Care,Europe,63.88,29.32
+05-08-2022,Ballpoint Pen Box of 12,Office Supplies,Middle East,7.9,4.31
+22-08-2023,Dark Chocolate Bar,Food & Beverages,Asia Pacific,6.97,3.3
+26-03-2023,Classic Cotton T-Shirt,Clothing,Latin America,45.38,22.37
+28-09-2022,Hand Cream Tube,Beauty & Personal Care,Africa,11.65,6.96
+13-04-2024,Sparkling Water 12-Pack,Food & Beverages,Middle East,6.01,2.66
+09-06-2023,Lip Balm Set,Beauty & Personal Care,Europe,103.21,58.62
+15-07-2023,A4 Notebook Hardcover,Office Supplies,Europe,88.63,40.54
+02-02-2022,Laptop Stand Adjustable,Electronics,North America,83.82,36.21
+25-12-2022,Mechanical Pencil Set,Office Supplies,North America,65.27,33.13
+23-04-2023,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,7.3,3.46
+12-09-2023,Wool Blend Sweater,Clothing,Latin America,43.36,18.64
+01-11-2023,Face Moisturizer Cream,Beauty & Personal Care,Europe,76.1,36.04
+11-04-2024,Face Moisturizer Cream,Beauty & Personal Care,Africa,46.05,18.84
+14-10-2022,Denim Jeans Regular Fit,Clothing,Asia Pacific,106.47,45.08
+23-05-2023,Wool Blend Sweater,Clothing,Europe,190.42,92.61
+26-02-2023,Lip Balm Set,Beauty & Personal Care,Asia Pacific,52.33,29.76
+03-05-2023,Hair Shampoo 300ml,Beauty & Personal Care,Europe,16.97,7.28
+04-09-2023,Indoor Planter Pot,Home & Garden,Asia Pacific,60.67,27.21
+12-11-2023,Wireless Keyboard,Office Supplies,North America,85.52,28.46
+13-07-2022,Smart Watch Basic,Electronics,Asia Pacific,534.25,162.54
+20-10-2024,USB-C Charging Cable,Electronics,Middle East,8.37,3.22
+03-01-2023,Laptop Stand Adjustable,Electronics,North America,223.53,94.96
+05-01-2022,Smart Watch Basic,Electronics,Asia Pacific,342.2,108.72
+09-08-2023,Bath Soap Pack,Beauty & Personal Care,Europe,10.86,6.2
+19-05-2023,Wireless Keyboard,Office Supplies,North America,86.08,25.03
+18-07-2024,Mixed Nuts Pack,Food & Beverages,Europe,59.25,25.55
+09-02-2022,Bath Soap Pack,Beauty & Personal Care,North America,31.92,16.18
+01-09-2022,Winter Jacket Premium,Clothing,Europe,254.7,73.72
+12-11-2024,Wireless Keyboard,Office Supplies,Europe,134.97,42.52
+27-11-2024,Yoga Mat Premium,Sports & Outdoors,Europe,115.47,50.03
+09-03-2022,Lip Balm Set,Beauty & Personal Care,North America,21.58,10.7
+27-02-2023,Hand Cream Tube,Beauty & Personal Care,Europe,11.49,6.74
+18-12-2024,USB-C Charging Cable,Electronics,Latin America,50.15,24.03
+11-07-2024,Sticky Notes Pad,Office Supplies,Asia Pacific,24.52,11.47
+28-03-2022,Hand Cream Tube,Beauty & Personal Care,Europe,46.3,22.56
+01-04-2024,A4 Notebook Hardcover,Office Supplies,Europe,18.98,8.55
+22-05-2022,Energy Drink 6-Pack,Food & Beverages,North America,18.54,9.42
+14-01-2024,Bath Soap Pack,Beauty & Personal Care,Europe,24.57,13.8
+24-06-2022,Sparkling Water 12-Pack,Food & Beverages,Latin America,12.19,6.27
+05-06-2022,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,310.89,106.88
+10-03-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,71.94,30.92
+08-07-2023,Kitchen Herb Garden,Home & Garden,Asia Pacific,28.5,12.42
+23-12-2022,Sparkling Water 12-Pack,Food & Beverages,Middle East,8.51,4.75
+06-10-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,16.84,8.12
+02-01-2023,Wireless Mouse,Electronics,Latin America,15.15,6.08
+21-12-2023,Portable Power Bank 10000mAh,Electronics,North America,80.24,23.11
+26-04-2024,Wool Blend Sweater,Clothing,Asia Pacific,67.73,30.88
+12-07-2024,Resistance Bands Set,Sports & Outdoors,North America,135.57,77.79
+26-03-2022,Yoga Mat Premium,Sports & Outdoors,Europe,164.64,64.55
+09-10-2024,Foldable Camping Chair,Sports & Outdoors,Latin America,31.81,11.26
+02-07-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,48.26,20.61
+17-03-2023,Winter Jacket Premium,Clothing,Asia Pacific,575.1,150.09
+13-04-2023,Indoor Planter Pot,Home & Garden,Europe,42.89,17.79
+05-12-2022,Hair Shampoo 300ml,Beauty & Personal Care,North America,24.07,11.08
+20-04-2023,Denim Jeans Regular Fit,Clothing,Middle East,81.22,43.17
+09-05-2024,Scented Candle Set,Home & Garden,Asia Pacific,22.31,9.11
+19-02-2023,Scented Candle Set,Home & Garden,North America,32.78,16.3
+20-03-2022,Throw Pillow Cover,Home & Garden,Europe,22.8,10.43
+21-10-2022,Kitchen Herb Garden,Home & Garden,North America,35.53,13.99
+15-02-2022,Classic Cotton T-Shirt,Clothing,Latin America,12.64,6.7
+04-06-2023,LED Desk Lamp,Home & Garden,Asia Pacific,108.62,35.98
+16-05-2024,Mechanical Pencil Set,Office Supplies,Latin America,8.35,4.33
+29-11-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,33.66,17.75
+24-07-2023,Bluetooth Speaker Mini,Electronics,Asia Pacific,47.66,16.49
+16-07-2023,Scented Candle Set,Home & Garden,Europe,38.6,19.3
+13-07-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,61.42,21.64
+06-02-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,32.81,16.42
+11-04-2024,Phone Grip Stand,Electronics,Africa,3.78,1.67
+25-12-2023,Dark Chocolate Bar,Food & Beverages,Africa,8.06,3.65
+30-07-2023,Resistance Bands Set,Sports & Outdoors,Asia Pacific,43.73,21.24
+05-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,24.88,9.3
+06-12-2024,Denim Jeans Regular Fit,Clothing,North America,113.04,50.29
+08-06-2024,Bluetooth Speaker Mini,Electronics,North America,81.5,29.7
+16-04-2024,Portable Power Bank 10000mAh,Electronics,Europe,48.56,17.38
+03-02-2024,Energy Drink 6-Pack,Food & Beverages,Europe,51.09,24.81
+15-11-2024,Wall Decor Frame,Home & Garden,Middle East,65.68,29.49
+19-12-2023,Lip Balm Set,Beauty & Personal Care,Europe,45.06,19.17
+28-04-2022,Yoga Mat Premium,Sports & Outdoors,Middle East,35.77,14.72
+18-07-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,107.18,42.12
+23-10-2022,Wool Blend Sweater,Clothing,Europe,87.04,36.2
+23-01-2024,Scented Candle Set,Home & Garden,Europe,25.27,9.91
+13-09-2022,Wireless Keyboard,Office Supplies,Africa,23.32,6.85
+07-09-2023,Scented Candle Set,Home & Garden,Latin America,14.27,6.89
+27-05-2024,Casual Button-Down Shirt,Clothing,Europe,52.19,24.42
+09-04-2024,Wool Blend Sweater,Clothing,North America,210.98,96.02
+02-08-2024,Sticky Notes Pad,Office Supplies,North America,18.58,10.99
+05-01-2023,Mechanical Pencil Set,Office Supplies,Middle East,32.37,15.14
+18-06-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,24.34,10.07
+30-10-2024,Sticky Notes Pad,Office Supplies,Middle East,3.88,2.11
+16-10-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.23,4.61
+06-05-2024,Sticky Notes Pad,Office Supplies,Latin America,4.18,2.05
+13-01-2022,USB-C Charging Cable,Electronics,North America,43.86,19.9
+03-01-2024,Laptop Stand Adjustable,Electronics,Middle East,22.2,7.61
+31-01-2024,Kitchen Herb Garden,Home & Garden,Europe,55.06,23.51
+09-04-2023,Mechanical Pencil Set,Office Supplies,North America,33.01,17.75
+19-07-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,26.61,13.69
+11-07-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,102.31,39.9
+03-06-2022,Winter Jacket Premium,Clothing,North America,1678.48,544.55
+09-03-2024,Face Moisturizer Cream,Beauty & Personal Care,North America,36.57,16.51
+29-09-2022,Throw Pillow Cover,Home & Garden,North America,29.35,13.29
+17-02-2023,Portable Power Bank 10000mAh,Electronics,Africa,30.07,8.43
+25-03-2022,Portable Power Bank 10000mAh,Electronics,Latin America,72.11,22.61
+30-07-2023,Energy Drink 6-Pack,Food & Beverages,Latin America,8.41,3.84
+14-11-2022,Sticky Notes Pad,Office Supplies,Europe,7.47,4.29
+06-08-2024,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,9.76,5.03
+14-04-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,15.88,7.73
+21-07-2024,Foldable Camping Chair,Sports & Outdoors,Middle East,103.73,35.19
+25-08-2024,Energy Drink 6-Pack,Food & Beverages,Middle East,17.89,8.35
+16-06-2023,A4 Notebook Hardcover,Office Supplies,North America,50.43,19.46
+28-02-2022,Wireless Bluetooth Headphones,Electronics,North America,110.25,35.11
+03-02-2023,Bluetooth Speaker Mini,Electronics,Europe,48.65,18.3
+12-03-2023,Water Bottle Stainless Steel,Sports & Outdoors,North America,34.11,14.42
+02-08-2022,Classic Cotton T-Shirt,Clothing,Latin America,37.17,23.13
+24-01-2023,Mixed Nuts Pack,Food & Beverages,North America,14.8,6.52
+13-05-2024,LED Desk Lamp,Home & Garden,Asia Pacific,97.22,33.62
+23-07-2022,Kitchen Herb Garden,Home & Garden,North America,89.85,41.0
+14-05-2023,LED Desk Lamp,Home & Garden,North America,164.62,57.14
+20-09-2024,Smart Watch Basic,Electronics,Africa,62.36,17.69
+23-08-2024,Kitchen Herb Garden,Home & Garden,Africa,12.71,5.17
+21-10-2022,Portable Power Bank 10000mAh,Electronics,Asia Pacific,71.04,19.7
+07-03-2022,Wireless Keyboard,Office Supplies,Middle East,39.27,13.28
+03-09-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,16.32,8.47
+29-04-2024,Casual Button-Down Shirt,Clothing,North America,58.95,31.47
+09-09-2024,LED Desk Lamp,Home & Garden,Latin America,30.23,9.5
+04-05-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,33.68,14.92
+06-06-2023,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,24.73,12.64
+01-11-2023,Wireless Mouse,Electronics,Middle East,20.91,8.15
+05-01-2023,Wall Decor Frame,Home & Garden,Latin America,15.53,7.25
+24-02-2022,Mechanical Pencil Set,Office Supplies,Europe,25.49,14.54
+02-05-2024,Resistance Bands Set,Sports & Outdoors,Asia Pacific,56.18,23.9
+01-01-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,49.62,29.28
+11-01-2022,Dark Chocolate Bar,Food & Beverages,North America,31.43,16.26
+14-12-2022,Lip Balm Set,Beauty & Personal Care,Europe,45.53,19.57
+12-08-2024,Lip Balm Set,Beauty & Personal Care,North America,25.73,13.49
+24-04-2024,Phone Grip Stand,Electronics,Asia Pacific,9.16,5.12
+25-04-2023,Classic Cotton T-Shirt,Clothing,North America,134.97,79.17
+15-04-2023,Bluetooth Speaker Mini,Electronics,Europe,215.26,74.62
+01-02-2024,Kitchen Herb Garden,Home & Garden,Africa,19.98,8.16
+18-10-2024,LED Desk Lamp,Home & Garden,Asia Pacific,166.07,54.64
+03-07-2022,Indoor Planter Pot,Home & Garden,North America,62.01,26.13
+19-09-2023,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,25.39,14.67
+03-10-2024,LED Desk Lamp,Home & Garden,Middle East,71.68,25.75
+05-05-2023,Denim Jeans Regular Fit,Clothing,Asia Pacific,59.92,25.66
+02-08-2023,Casual Button-Down Shirt,Clothing,Middle East,147.83,70.89
+27-06-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,20.05,9.08
+25-06-2023,Mechanical Pencil Set,Office Supplies,Africa,6.28,3.33
+17-09-2024,Kitchen Herb Garden,Home & Garden,Middle East,21.42,7.37
+12-07-2022,Mechanical Pencil Set,Office Supplies,Europe,18.73,9.33
+24-12-2023,Smart Watch Basic,Electronics,Europe,515.01,163.46
+27-05-2023,Smart Watch Basic,Electronics,Asia Pacific,162.4,50.75
+27-05-2023,Smart Watch Basic,Electronics,Africa,128.52,38.28
+25-05-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,69.3,41.17
+18-12-2022,Indoor Planter Pot,Home & Garden,Middle East,102.66,39.17
+07-11-2023,Foldable Camping Chair,Sports & Outdoors,Europe,64.3,18.16
+06-08-2023,Desk Organizer Tray,Office Supplies,North America,128.26,44.12
+13-05-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,21.58,9.81
+28-03-2023,Denim Jeans Regular Fit,Clothing,Africa,118.63,61.98
+17-10-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,13.72,6.76
+17-11-2023,Mechanical Pencil Set,Office Supplies,Asia Pacific,10.66,5.28
+20-09-2024,Classic Cotton T-Shirt,Clothing,North America,114.36,67.46
+24-03-2024,Scented Candle Set,Home & Garden,North America,76.38,35.28
+28-12-2024,Lip Balm Set,Beauty & Personal Care,Middle East,67.61,37.61
+02-06-2023,Scented Candle Set,Home & Garden,Europe,173.4,75.92
+22-01-2023,Wool Blend Sweater,Clothing,North America,334.45,149.0
+20-08-2024,Kitchen Herb Garden,Home & Garden,Europe,83.07,37.5
+04-02-2023,Lip Balm Set,Beauty & Personal Care,Middle East,9.91,4.52
+03-11-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.72,4.73
+29-11-2023,Face Moisturizer Cream,Beauty & Personal Care,Asia Pacific,28.0,14.42
+02-03-2023,Indoor Planter Pot,Home & Garden,Middle East,43.07,16.24
+31-03-2022,Mechanical Pencil Set,Office Supplies,Middle East,44.21,25.03
+17-09-2023,Mechanical Pencil Set,Office Supplies,North America,18.05,8.07
+22-01-2022,A4 Notebook Hardcover,Office Supplies,Latin America,21.38,10.31
+16-02-2022,Sticky Notes Pad,Office Supplies,Europe,18.67,11.63
+13-07-2024,Wireless Keyboard,Office Supplies,North America,479.97,157.25
+15-11-2023,Sparkling Water 12-Pack,Food & Beverages,North America,12.21,6.5
+28-04-2024,Foldable Camping Chair,Sports & Outdoors,North America,74.14,26.17
+10-12-2022,USB-C Charging Cable,Electronics,North America,24.85,11.5
+24-09-2022,LED Desk Lamp,Home & Garden,Africa,38.05,14.21
+26-08-2024,Indoor Planter Pot,Home & Garden,Asia Pacific,66.69,25.28
+30-07-2022,Phone Grip Stand,Electronics,North America,33.45,17.43
+22-03-2023,Yoga Mat Premium,Sports & Outdoors,North America,64.52,25.8
+16-02-2022,Face Moisturizer Cream,Beauty & Personal Care,Latin America,15.62,8.49
+06-12-2022,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,34.48,20.56
+31-01-2022,Hand Cream Tube,Beauty & Personal Care,Europe,9.42,5.5
+06-11-2022,USB-C Charging Cable,Electronics,North America,37.54,14.58
+25-10-2023,Hair Shampoo 300ml,Beauty & Personal Care,Europe,13.48,5.94
+17-01-2023,Foldable Camping Chair,Sports & Outdoors,Europe,54.98,18.99
+05-06-2022,Mixed Nuts Pack,Food & Beverages,Europe,19.46,11.02
+07-03-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,6.9,3.98
+28-10-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,77.56,41.43
+28-04-2023,Wireless Keyboard,Office Supplies,North America,179.49,54.74
+14-09-2024,Organic Green Tea Box,Food & Beverages,North America,65.77,26.39
+15-02-2022,Portable Power Bank 10000mAh,Electronics,Latin America,45.07,16.14
+30-01-2024,Face Moisturizer Cream,Beauty & Personal Care,North America,139.93,64.47
+22-05-2023,Foldable Camping Chair,Sports & Outdoors,Latin America,34.65,10.43
+07-05-2023,Wool Blend Sweater,Clothing,Europe,94.12,38.64
+08-02-2022,Desk Organizer Tray,Office Supplies,North America,31.89,11.28
+04-09-2022,Hand Cream Tube,Beauty & Personal Care,Latin America,5.72,2.75
+03-06-2023,Lip Balm Set,Beauty & Personal Care,Middle East,11.95,6.81
+02-12-2023,Wall Decor Frame,Home & Garden,Latin America,26.46,10.59
+18-07-2023,Denim Jeans Regular Fit,Clothing,Middle East,101.16,49.34
+21-03-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,10.95,4.58
+24-12-2024,Smart Watch Basic,Electronics,Europe,220.58,65.92
+24-08-2023,Wireless Keyboard,Office Supplies,Africa,28.75,8.01
+04-06-2023,Phone Grip Stand,Electronics,Asia Pacific,11.76,6.67
+24-11-2024,Casual Button-Down Shirt,Clothing,Asia Pacific,34.96,20.61
+13-04-2024,USB-C Charging Cable,Electronics,Latin America,8.49,3.27
+23-11-2024,Resistance Bands Set,Sports & Outdoors,Asia Pacific,18.0,7.83
+13-03-2024,Scented Candle Set,Home & Garden,Europe,65.06,27.87
+30-10-2023,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,35.99,17.94
+17-02-2024,Denim Jeans Regular Fit,Clothing,North America,81.21,37.38
+03-10-2023,Yoga Mat Premium,Sports & Outdoors,North America,63.94,29.6
+08-11-2023,Winter Jacket Premium,Clothing,Europe,229.13,70.75
+01-04-2023,Yoga Mat Premium,Sports & Outdoors,North America,69.87,35.85
+16-09-2024,Mechanical Pencil Set,Office Supplies,North America,15.92,7.23
+22-01-2023,Lip Balm Set,Beauty & Personal Care,North America,35.1,20.09
+29-08-2022,Foldable Camping Chair,Sports & Outdoors,Africa,95.96,33.45
+03-06-2022,Portable Power Bank 10000mAh,Electronics,North America,63.03,22.49
+19-02-2024,Classic Cotton T-Shirt,Clothing,North America,31.02,18.37
+29-02-2024,Desk Organizer Tray,Office Supplies,Middle East,15.69,5.42
+05-02-2024,Winter Jacket Premium,Clothing,Africa,64.95,17.56
+05-04-2022,Ballpoint Pen Box of 12,Office Supplies,Africa,3.88,1.79
+14-02-2023,Scented Candle Set,Home & Garden,Middle East,15.89,6.39
+01-04-2023,Foldable Camping Chair,Sports & Outdoors,Latin America,37.0,12.16
+19-08-2022,Desk Organizer Tray,Office Supplies,Asia Pacific,50.68,17.96
+15-04-2024,Wall Decor Frame,Home & Garden,North America,136.9,50.39
+20-09-2022,Scented Candle Set,Home & Garden,Asia Pacific,45.26,18.94
+26-03-2022,Running Sneakers,Clothing,Europe,434.55,181.54
+23-09-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,27.42,11.86
+28-12-2023,A4 Notebook Hardcover,Office Supplies,North America,145.48,73.06
+15-11-2022,Indoor Planter Pot,Home & Garden,Africa,55.8,20.96
+07-10-2024,A4 Notebook Hardcover,Office Supplies,Europe,87.72,40.11
+17-06-2024,Throw Pillow Cover,Home & Garden,Latin America,13.0,6.92
+21-04-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,7.4,4.66
+11-07-2022,Mixed Nuts Pack,Food & Beverages,Europe,21.06,11.7
+02-06-2024,Lip Balm Set,Beauty & Personal Care,Asia Pacific,15.84,7.4
+05-04-2022,Foldable Camping Chair,Sports & Outdoors,North America,83.85,24.52
+26-04-2022,Casual Button-Down Shirt,Clothing,North America,289.99,159.98
+07-01-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,102.34,39.77
+10-04-2023,Dark Chocolate Bar,Food & Beverages,Asia Pacific,6.68,3.08
+04-11-2022,Ballpoint Pen Box of 12,Office Supplies,North America,27.4,15.2
+31-05-2022,Sparkling Water 12-Pack,Food & Beverages,Africa,11.0,5.46
+11-06-2024,Organic Green Tea Box,Food & Beverages,Asia Pacific,16.06,7.14
+12-05-2023,Sparkling Water 12-Pack,Food & Beverages,Latin America,11.49,6.05
+21-11-2024,Energy Drink 6-Pack,Food & Beverages,North America,66.99,32.18
+06-10-2022,Winter Jacket Premium,Clothing,North America,569.72,164.85
+15-01-2023,Sticky Notes Pad,Office Supplies,Europe,19.43,12.08
+14-10-2024,Scented Candle Set,Home & Garden,Middle East,15.68,6.14
+06-12-2023,Foldable Camping Chair,Sports & Outdoors,Europe,84.67,27.72
+22-12-2023,Throw Pillow Cover,Home & Garden,Africa,11.66,4.97
+06-01-2024,Ballpoint Pen Box of 12,Office Supplies,North America,11.01,5.81
+24-01-2022,Dark Chocolate Bar,Food & Beverages,Middle East,11.53,5.67
+10-05-2023,Energy Drink 6-Pack,Food & Beverages,Europe,16.18,6.7
+04-01-2023,Phone Grip Stand,Electronics,Asia Pacific,16.33,8.08
+16-09-2023,Wireless Keyboard,Office Supplies,Asia Pacific,121.57,42.65
+13-03-2022,A4 Notebook Hardcover,Office Supplies,Europe,17.4,6.95
+12-05-2024,Wall Decor Frame,Home & Garden,Europe,113.14,40.45
+07-05-2023,Kitchen Herb Garden,Home & Garden,North America,183.05,73.67
+28-07-2022,Throw Pillow Cover,Home & Garden,North America,36.95,15.88
+03-08-2024,Denim Jeans Regular Fit,Clothing,Asia Pacific,62.03,29.79
+10-11-2023,Energy Drink 6-Pack,Food & Beverages,Middle East,17.34,8.11
+04-03-2022,Smart Watch Basic,Electronics,Latin America,181.01,57.7
+30-05-2022,Energy Drink 6-Pack,Food & Beverages,Europe,17.01,8.89
+30-01-2022,Laptop Stand Adjustable,Electronics,North America,81.36,34.04
+17-04-2022,Throw Pillow Cover,Home & Garden,North America,63.37,31.66
+21-08-2023,Resistance Bands Set,Sports & Outdoors,North America,32.64,18.06
+02-03-2023,Bath Soap Pack,Beauty & Personal Care,North America,50.62,30.23
+28-04-2022,Mixed Nuts Pack,Food & Beverages,North America,70.88,35.99
+04-12-2023,Foldable Camping Chair,Sports & Outdoors,North America,318.14,104.04
+12-10-2023,Winter Jacket Premium,Clothing,Middle East,128.81,37.7
+07-11-2024,Casual Button-Down Shirt,Clothing,Europe,44.58,24.57
+16-01-2023,A4 Notebook Hardcover,Office Supplies,Latin America,16.11,7.98
+15-06-2024,Dark Chocolate Bar,Food & Beverages,Africa,9.93,4.78
+15-03-2022,Ballpoint Pen Box of 12,Office Supplies,North America,12.34,5.49
+26-11-2022,Dark Chocolate Bar,Food & Beverages,Europe,18.29,8.88
+16-07-2023,Classic Cotton T-Shirt,Clothing,North America,43.35,26.09
+07-04-2024,Bluetooth Speaker Mini,Electronics,Latin America,145.39,52.23
+15-01-2023,Lip Balm Set,Beauty & Personal Care,Europe,32.62,17.23
+24-07-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,54.85,22.67
+03-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,North America,27.0,9.84
+19-08-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,13.75,4.89
+24-12-2022,Portable Power Bank 10000mAh,Electronics,North America,145.99,48.87
+03-07-2023,Desk Organizer Tray,Office Supplies,Asia Pacific,91.56,34.0
+18-11-2024,Organic Green Tea Box,Food & Beverages,Europe,77.73,28.63
+23-04-2022,Hand Cream Tube,Beauty & Personal Care,Africa,8.66,4.28
+23-05-2023,Organic Green Tea Box,Food & Beverages,Asia Pacific,14.12,5.39
+21-02-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,30.89,10.34
+20-09-2024,Bluetooth Speaker Mini,Electronics,Asia Pacific,118.98,42.25
+19-08-2023,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,91.46,37.36
+20-04-2023,Indoor Planter Pot,Home & Garden,North America,50.53,18.45
+30-06-2022,Foldable Camping Chair,Sports & Outdoors,Middle East,196.05,58.49
+21-06-2023,Bluetooth Speaker Mini,Electronics,Middle East,36.45,11.8
+22-07-2024,Classic Cotton T-Shirt,Clothing,Africa,34.97,16.38
+19-02-2022,Wireless Bluetooth Headphones,Electronics,North America,420.5,126.72
+10-03-2024,Ballpoint Pen Box of 12,Office Supplies,Middle East,6.17,3.21
+24-06-2022,Wool Blend Sweater,Clothing,Africa,69.8,27.75
+20-06-2022,Yoga Mat Premium,Sports & Outdoors,North America,77.61,32.38
+23-05-2023,Bath Soap Pack,Beauty & Personal Care,North America,11.35,5.75
+31-10-2022,Foldable Camping Chair,Sports & Outdoors,North America,206.04,56.88
+14-02-2023,Foldable Camping Chair,Sports & Outdoors,Europe,57.08,20.87
+20-10-2024,Bath Soap Pack,Beauty & Personal Care,Middle East,11.41,6.98
+16-11-2022,Casual Button-Down Shirt,Clothing,North America,59.86,32.72
+12-03-2022,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,11.35,4.74
+09-02-2024,Scented Candle Set,Home & Garden,North America,29.45,12.71
+16-04-2023,Energy Drink 6-Pack,Food & Beverages,Middle East,35.8,17.33
+12-10-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,11.62,6.01
+29-10-2022,Portable Power Bank 10000mAh,Electronics,North America,50.43,16.21
+28-02-2023,Laptop Stand Adjustable,Electronics,Europe,114.97,38.35
+04-11-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,5.92,3.56
+14-06-2022,Wireless Keyboard,Office Supplies,North America,95.61,34.06
+28-12-2023,Organic Green Tea Box,Food & Beverages,Europe,76.81,36.32
+18-04-2024,A4 Notebook Hardcover,Office Supplies,Asia Pacific,39.04,15.84
+15-02-2024,Smart Watch Basic,Electronics,Asia Pacific,119.7,33.79
+29-07-2023,Running Sneakers,Clothing,North America,669.5,240.23
+15-11-2022,Yoga Mat Premium,Sports & Outdoors,Africa,18.11,9.26
+08-04-2023,Running Sneakers,Clothing,Latin America,57.42,23.74
+11-01-2023,Smart Watch Basic,Electronics,Asia Pacific,358.51,99.76
+01-02-2022,Kitchen Herb Garden,Home & Garden,Africa,21.3,9.1
+05-07-2024,Sticky Notes Pad,Office Supplies,Asia Pacific,33.01,17.24
+18-01-2024,Running Sneakers,Clothing,North America,409.07,138.59
+05-08-2024,Energy Drink 6-Pack,Food & Beverages,Asia Pacific,11.59,4.73
+22-05-2023,Smart Watch Basic,Electronics,Latin America,540.38,148.67
+05-12-2023,Wireless Bluetooth Headphones,Electronics,North America,430.03,148.73
+31-05-2023,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,27.72,15.12
+11-01-2024,Wireless Keyboard,Office Supplies,Middle East,37.13,12.8
+11-08-2023,Hair Shampoo 300ml,Beauty & Personal Care,Middle East,9.62,4.22
+15-09-2024,Bluetooth Speaker Mini,Electronics,Asia Pacific,46.08,17.1
+13-09-2024,Indoor Planter Pot,Home & Garden,North America,92.0,39.39
+19-05-2024,Energy Drink 6-Pack,Food & Beverages,North America,20.24,9.12
+26-07-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,22.48,10.4
+04-02-2022,Bath Soap Pack,Beauty & Personal Care,Middle East,15.66,8.46
+20-04-2023,A4 Notebook Hardcover,Office Supplies,North America,65.0,25.68
+08-09-2024,Desk Organizer Tray,Office Supplies,Europe,29.98,12.9
+13-04-2022,Sticky Notes Pad,Office Supplies,North America,8.5,4.17
+15-04-2023,Classic Cotton T-Shirt,Clothing,Africa,9.55,5.56
+30-05-2023,Mechanical Pencil Set,Office Supplies,Latin America,17.26,8.66
+25-12-2024,Sunscreen SPF50 Tube,Sports & Outdoors,North America,24.52,11.33
+06-07-2022,Dark Chocolate Bar,Food & Beverages,Asia Pacific,8.46,3.35
+26-06-2022,Casual Button-Down Shirt,Clothing,Europe,59.65,34.49
+28-06-2022,Phone Grip Stand,Electronics,North America,49.82,28.03
+31-10-2023,Indoor Planter Pot,Home & Garden,Latin America,34.99,12.33
+27-07-2023,Wool Blend Sweater,Clothing,Asia Pacific,73.62,35.86
+04-01-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,35.55,16.99
+22-09-2023,Bath Soap Pack,Beauty & Personal Care,Africa,3.61,1.87
+19-11-2024,Mixed Nuts Pack,Food & Beverages,North America,39.23,20.67
+03-02-2023,Running Sneakers,Clothing,North America,104.94,44.71
+30-08-2023,Wireless Bluetooth Headphones,Electronics,Africa,177.69,69.39
+17-02-2022,Indoor Planter Pot,Home & Garden,North America,76.03,33.48
+21-05-2023,Energy Drink 6-Pack,Food & Beverages,Africa,5.49,2.78
+03-06-2024,Wireless Keyboard,Office Supplies,Africa,26.26,9.03
+25-04-2023,Casual Button-Down Shirt,Clothing,Europe,95.79,56.65
+28-07-2024,Running Sneakers,Clothing,Asia Pacific,408.48,143.03
+08-03-2022,Lip Balm Set,Beauty & Personal Care,Middle East,9.86,5.14
+08-02-2022,Hand Cream Tube,Beauty & Personal Care,Latin America,5.64,2.58
+29-04-2023,Kitchen Herb Garden,Home & Garden,Africa,22.25,7.85
+14-04-2024,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,53.22,22.42
+20-03-2023,Mechanical Pencil Set,Office Supplies,Europe,14.57,8.28
+29-03-2023,Scented Candle Set,Home & Garden,North America,32.81,12.69
+29-07-2022,Laptop Stand Adjustable,Electronics,Asia Pacific,86.17,28.5
+19-09-2023,Kitchen Herb Garden,Home & Garden,North America,44.61,19.04
+24-01-2024,Bluetooth Speaker Mini,Electronics,Europe,83.2,28.16
+03-08-2024,Running Sneakers,Clothing,North America,395.87,131.01
+27-04-2022,Classic Cotton T-Shirt,Clothing,Asia Pacific,45.09,22.9
+22-08-2022,Foldable Camping Chair,Sports & Outdoors,Latin America,71.13,20.56
+15-12-2023,Scented Candle Set,Home & Garden,Latin America,19.64,7.83
+14-09-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,28.96,10.31
+28-07-2023,Wireless Bluetooth Headphones,Electronics,Europe,112.45,34.76
+10-04-2022,Mixed Nuts Pack,Food & Beverages,Europe,53.97,23.56
+07-08-2022,Wall Decor Frame,Home & Garden,Europe,133.54,52.72
+10-11-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,82.51,35.33
+09-04-2024,Resistance Bands Set,Sports & Outdoors,Asia Pacific,33.79,18.39
+11-11-2024,Dark Chocolate Bar,Food & Beverages,Europe,7.74,3.08
+29-09-2024,Indoor Planter Pot,Home & Garden,North America,51.45,21.29
+07-10-2023,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,8.11,3.85
+10-03-2022,Face Moisturizer Cream,Beauty & Personal Care,North America,214.24,110.14
+05-08-2023,Wireless Keyboard,Office Supplies,Europe,76.79,25.85
+10-10-2022,Wireless Bluetooth Headphones,Electronics,North America,106.8,40.55
+08-12-2022,Mixed Nuts Pack,Food & Beverages,North America,25.18,12.77
+24-03-2024,Bath Soap Pack,Beauty & Personal Care,Europe,20.56,12.17
+24-09-2024,LED Desk Lamp,Home & Garden,North America,71.24,25.79
+09-09-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,25.34,9.93
+21-07-2023,Portable Power Bank 10000mAh,Electronics,Latin America,64.14,20.64
+05-04-2024,Phone Grip Stand,Electronics,Europe,40.96,21.34
+23-11-2023,Sunscreen SPF50 Tube,Sports & Outdoors,North America,73.47,30.65
+18-06-2023,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,9.61,5.46
+15-07-2024,Wool Blend Sweater,Clothing,Asia Pacific,344.53,155.16
+25-10-2024,Kitchen Herb Garden,Home & Garden,Middle East,16.8,7.52
+18-09-2024,Mechanical Pencil Set,Office Supplies,Latin America,14.4,7.46
+25-01-2024,Sparkling Water 12-Pack,Food & Beverages,Latin America,4.24,1.88
+28-05-2023,Phone Grip Stand,Electronics,Asia Pacific,9.24,4.57
+08-03-2022,Hand Cream Tube,Beauty & Personal Care,Europe,11.91,5.74
+15-08-2024,Energy Drink 6-Pack,Food & Beverages,Europe,15.47,7.03
+15-12-2022,LED Desk Lamp,Home & Garden,North America,193.47,68.31
+25-08-2024,Lip Balm Set,Beauty & Personal Care,North America,88.72,46.67
+31-05-2023,Organic Green Tea Box,Food & Beverages,Latin America,18.13,7.88
+20-08-2022,Organic Green Tea Box,Food & Beverages,Latin America,19.5,7.88
+11-03-2024,Classic Cotton T-Shirt,Clothing,Asia Pacific,22.77,12.65
+04-03-2023,Foldable Camping Chair,Sports & Outdoors,Africa,41.72,13.1
+05-08-2024,Denim Jeans Regular Fit,Clothing,Europe,77.3,40.35
+05-07-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,6.4,3.21
+12-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,22.86,10.25
+14-09-2024,LED Desk Lamp,Home & Garden,Europe,198.94,65.29
+09-04-2022,Yoga Mat Premium,Sports & Outdoors,Latin America,29.05,14.6
+05-05-2023,Ballpoint Pen Box of 12,Office Supplies,Europe,47.38,25.37
+29-03-2023,Foldable Camping Chair,Sports & Outdoors,Africa,42.62,14.15
+13-06-2024,A4 Notebook Hardcover,Office Supplies,Africa,27.79,12.22
+16-05-2022,Winter Jacket Premium,Clothing,Latin America,565.69,163.35
+04-02-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,22.44,7.27
+23-03-2022,Hair Shampoo 300ml,Beauty & Personal Care,Europe,72.33,33.4
+12-08-2022,Laptop Stand Adjustable,Electronics,North America,57.22,23.05
+07-04-2022,Desk Organizer Tray,Office Supplies,Africa,45.82,17.46
+14-12-2022,Resistance Bands Set,Sports & Outdoors,Latin America,15.97,7.27
+24-04-2024,Desk Organizer Tray,Office Supplies,Middle East,17.78,7.46
+24-04-2022,LED Desk Lamp,Home & Garden,Latin America,33.32,10.14
+26-08-2024,Wireless Mouse,Electronics,Africa,52.16,21.16
+15-05-2024,Wireless Keyboard,Office Supplies,Asia Pacific,63.09,21.84
+22-06-2024,Phone Grip Stand,Electronics,Latin America,6.84,3.24
+04-11-2024,Portable Power Bank 10000mAh,Electronics,North America,165.29,57.1
+12-02-2024,Ballpoint Pen Box of 12,Office Supplies,Europe,9.29,5.43
+02-06-2024,Mechanical Pencil Set,Office Supplies,Middle East,21.76,10.27
+01-05-2022,Casual Button-Down Shirt,Clothing,Asia Pacific,39.24,18.6
+24-06-2023,Wireless Keyboard,Office Supplies,Latin America,87.1,31.72
+27-03-2024,A4 Notebook Hardcover,Office Supplies,Middle East,44.72,19.28
+27-08-2022,Denim Jeans Regular Fit,Clothing,Middle East,45.98,22.32
+28-07-2022,Wool Blend Sweater,Clothing,Asia Pacific,75.1,38.85
+03-07-2024,Scented Candle Set,Home & Garden,North America,47.85,24.63
+12-01-2022,Desk Organizer Tray,Office Supplies,Asia Pacific,18.71,7.26
+05-10-2024,Resistance Bands Set,Sports & Outdoors,North America,25.63,13.89
+02-12-2023,Phone Grip Stand,Electronics,Africa,5.02,2.48
+11-11-2022,Winter Jacket Premium,Clothing,Asia Pacific,182.02,54.9
+30-09-2023,Face Moisturizer Cream,Beauty & Personal Care,Asia Pacific,124.62,66.76
+07-03-2023,Sticky Notes Pad,Office Supplies,Europe,7.01,4.41
+03-12-2023,Laptop Stand Adjustable,Electronics,North America,202.93,86.67
+28-07-2022,Mechanical Pencil Set,Office Supplies,Asia Pacific,13.7,7.52
+16-03-2023,Resistance Bands Set,Sports & Outdoors,Europe,96.29,41.15
+31-08-2023,Portable Power Bank 10000mAh,Electronics,Asia Pacific,37.96,12.99
+26-08-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,20.32,10.49
+08-12-2022,Classic Cotton T-Shirt,Clothing,Latin America,20.63,10.83
+28-03-2022,Mechanical Pencil Set,Office Supplies,Middle East,16.09,7.63
+18-08-2024,Yoga Mat Premium,Sports & Outdoors,North America,69.13,27.27
+03-08-2024,Sunscreen SPF50 Tube,Sports & Outdoors,Europe,17.44,7.75
+14-07-2024,Wireless Keyboard,Office Supplies,Europe,85.06,29.61
+25-12-2023,Portable Power Bank 10000mAh,Electronics,Middle East,38.71,13.93
+06-12-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,32.85,18.2
+23-07-2022,Sunscreen SPF50 Tube,Sports & Outdoors,North America,47.75,24.6
+27-07-2024,Sparkling Water 12-Pack,Food & Beverages,Africa,4.82,2.37
+21-07-2024,USB-C Charging Cable,Electronics,North America,48.13,21.22
+03-06-2024,Kitchen Herb Garden,Home & Garden,North America,193.11,86.29
+13-11-2022,Mixed Nuts Pack,Food & Beverages,Latin America,15.29,6.53
+02-07-2024,Wireless Bluetooth Headphones,Electronics,Latin America,289.42,93.27
+27-12-2022,Winter Jacket Premium,Clothing,North America,688.48,194.98
+24-04-2024,Face Moisturizer Cream,Beauty & Personal Care,Europe,36.8,19.51
+19-08-2023,Wireless Mouse,Electronics,Latin America,42.35,17.58
+16-12-2022,Smart Watch Basic,Electronics,Europe,700.72,194.44
+20-01-2022,Water Bottle Stainless Steel,Sports & Outdoors,Middle East,13.75,5.11
+06-09-2024,Throw Pillow Cover,Home & Garden,Asia Pacific,39.16,19.57
+07-06-2023,Wireless Mouse,Electronics,Europe,126.51,49.26
+12-04-2024,A4 Notebook Hardcover,Office Supplies,Africa,6.65,3.19
+22-08-2024,Portable Power Bank 10000mAh,Electronics,Africa,18.98,6.16
+20-10-2024,Wireless Mouse,Electronics,Europe,63.75,24.5
+19-05-2023,Foldable Camping Chair,Sports & Outdoors,Europe,76.97,27.7
+14-09-2024,Smart Watch Basic,Electronics,Latin America,345.61,100.68
+10-06-2023,Energy Drink 6-Pack,Food & Beverages,Middle East,42.03,22.49
+19-06-2022,Yoga Mat Premium,Sports & Outdoors,Europe,66.41,29.84
+22-04-2022,Running Sneakers,Clothing,Asia Pacific,270.51,107.41
+19-09-2023,Classic Cotton T-Shirt,Clothing,Asia Pacific,23.09,13.92
+26-09-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,16.42,9.78
+16-11-2024,Bath Soap Pack,Beauty & Personal Care,Europe,9.13,4.69
+24-07-2024,Yoga Mat Premium,Sports & Outdoors,North America,73.31,34.28
+10-10-2024,LED Desk Lamp,Home & Garden,Latin America,107.18,35.37
+28-12-2024,Wall Decor Frame,Home & Garden,Asia Pacific,72.73,26.23
+25-03-2022,Resistance Bands Set,Sports & Outdoors,Asia Pacific,32.24,17.19
+03-01-2024,Wall Decor Frame,Home & Garden,Europe,62.01,29.77
+31-08-2023,Wall Decor Frame,Home & Garden,Africa,13.55,5.12
+11-04-2023,Laptop Stand Adjustable,Electronics,North America,156.87,51.91
+04-11-2022,A4 Notebook Hardcover,Office Supplies,Europe,18.84,7.23
+17-02-2024,Classic Cotton T-Shirt,Clothing,North America,32.87,20.12
+06-01-2024,Bath Soap Pack,Beauty & Personal Care,Asia Pacific,22.53,13.74
+29-01-2022,Throw Pillow Cover,Home & Garden,Europe,18.64,7.86
+17-03-2023,Phone Grip Stand,Electronics,North America,14.69,6.89
+20-04-2022,Running Sneakers,Clothing,Latin America,53.55,18.08
+03-02-2023,A4 Notebook Hardcover,Office Supplies,Europe,16.26,8.24
+21-11-2024,Kitchen Herb Garden,Home & Garden,Asia Pacific,71.25,30.35
+28-09-2024,Desk Organizer Tray,Office Supplies,Asia Pacific,73.99,30.62
+15-08-2024,Classic Cotton T-Shirt,Clothing,North America,38.5,22.65
+12-06-2023,Organic Green Tea Box,Food & Beverages,Europe,67.63,25.34
+18-10-2024,Wireless Bluetooth Headphones,Electronics,Middle East,48.41,17.5
+30-07-2023,USB-C Charging Cable,Electronics,North America,23.47,10.72
+28-01-2024,Sparkling Water 12-Pack,Food & Beverages,North America,11.22,6.21
+23-07-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Asia Pacific,17.01,8.59
+20-11-2024,A4 Notebook Hardcover,Office Supplies,Africa,19.17,8.81
+10-12-2022,Water Bottle Stainless Steel,Sports & Outdoors,North America,44.57,16.88
+19-08-2024,A4 Notebook Hardcover,Office Supplies,Middle East,55.31,21.2
+26-10-2024,Wall Decor Frame,Home & Garden,Asia Pacific,74.88,31.88
+24-08-2024,Organic Green Tea Box,Food & Beverages,North America,21.86,8.18
+23-11-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Latin America,24.12,9.64
+16-10-2023,Sunscreen SPF50 Tube,Sports & Outdoors,Latin America,7.7,3.1
+14-06-2022,Throw Pillow Cover,Home & Garden,Europe,60.58,29.48
+08-06-2023,Denim Jeans Regular Fit,Clothing,Europe,80.54,42.4
+30-09-2022,Dark Chocolate Bar,Food & Beverages,Asia Pacific,6.44,2.87
+13-05-2023,Casual Button-Down Shirt,Clothing,North America,125.98,59.74
+11-01-2023,Phone Grip Stand,Electronics,Middle East,22.05,10.2
+21-01-2022,Smart Watch Basic,Electronics,Europe,317.92,87.15
+28-03-2024,Yoga Mat Premium,Sports & Outdoors,Europe,50.47,24.7
+14-02-2024,Lip Balm Set,Beauty & Personal Care,Europe,86.19,42.85
+12-12-2023,USB-C Charging Cable,Electronics,Europe,20.75,9.26
+05-09-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Middle East,14.22,6.04
+03-05-2022,Winter Jacket Premium,Clothing,Asia Pacific,379.14,116.9
+07-11-2023,Wireless Mouse,Electronics,North America,38.64,16.81
+18-07-2023,Bluetooth Speaker Mini,Electronics,Europe,125.44,42.03
+19-10-2023,Hair Shampoo 300ml,Beauty & Personal Care,Europe,48.86,20.79
+27-12-2023,Smart Watch Basic,Electronics,North America,261.41,69.96
+13-09-2023,Resistance Bands Set,Sports & Outdoors,North America,54.98,27.96
+14-04-2024,Hair Shampoo 300ml,Beauty & Personal Care,Middle East,47.34,21.45
+08-12-2024,Portable Power Bank 10000mAh,Electronics,Asia Pacific,45.18,14.24
+23-04-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Africa,7.94,3.05
+19-11-2024,Smart Watch Basic,Electronics,North America,225.81,63.75
+29-07-2023,Kitchen Herb Garden,Home & Garden,Europe,80.47,28.49
+06-07-2024,Resistance Bands Set,Sports & Outdoors,Africa,50.14,22.36
+10-12-2022,Organic Green Tea Box,Food & Beverages,Latin America,11.36,4.89
+04-09-2022,A4 Notebook Hardcover,Office Supplies,Europe,19.1,7.75
+21-04-2023,Winter Jacket Premium,Clothing,Africa,86.07,27.11
+17-10-2023,Portable Power Bank 10000mAh,Electronics,Europe,45.6,16.2
+08-04-2023,Classic Cotton T-Shirt,Clothing,Asia Pacific,21.65,11.33
+26-03-2023,Mechanical Pencil Set,Office Supplies,Africa,14.85,7.46
+07-11-2022,Energy Drink 6-Pack,Food & Beverages,Middle East,8.27,3.88
+31-07-2023,Organic Green Tea Box,Food & Beverages,Latin America,40.57,19.01
+19-12-2023,Wireless Keyboard,Office Supplies,North America,364.9,120.14
+22-08-2022,Scented Candle Set,Home & Garden,Latin America,55.77,25.49
+17-03-2022,Wireless Keyboard,Office Supplies,Europe,75.8,22.39
+19-12-2024,Hair Shampoo 300ml,Beauty & Personal Care,Europe,45.81,21.73
+17-05-2023,Scented Candle Set,Home & Garden,Middle East,73.1,34.01
+21-10-2023,Gourmet Coffee Beans 1lb,Food & Beverages,North America,24.37,9.44
+05-01-2024,Sparkling Water 12-Pack,Food & Beverages,Asia Pacific,6.58,3.29
+19-06-2024,Denim Jeans Regular Fit,Clothing,North America,96.46,43.28
+05-04-2023,Desk Organizer Tray,Office Supplies,North America,105.03,39.62
+05-11-2022,Organic Green Tea Box,Food & Beverages,Middle East,19.68,8.52
+29-12-2024,Yoga Mat Premium,Sports & Outdoors,Latin America,69.86,30.69
+20-11-2023,Sparkling Water 12-Pack,Food & Beverages,Latin America,5.93,2.62
+08-02-2023,Dark Chocolate Bar,Food & Beverages,North America,8.68,4.17
+17-10-2024,Portable Power Bank 10000mAh,Electronics,Latin America,84.13,29.9
+08-08-2022,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,17.35,9.38
+11-05-2022,Face Moisturizer Cream,Beauty & Personal Care,Europe,143.02,59.7
+03-05-2023,Running Sneakers,Clothing,Latin America,57.68,24.55
+09-11-2022,Hand Cream Tube,Beauty & Personal Care,Europe,12.97,6.78
+03-11-2024,Water Bottle Stainless Steel,Sports & Outdoors,North America,35.02,15.56
+12-08-2023,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,19.04,10.76
+08-02-2023,Sticky Notes Pad,Office Supplies,Europe,6.71,4.23
+16-01-2024,Portable Power Bank 10000mAh,Electronics,Africa,25.65,9.06
+08-03-2024,Throw Pillow Cover,Home & Garden,North America,143.81,76.22
+27-03-2022,Bath Soap Pack,Beauty & Personal Care,Europe,48.73,29.75
+17-04-2022,Wall Decor Frame,Home & Garden,Asia Pacific,53.76,22.12
+23-12-2024,Desk Organizer Tray,Office Supplies,Latin America,20.97,7.78
+13-09-2022,Scented Candle Set,Home & Garden,Europe,28.61,13.54
+26-05-2022,Yoga Mat Premium,Sports & Outdoors,Asia Pacific,131.69,61.77
+27-01-2023,Yoga Mat Premium,Sports & Outdoors,North America,200.23,99.14
+22-07-2024,Denim Jeans Regular Fit,Clothing,Africa,65.12,30.39
+09-06-2024,Sparkling Water 12-Pack,Food & Beverages,Europe,12.61,6.96
+19-12-2024,Wall Decor Frame,Home & Garden,North America,162.42,74.28
+10-07-2022,Running Sneakers,Clothing,North America,344.87,120.56
+28-09-2022,A4 Notebook Hardcover,Office Supplies,Asia Pacific,30.68,14.53
+03-09-2024,Foldable Camping Chair,Sports & Outdoors,Asia Pacific,226.34,63.75
+24-05-2023,Gourmet Coffee Beans 1lb,Food & Beverages,Asia Pacific,58.13,24.34
+17-12-2023,Organic Green Tea Box,Food & Beverages,North America,91.5,36.09
+05-05-2022,Sparkling Water 12-Pack,Food & Beverages,North America,15.14,8.33
+02-08-2024,Denim Jeans Regular Fit,Clothing,Europe,90.66,48.25
+21-12-2022,Sunscreen SPF50 Tube,Sports & Outdoors,Africa,35.24,13.74
+20-06-2023,Portable Power Bank 10000mAh,Electronics,North America,66.22,23.25
+26-07-2022,Ballpoint Pen Box of 12,Office Supplies,Europe,28.78,12.8
+29-03-2024,Yoga Mat Premium,Sports & Outdoors,Africa,17.0,7.71
+05-10-2023,Yoga Mat Premium,Sports & Outdoors,North America,62.57,28.72
+04-09-2023,Ballpoint Pen Box of 12,Office Supplies,Middle East,14.36,6.68
+21-12-2022,Desk Organizer Tray,Office Supplies,North America,87.0,29.81
+20-05-2022,Classic Cotton T-Shirt,Clothing,North America,72.08,40.99
+10-05-2022,Wall Decor Frame,Home & Garden,Europe,81.99,32.92
+17-04-2022,Gourmet Coffee Beans 1lb,Food & Beverages,North America,133.49,48.93
+25-05-2023,Mixed Nuts Pack,Food & Beverages,Middle East,20.05,9.0
+20-10-2024,Winter Jacket Premium,Clothing,Middle East,380.05,98.46
+18-05-2024,Indoor Planter Pot,Home & Garden,Europe,40.08,15.89
+05-09-2022,Bath Soap Pack,Beauty & Personal Care,Europe,20.95,10.83
+07-01-2022,Laptop Stand Adjustable,Electronics,North America,88.34,33.94
+02-11-2024,Resistance Bands Set,Sports & Outdoors,Asia Pacific,36.46,19.47
+26-02-2022,LED Desk Lamp,Home & Garden,North America,132.46,45.24
+13-02-2022,Laptop Stand Adjustable,Electronics,North America,44.73,18.87
+25-08-2022,A4 Notebook Hardcover,Office Supplies,Asia Pacific,44.08,22.43
+07-02-2022,Casual Button-Down Shirt,Clothing,Africa,13.84,6.9
+15-11-2023,Portable Power Bank 10000mAh,Electronics,Latin America,23.11,8.43
+10-04-2023,Dark Chocolate Bar,Food & Beverages,Europe,7.94,3.58
+15-06-2022,Wall Decor Frame,Home & Garden,Europe,81.74,34.76
+21-07-2023,Hair Shampoo 300ml,Beauty & Personal Care,Africa,6.13,3.04
+26-10-2024,Hair Shampoo 300ml,Beauty & Personal Care,Asia Pacific,10.44,5.32
+22-02-2024,Smart Watch Basic,Electronics,Europe,177.6,53.96
+24-06-2024,Wireless Mouse,Electronics,North America,48.14,19.66
+08-07-2023,Casual Button-Down Shirt,Clothing,North America,63.64,32.42
+19-08-2024,Face Moisturizer Cream,Beauty & Personal Care,Middle East,23.02,11.54
+10-01-2024,Ballpoint Pen Box of 12,Office Supplies,Africa,14.47,6.62
+15-02-2022,Winter Jacket Premium,Clothing,Europe,209.04,61.51
+29-09-2023,Foldable Camping Chair,Sports & Outdoors,North America,161.14,55.11
+24-11-2022,Winter Jacket Premium,Clothing,Africa,85.91,28.84
+09-08-2024,Indoor Planter Pot,Home & Garden,North America,52.2,18.97
+14-08-2022,Sparkling Water 12-Pack,Food & Beverages,Middle East,15.8,7.04
+14-10-2023,Wireless Bluetooth Headphones,Electronics,Africa,31.26,12.48
+29-03-2022,Winter Jacket Premium,Clothing,Europe,782.21,241.79
+07-03-2024,Casual Button-Down Shirt,Clothing,North America,54.59,27.94
+03-11-2024,Phone Grip Stand,Electronics,Middle East,7.08,3.8
+10-12-2024,Foldable Camping Chair,Sports & Outdoors,North America,187.13,56.72
+30-05-2024,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,72.39,28.09
+21-08-2023,Hair Shampoo 300ml,Beauty & Personal Care,Latin America,8.54,4.08
+04-01-2024,Winter Jacket Premium,Clothing,Africa,272.68,77.04
+16-09-2023,Kitchen Herb Garden,Home & Garden,North America,37.84,14.84
+04-09-2022,Gourmet Coffee Beans 1lb,Food & Beverages,Europe,49.61,17.61
+28-08-2024,Ballpoint Pen Box of 12,Office Supplies,Asia Pacific,9.6,4.32

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data
+data/cleaned/*.csv
+outputs/*.csv
+outputs/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.venv/
+.runql-link/
+
+# Power BI (large binary; user creates locally)
+powerbi/*.pbix
+
+# RunQL machine-local markers
+.runql-link/
+README_RUNQL.md
