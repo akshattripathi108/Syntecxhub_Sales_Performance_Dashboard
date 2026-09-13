@@ -1,8 +1,3 @@
-Understood. You want the **entire rewritten README in one single response**, with no split sections or follow-up corrections.
-
-Copy everything below and replace your current `README.md` with it:
-
-````markdown
 # Sales Performance Dashboard
 
 > An end-to-end sales analytics and business intelligence project built with Python, Pandas, NumPy, and Microsoft Power BI as part of the Syntecxhub Data Analysis Internship.
