@@ -1,7 +1,7 @@
 # Syntecxhub Sales Performance Dashboard — Power BI Report Specification
 
 **File:** `powerbi/dashboard_spec.md`
-**Status:** Build-ready specification. All measures, sort rules, layout, and reference values below are verified against the cleaned data with `scripts/verify_powerbi_data.py`. The `.pbix` file itself is assembled in **Power BI Desktop** following Section 8.
+**Status:** ✅ **BUILT & QA-PASSED** — the report is implemented and saved as `powerbi/Syntecxhub_Project_Dashboard.pbix`, styled with `powerbi/Syntecxhub_Theme.json`. All measures, sort rules, layout, and reference values below were verified against the cleaned data with `scripts/verify_powerbi_data.py` and confirmed in Power BI Desktop. QA sign-off: `docs/QA_REPORT.md`.
 
 ---
 

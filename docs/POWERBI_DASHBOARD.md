@@ -2,7 +2,7 @@
 
 Build-ready Power BI materials for the Sales Performance Dashboard, based entirely on the existing cleaned dataset. No Python cleaning logic was modified.
 
-**Status:** Specification, data model, DAX, layout, and QA reference values are complete and verified. The `.pbix` report file itself must be assembled in **Power BI Desktop** (free) — it cannot be generated from the repository. Follow `powerbi/dashboard_spec.md` § 8 (≈15 minutes).
+**Status:** ✅ **BUILT & QA-PASSED.** The dashboard is implemented and saved as `powerbi/Syntecxhub_Project_Dashboard.pbix` (styled with `powerbi/Syntecxhub_Theme.json`). Model, DAX, layout, and reference values are complete and verified; QA sign-off in `docs/QA_REPORT.md`.
 
 ---
 

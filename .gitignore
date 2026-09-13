@@ -26,8 +26,9 @@ Thumbs.db
 .runql-link/
 
 # Power BI (large binary; user creates locally)
-powerbi/*.pbix
+powerbi/*.ps1
 
 # RunQL machine-local markers
 .runql-link/
 README_RUNQL.md
+

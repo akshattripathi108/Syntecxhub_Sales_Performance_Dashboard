@@ -1,0 +1,82 @@
+{
+  "name": "Syntecxhub Executive",
+  "dataColors": [
+    "#1B3A5C",
+    "#3E92CC",
+    "#64B6AC",
+    "#94A7B7",
+    "#C3CEDA",
+    "#E0E6EE",
+    "#5B6770"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1B3A5C",
+  "good": "#2E7D5B",
+  "neutral": "#94A7B7",
+  "bad": "#C4453C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E3E8F0"
+              }
+            }
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#12314F"
+              }
+            },
+            "alignment": "left",
+            "fontSize": 12,
+            "bold": true,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F4F6FA"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4E9F0"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
