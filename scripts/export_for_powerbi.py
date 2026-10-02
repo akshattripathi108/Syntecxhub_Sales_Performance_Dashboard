@@ -57,14 +57,7 @@ COL_ORDER = [
 ]
 df = df[COL_ORDER]
 
-# Enforce dtypes
-df['Sales']             = df['Sales'].astype('float64')
-df['Profit']            = df['Profit'].astype('float64')
-df['Profit_Margin_Pct'] = df['Profit_Margin_Pct'].astype('float64')
-df['Year']              = df['Year'].astype('Int64')
-df['Month']             = df['Month'].astype('Int64')
-df['DayOfWeekNum']      = df['DayOfWeekNum'].astype('Int64')
-df['IsWeekend']         = df['IsWeekend'].astype('bool')
+
 
 print()
 print('Summary')

@@ -1,0 +1,45 @@
+name: Automated Sales Data Pipeline
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    paths:
+      - 'data/raw/**'
+      - 'scripts/pipeline.py'
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute Automated Pipeline
+        run: |
+          python scripts/pipeline.py
+
+      - name: Verify Cleaned Data & KPIs
+        run: |
+          python scripts/verify_powerbi_data.py
+
+      - name: Commit & Push Updated Data Artifacts
+        if: github.ref == 'refs/heads/main'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): automated sales pipeline update [skip ci]"
+          file_pattern: "data/cleaned/* data/pbi_ready/* outputs/*"

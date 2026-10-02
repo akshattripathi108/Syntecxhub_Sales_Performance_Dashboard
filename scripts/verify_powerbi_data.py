@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 df = pd.read_csv('data/cleaned/sales_cleaned.csv')
 df['Order_Date'] = pd.to_datetime(df['Order_Date'])

@@ -161,3 +161,37 @@ From `scripts/verify_powerbi_data.py` against `data/cleaned/sales_cleaned.csv`:
 - [ ✅] Year / Region / Category / Product slicers update every visual
 - [ ✅] Cross-filtering from bars updates other visuals; no blank/unexpected visuals
 - [ ✅] No DAX errors; no hard-coded values anywhere
+
+---
+
+## 10. Page 2 Specification: Scenario & What-If Planning
+
+### Overview
+A dedicated executive sensitivity modeling canvas enabling dynamic revenue and profit forecasting based on price and volume adjustments.
+
+### Canvas Layout (1280 × 720)
+```
++-----------------------------------------------------------------------------+
+| Scenario & What-If Planning            [Price Change %: -20%..+30%] [Vol: -20%..+30%]
++-----------------------------------------------------------------------------+
+| [ BASELINE REVENUE ] [ SIMULATED REVENUE ] [ REVENUE DELTA ] [ SIM. MARGIN ] | Row 1: KPI strip
++-----------------------------------------------------------------------------+
+| [ Revenue Waterfall: Baseline -> Price Impact -> Vol Impact -> Simulated   ] | Row 2: Waterfall
++-----------------------------------------------------------------------------+
+| [ Simulated Revenue by Category (Bar) ] [ Simulated Profit by Region (Bar) ] | Row 3: Detail
++-----------------------------------------------------------------------------+
+```
+
+### Visual Specifications
+
+| # | Visual | Type | Fields / Axis | Metric Values | Notes |
+|---|---|---|---|---|---|
+| 1 | Price Slicer | Single-Value Slider | `'Price Change %'[Value]` | Parameter | Step: 1%, Range: -20% to +30%, Default: 0% |
+| 2 | Volume Slicer | Single-Value Slider | `'Volume Change %'[Value]` | Parameter | Step: 1%, Range: -20% to +30%, Default: 0% |
+| 3 | Baseline Revenue | Card | — | `[Total Revenue]` | Currency USD |
+| 4 | Simulated Revenue | Card | — | `[Simulated Revenue]` | Currency USD |
+| 5 | Revenue Variance | Card | — | `[Revenue Delta]` | Dynamic +/- variance in USD |
+| 6 | Projected Margin | Card | — | `[Simulated Profit Margin]` | Percentage, 2 dp |
+| 7 | Revenue Impact | Waterfall Chart | Category = `{"Baseline", "Price Impact", "Volume Impact"}` | `[Total Revenue]`, `[Revenue Delta]`, `[Simulated Revenue]` | Decomposes price vs. volume impact on top line |
+| 8 | Category Simulation | Clustered Bar | Y = `sales_cleaned[Category]` | X = `[Total Revenue]` & `[Simulated Revenue]` | Side-by-side actual vs. simulated comparison |
+| 9 | Region Profit Impact | Clustered Bar | Y = `sales_cleaned[Region]` | X = `[Total Profit]` & `[Simulated Profit]` | Profit impact per geography |

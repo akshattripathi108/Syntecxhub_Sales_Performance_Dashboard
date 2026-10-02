@@ -77,3 +77,68 @@ RETURN
 --   Monthly view : each month vs the same month of the prior year.
 -- Recommended page default filter: Year = 2024, so the Growth Rate KPI card
 -- shows a meaningful +8.28% instead of a cross-window figure.
+
+-- ============================================================================
+-- WHAT-IF SCENARIO PARAMETERS & MEASURES (PAGE 2)
+-- ============================================================================
+
+-- ----------------------------------------------------------------------------
+-- STEP 1 — WHAT-IF PARAMETER TABLES
+-- Modeling > New table > paste each block
+-- ----------------------------------------------------------------------------
+
+'Price Change %' = 
+GENERATESERIES(-0.20, 0.30, 0.01)
+
+-- Format: Percentage, 0 decimals. Add as Slicer (Single Value / Slider). Default: 0%
+
+'Volume Change %' = 
+GENERATESERIES(-0.20, 0.30, 0.01)
+
+-- Format: Percentage, 0 decimals. Add as Slicer (Single Value / Slider). Default: 0%
+
+
+-- ----------------------------------------------------------------------------
+-- STEP 2 — SCENARIO CALCULATIONS
+-- Modeling > New measure > paste one block at a time
+-- ----------------------------------------------------------------------------
+
+Price Change % Value = 
+SELECTEDVALUE('Price Change %'[Value], 0)
+
+Volume Change % Value = 
+SELECTEDVALUE('Volume Change %'[Value], 0)
+
+Baseline Cost = 
+[Total Revenue] - [Total Profit]
+
+Simulated Revenue = 
+[Total Revenue] * (1 + [Price Change % Value]) * (1 + [Volume Change % Value])
+
+-- Format: Currency (USD), 2 decimals
+
+Simulated Cost = 
+[Baseline Cost] * (1 + [Volume Change % Value])
+
+-- Format: Currency (USD), 2 decimals (variable costs scale with volume, fixed price)
+
+Simulated Profit = 
+[Simulated Revenue] - [Simulated Cost]
+
+-- Format: Currency (USD), 2 decimals
+
+Simulated Profit Margin = 
+DIVIDE([Simulated Profit], [Simulated Revenue], 0)
+
+-- Format: Percentage, 2 decimals
+
+Revenue Delta = 
+[Simulated Revenue] - [Total Revenue]
+
+-- Format: Currency (USD), 2 decimals (+/- dynamic variance)
+
+Profit Delta = 
+[Simulated Profit] - [Total Profit]
+
+-- Format: Currency (USD), 2 decimals (+/- dynamic variance)
+

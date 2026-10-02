@@ -101,3 +101,51 @@ RETURN
 - All time-based calculations rely on the contiguous `Date` table (no gaps).
 - `DATEADD(Date[Date], -1, YEAR)` is the single source of truth for "previous period."
 - If a slicer filters to a single year, Growth Rate will show `BLANK()` for the first year in context (no prior year to compare).
+
+---
+
+## What-If Scenario & Sensitivity Modeling (Page 2)
+
+### Parameter Tables
+
+| Table | Definition | Format | Description |
+|---|---|---|---|
+| `'Price Change %'` | `GENERATESERIES(-0.20, 0.30, 0.01)` | Percentage, 0 dp | Disconnected slider (-20% to +30%) |
+| `'Volume Change %'` | `GENERATESERIES(-0.20, 0.30, 0.01)` | Percentage, 0 dp | Disconnected slider (-20% to +30%) |
+
+### Scenario Measures
+
+#### 1. Price Change % Value & Volume Change % Value
+```dax
+Price Change % Value = SELECTEDVALUE('Price Change %'[Value], 0)
+Volume Change % Value = SELECTEDVALUE('Volume Change %'[Value], 0)
+```
+
+#### 2. Simulated Revenue
+```dax
+Simulated Revenue = 
+[Total Revenue] * (1 + [Price Change % Value]) * (1 + [Volume Change % Value])
+```
+
+#### 3. Simulated Profit
+```dax
+Baseline Cost = [Total Revenue] - [Total Profit]
+
+Simulated Cost = [Baseline Cost] * (1 + [Volume Change % Value])
+
+Simulated Profit = [Simulated Revenue] - [Simulated Cost]
+```
+*Note: Variable product costs scale with volume shift while price changes flow 100% to gross margin.*
+
+#### 4. Simulated Profit Margin
+```dax
+Simulated Profit Margin = 
+DIVIDE([Simulated Profit], [Simulated Revenue], 0)
+```
+
+#### 5. Revenue & Profit Delta (Variance)
+```dax
+Revenue Delta = [Simulated Revenue] - [Total Revenue]
+Profit Delta = [Simulated Profit] - [Total Profit]
+```
+

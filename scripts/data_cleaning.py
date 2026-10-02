@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 import os
 import pandas as pd
 from datetime import datetime
@@ -10,17 +10,6 @@ LOG_PATH = os.path.join(BASE, 'outputs', 'cleaning_log.csv')
 
 os.makedirs(os.path.dirname(CLEANED_PATH), exist_ok=True)
 os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
-
-def parse_date(date_str):
-    if pd.isna(date_str):
-        return pd.NaT
-    date_str = str(date_str).strip()
-    for fmt in ['%d-%m-%Y', '%m/%d/%Y', '%Y-%m-%d']:
-        try:
-            return datetime.strptime(date_str, fmt)
-        except:
-            pass
-    return pd.NaT
 
 def fmt_date_summary(series):
     s = pd.to_datetime(series, errors='coerce')
@@ -87,7 +76,7 @@ print()
 print('-' * 70)
 print('CHECK 4: Date Parsing')
 print('-' * 70)
-raw['Order_Date'] = raw['Order_Date'].apply(parse_date)
+raw['Order_Date'] = pd.to_datetime(raw['Order_Date'], format='mixed', dayfirst=True)
 print(f'Date range: {fmt_date_summary(raw["Order_Date"])}')
 log_rows.append({'check': 'date_parsing', 'detail': 'dates parsed', 'action': 'parsed'})
 

@@ -32,3 +32,9 @@ powerbi/*.ps1
 .runql-link/
 README_RUNQL.md
 
+# AI tooling (local-only)
+.aider-desk/
+.scratch/
+.agents/skills/
+skills-lock.json
+

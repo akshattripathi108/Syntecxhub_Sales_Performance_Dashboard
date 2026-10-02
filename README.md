@@ -575,11 +575,23 @@ The calculation safely handles situations where a comparable previous-period val
 
 ---
 
+## What-If Scenario Modeling Measures
+
+For sensitivity forecasting, the model incorporates disconnected parameter tables and dynamic scenario measures:
+
+* **Price Change % & Volume Change %**: Dual sliders (`GENERATESERIES(-0.20, 0.30, 0.01)`) for real-time scenario simulation.
+* **Simulated Revenue**: `[Total Revenue] * (1 + [Price Change % Value]) * (1 + [Volume Change % Value])`
+* **Simulated Profit**: `[Simulated Revenue] - ([Baseline Cost] * (1 + [Volume Change % Value]))`
+* **Revenue & Profit Variance**: Dynamic deltas comparing simulated outcomes against actual baseline performance.
+
+---
+
 # Dashboard Overview
 
-The final dashboard is designed as a **single-page executive sales dashboard**.
+The dashboard consists of two executive pages:
 
-The dashboard brings the most important performance indicators and analytical views together in one place.
+1. **Executive Sales Overview (Page 1)**: Core KPIs, chronological trends, regional and categorical breakdowns, and product rankings.
+2. **Scenario & What-If Planning (Page 2)**: Interactive pricing and volume sensitivity modeling with side-by-side KPI comparisons and waterfall revenue impact decomposition.
 
 The layout prioritizes:
 
@@ -1033,11 +1045,16 @@ Syntecxhub_Sales_Performance_Dashboard/
 ├── data/
 │   ├── raw/
 │   │   └── MOCK_DATA.csv
-│   │
-│   └── cleaned/
-│       └── sales_cleaned.csv
+│   ├── cleaned/
+│   │   └── sales_cleaned.csv
+│   ├── pbi_ready/
+│   │   └── sales_for_powerbi.csv
+│   └── quarantine/
+│       └── corrupted_orders.csv
 │
 ├── docs/
+│   ├── adr/
+│   │   └── 0001-automated-data-pipeline-architecture.md
 │   ├── DAX_MEASURES.md
 │   └── POWERBI_DASHBOARD.md
 │
@@ -1046,13 +1063,20 @@ Syntecxhub_Sales_Performance_Dashboard/
 │   ├── dashboard_spec.md
 │   ├── Create_Dashboard.ps1
 │   ├── Refresh_Dashboard.ps1
-│   └── Syntecxhub_Sales_Dashboard.pbix
+│   └── Syntecxhub_Project_Dashboard.pbix
 │
 ├── scripts/
+│   ├── pipeline.py
 │   ├── data_cleaning.py
+│   ├── export_for_powerbi.py
+│   ├── generate_data.py
 │   └── verify_powerbi_data.py
 │
+├── .github/
+│   └── workflows/
+│       └── pipeline.yml
 ├── .gitignore
+├── GLOSSARY.md
 ├── README.md
 └── requirements.txt
 ```
@@ -1134,18 +1158,30 @@ pip install -r requirements.txt
 
 # Running the Data Pipeline
 
-## Data Cleaning
+## Automated End-to-End Pipeline
 
-Run:
+Run the unified orchestrator:
 
 ```powershell
-python scripts/data_cleaning.py
+python scripts/pipeline.py
 ```
 
-The script processes the raw dataset and generates the cleaned analytical dataset:
+The orchestrator executes the complete pipeline:
+1. Ingests and sanitizes raw data from `data/raw/MOCK_DATA.csv`.
+2. Isolates corrupted records to `data/quarantine/corrupted_orders.csv`.
+3. Deduplicates transactions using a compound natural key (`Order_Date + Product + Region + Sales`).
+4. Updates clean analytical fact tables in `data/cleaned/sales_cleaned.csv`.
+5. Prepares denormalized Power BI exports in `data/pbi_ready/sales_for_powerbi.csv`.
+6. Logs structured telemetry to `outputs/pipeline_runs.json`.
 
-```text
-data/cleaned/sales_cleaned.csv
+### Pipeline Options
+
+```powershell
+# Ingest new batch incrementally
+python scripts/pipeline.py --input path/to/batch.csv --incremental
+
+# Validate data without writing files
+python scripts/pipeline.py --validate-only
 ```
 
 ---
@@ -1159,6 +1195,7 @@ python scripts/verify_powerbi_data.py
 ```
 
 The validation script independently checks the cleaned dataset and verifies the key reference metrics used during Power BI development.
+
 
 ---
 

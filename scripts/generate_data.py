@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Syntecxhub Sales Performance Dashboard
 Data Generation Script - Phase 2
@@ -12,12 +12,10 @@ Generates a realistic sales dataset with:
 """
 
 import pandas as pd
-# pyrefly: ignore [missing-import]
-import numpy as np
 from datetime import datetime, timedelta
 import random
+import os
 
-np.random.seed(42)
 random.seed(42)
 
 print("=" * 70)
@@ -227,11 +225,11 @@ orders = []
 
 for i in range(num_orders):
     # Random date uniformly distributed across the full 3-year range
-    day_offset = np.random.randint(0, total_days + 1)
+    day_offset = random.randint(0, total_days)
     order_date = start_date + timedelta(days=day_offset)
     
     # Random region (weighted by performance)
-    region = np.random.choice(list(region_factor.keys()), p=[0.25, 0.22, 0.18, 0.12, 0.13, 0.10])
+    region = random.choices(list(region_factor.keys()), weights=[0.25, 0.22, 0.18, 0.12, 0.13, 0.10])[0]
     
     # Random product (weighted towards popular items)
     product, category = random.choice(all_products)
@@ -246,11 +244,11 @@ for i in range(num_orders):
     region_mult = region_factor[region]
     
     # Quantity (1-5, skewed towards 1-2)
-    quantity = int(np.random.choice([1, 2, 3, 4, 5], p=[0.5, 0.25, 0.12, 0.08, 0.05]))
+    quantity = random.choices([1, 2, 3, 4, 5], weights=[0.5, 0.25, 0.12, 0.08, 0.05])[0]
     
     # Calculate sales and profit
-    sales = base_price * quantity * seasonal_mult * region_mult * np.random.uniform(0.9, 1.1)
-    profit = sales * margin * np.random.uniform(0.85, 1.15)
+    sales = base_price * quantity * seasonal_mult * region_mult * random.uniform(0.9, 1.1)
+    profit = sales * margin * random.uniform(0.85, 1.15)
     
     orders.append({
         "Order_Date": order_date.strftime("%d-%m-%Y"),
@@ -273,11 +271,9 @@ print(f"  Total Sales: ${df['Sales'].sum():,.2f}")
 print(f"  Total Profit: ${df['Profit'].sum():,.2f}")
 print(f"  Profit Margin: {(df['Profit'].sum()/df['Sales'].sum()*100):.2f}%")
 
-# Save to CSV
-BASE = __file__ if '__file__' in dir() else '.'
 import os
-BASE = os.path.dirname(os.path.abspath(__file__))
-output_path = os.path.join(BASE, '..', 'data', 'raw', 'MOCK_DATA.csv')
+
+output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'raw', 'MOCK_DATA.csv')
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 df.to_csv(output_path, index=False)
 print(f"\nSaved to: {output_path}")
